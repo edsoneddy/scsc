@@ -23,6 +23,11 @@ class MdiffAdapter():
         len_b = len(sequence_b)
         max_length = len_a + len_b
 
+        if max_length == 0:
+            # Both sequences empty: nothing to edit, and v below would only
+            # have room for index 0, one short of the v[1] seed it needs.
+            return 0
+
         v = [0] * (2 * max_length + 1)
         v[1] = 0
         for d in range(max_length + 1):
@@ -44,5 +49,8 @@ class MdiffAdapter():
         edit_distance = self.calculate_edit_distance(proccesed_code1, proccesed_code2)
         len_a = len(proccesed_code1)
         len_b = len(proccesed_code2)
-        
+
+        if len_a + len_b == 0:
+            # Both files tokenize to nothing: no basis for a match.
+            return 0.0
         return (1 - edit_distance / (len_a + len_b))

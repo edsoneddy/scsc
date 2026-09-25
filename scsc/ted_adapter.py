@@ -733,6 +733,8 @@ class TedAdapter:
         try:
             forward = self._plagiarism_percent(proccesed_code1, proccesed_code2)
             backward = self._plagiarism_percent(proccesed_code2, proccesed_code1)
-        except NoFuncException:
+        except (NoFuncException, AstParsingException):
+            # Empty / whitespace-only / comment-only files: add_main() wraps
+            # them into a function with no body, which fails to parse.
             return 0.0
         return (forward + backward) / 2

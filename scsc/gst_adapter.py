@@ -103,7 +103,14 @@ class Signature:
     
     def trimComments(self, line):
         if len(line) > 1 and line[:2] == "//":
-            line = ""
+            return ""
+        # Codesight targets C++ ("//"); this project only ever feeds it
+        # Python, whose comment marker is "#" (also used trailing, not just
+        # full-line) - without stripping it, comment text is tokenized as
+        # code and two structurally identical files with different comments
+        # look artificially dissimilar.
+        if "#" in line:
+            line = line.split("#", 1)[0]
         return line
     
     def toString(self, vector):
@@ -415,7 +422,10 @@ class GstAdapter:
         for i in range(copiedSequences):
             coverage += data[i][2]
         total = matches.getTokensLength(1) + matches.getTokensLength(2)
-        percent = (2 * coverage) / total
+        # Both files tokenize to nothing (empty / whitespace-only content):
+        # there is no basis for a match, so treat them as 0% similar instead
+        # of dividing by zero.
+        percent = (2 * coverage) / total if total > 0 else 0.0
         similarity_coefficient = round(percent, 2)
         
         return similarity_coefficient
