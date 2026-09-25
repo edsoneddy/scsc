@@ -71,7 +71,7 @@ class CodePreprocessor:
         token_hashes = [hash(token[0]) for token in tokens]
         return token_hashes
     
-    def normalize_code(self, file_name, code_string, lang = 'python'):
+    def normalize_code(self, file_name, code_string, lang = 'python_3_13'):
         T1 = ANTLR_parse(file_name, code_string, lang)
         normalized_tree = Normalize(T1, lang)
         pruned_tree, pruned_count = PruneAndHash(normalized_tree, lang)
