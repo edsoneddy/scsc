@@ -1524,8 +1524,12 @@ class LfAdapter:
                 "paths": paths_to_process,
                 "language": None,
                 "collision_threshold": 10,
-                "window_size": 15,
-                "kgram_len": 5,
+                # MOSS defaults (15/5) target large source files; on short
+                # (tens-to-hundreds-of-token) student solutions they leave too
+                # few fingerprints per file, so the Jaccard score swings wildly
+                # on trivial edits. 4/3 keeps results in line with ted/csim.
+                "window_size": 4,
+                "kgram_len": 3,
                 "top": 15,
             }
             # calculating the similarity coefficient, jaccard similarity

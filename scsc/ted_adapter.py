@@ -703,28 +703,36 @@ class TedAdapter:
     Repository: https://github.com/fyrestone/pycode_similar
     """
 
-    def get_similarity_coefficient(self, proccesed_code1, proccesed_code2):
-        similarity_coefficient = 0.0
-        pycode_list = [(name, content) for name, content in enumerate([proccesed_code1, proccesed_code2])]
+    def _plagiarism_percent(self, code_ref, code_candidate):
         # Arguments for the pycode_similar method
         args = {
-            'files': pycode_list,
+            'files': [(0, code_ref), (1, code_candidate)],
             'keep_prints': False,
             'module_level': False,
             'continue_on_error': False
         }
 
+        results = detect(
+            [c[1] for c in args["files"]],
+            keep_prints=args["keep_prints"],
+            module_level=args["module_level"],
+            continue_on_error=args["continue_on_error"]
+        )
+
+        percent = 0.0
+        for _, func_ast_diff_list in results:
+            percent, _, _ = summarize(func_ast_diff_list)
+        return percent
+
+    def get_similarity_coefficient(self, proccesed_code1, proccesed_code2):
+        # pycode_similar's plagiarism_percent is directional: it measures how
+        # much of the *reference* file's structure is found in the candidate,
+        # not a symmetric similarity (e.g. a short file fully contained in a
+        # long one scores ~1.0 as reference but far lower as candidate).
+        # Average both directions so the result doesn't depend on argument order.
         try:
-            results = detect(
-                [c[1] for c in args["files"]],
-                keep_prints=args["keep_prints"],
-                module_level=args["module_level"],
-                continue_on_error=args["continue_on_error"]
-            )
-            
-            for _, func_ast_diff_list in results:
-                sum_plagiarism_percent, _, _ = summarize(func_ast_diff_list)
-                similarity_coefficient = sum_plagiarism_percent
+            forward = self._plagiarism_percent(proccesed_code1, proccesed_code2)
+            backward = self._plagiarism_percent(proccesed_code2, proccesed_code1)
         except NoFuncException:
             return 0.0
-        return similarity_coefficient
+        return (forward + backward) / 2

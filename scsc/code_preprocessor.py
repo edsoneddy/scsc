@@ -1,7 +1,7 @@
 from .constants import IRRELEVANT_TOKENS, TOKENS_WITHOUT_TRANSFORMATION
 from pygments import lex
 from pygments.token import STANDARD_TYPES
-from pygments.lexers import guess_lexer
+from pygments.lexers import PythonLexer
 from csim import ANTLR_parse
 from csim import Normalize, PruneAndHash
 from .gst_adapter import SignatureFactory
@@ -13,6 +13,7 @@ class CodePreprocessor:
     def __init__(self, method):
         self.method = method
         self.token_table = self.create_token_table()
+        self.lexer = PythonLexer()
 
     def add_main(self, source_code):
         if ('def main():' in source_code):
@@ -33,10 +34,9 @@ class CodePreprocessor:
         return token_table
 
     def tokenize_code(self, code_string):
-        lexer = guess_lexer(code_string)
         tokens = []
 
-        for token in lex(code_string, lexer):
+        for token in lex(code_string, self.lexer):
             token_type = token[0]
             token_str = token[1]
             if token_type not in IRRELEVANT_TOKENS:
