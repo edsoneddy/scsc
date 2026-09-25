@@ -1,5 +1,10 @@
 from pygments.token import Token
 
+# Single source of truth for the method names accepted by --method/-m,
+# shared by the CLI, SimilarityChecker.Compare and similarity_checker so
+# they can't silently drift apart.
+SUPPORTED_METHODS = ["ted", "mdiff", "trs", "csim", "gst", "lf"]
+
 # Constants for filtering irrelevant tokens
 IRRELEVANT_TOKENS = {
     Token.Comment,

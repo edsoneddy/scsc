@@ -1,12 +1,11 @@
 from .code_preprocessor import CodePreprocessor
 from .similarity import get_similarity_method
+from .constants import SUPPORTED_METHODS
 
 
 def Compare(code_a, code_b, method):
-    # Suported methods for direct comparison
-    suported_methods = ["ted", "mdiff", "trs", "csim", "gst", "lf"]
     similarity_index = None
-    if method in suported_methods:
+    if method in SUPPORTED_METHODS:
         processor = CodePreprocessor(method)
         similarity_method = get_similarity_method(method)
 
