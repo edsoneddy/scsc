@@ -1,141 +1,198 @@
 File_1,File_2,Label,L0,L1,L2,L3,L4,L5,L6,Notes,Human_Label
-770656.py,792062.py,0,0,0,0,0,0,0,0,One uses a single boolean expression and the other a nested if/else cascade; no shared idiosyncrasies.,0
-150163.py,770668.py,0,0,0,0,0,0,0,0,Lambda one-liner vs a tab-indented nested-if function; entirely different styles.,0
-693835.py,770198.py,0,0,0,0,0,0,0,0,Nested-if 'anio' version vs the canonical single-expression version with variable 'xd'; independent.,0
-770607.py,770622.py,0,0,0,0,0,0,0,0,Both are the textbook single-boolean solution with different variable names; expected convergence.,0
-770567.py,770853.py,1,0,1,0,0,0,0,0,Same three-level nested cascade with identical variable 'a' and matching stray trailing-double-space artifacts after the inner if colons.,1
-773307.py,802351.py,0,0,0,0,0,0,0,0,One-space-indented %100-first cascade vs a range-guarded flag variable; unrelated.,0
-770668.py,770688.py,1,0,1,1,0,0,0,0,Identical four-level True/False nested-if function body; only the function name (año_bisiesto/es_bisiesto) and tab-vs-space indentation differ.,1
-694043.py,694110.py,1,1,1,0,0,0,0,0,"Byte-identical including the distinctive '#Años Bisiesto' comment and the 'print (""si"")' space-before-paren quirk; differ only in trailing blank lines.",1
-693083.py,773307.py,0,0,0,0,0,0,0,0,Integer-division trick vs one-space-indented %100-first cascade; no shared traits.,0
-773564.py,773593.py,0,0,0,0,0,0,0,0,Both canonical single-expression solutions; one collapses bodies onto the if line. Independent convergence.,0
-773501.py,773526.py,0,0,0,0,0,0,0,0,Identical but only because both are the exact canonical textbook form shared by ~25 submissions; no distinguishing marker.,0
-130230.py,784709.py,0,0,0,0,0,0,0,0,Same else-containing-nested-if shape but different variables and tab-vs-space indentation; a common beginner structure.,0
-693791.py,770198.py,0,0,0,0,0,0,0,0,Nested 'anio' cascade vs canonical one-expression solution; independent.,0
-773402.py,773553.py,0,0,0,0,0,0,0,0,Flag-variable approach vs a string-returning helper function; different designs.,0
-693732.py,711087.py,0,0,0,0,0,0,0,0,Nested cascade with comment vs a five-line canonical solution; independent.,0
-788409.py,791936.py,0,0,0,0,0,0,0,0,One has Spanish step comments and .strip(); the other uses reversed operand order and no comments.,0
-773102.py,797286.py,0,0,0,0,0,0,0,0,Helper function returning strings vs a range-guarded elif chain; unrelated.,0
-150163.py,781593.py,0,0,0,0,0,0,0,0,Lambda with the arithmetic formula vs a string-slicing approach on the year text; genuinely different techniques.,0
-791981.py,773255.py,0,0,0,0,0,0,0,0,"Both use the refactored '%4 and (%100 or %400)' grouping but with different names, spacing and parenthesization; that grouping is common here.",0
-770668.py,773593.py,0,0,0,0,0,0,0,0,Nested-if function vs a two-line canonical solution; independent.,0
-700505.py,772814.py,0,0,0,0,0,0,0,0,Hardcoded 1800/1900 special case vs a tab-indented %4-first cascade; unrelated.,0
-770632.py,770861.py,0,0,0,0,0,0,0,0,Both canonical single-expression solutions with different variable names; expected convergence.,0
-145335.py,773034.py,0,0,0,0,0,0,0,0,One-space-indented %100-first cascade vs canonical expression with .strip(); no shared traits.,0
-693660.py,693732.py,1,0,1,0,0,0,0,0,"Identical nested cascade with the 'print (""si"")' spacing quirk; the only difference is the added '#Años Bisiesto' header comment.",1
-693861.py,693862.py,1,1,1,0,0,0,0,0,Byte-identical nested 'anio' cascade including the print-space quirk and trailing blank lines.,1
-693406.py,711087.py,0,0,0,0,0,0,0,0,Both canonical single-expression; names and a stray blank line differ. Independent.,0
-773553.py,792059.py,0,0,0,0,0,0,0,0,Compact string-returning function vs a verbose flag-variable cascade; unrelated.,0
-773231.py,773241.py,0,0,0,0,0,0,0,0,Both canonical; the distinctive '#type(tipo)' comment appears in only one of them.,0
-770307.py,770505.py,0,0,0,0,0,0,0,0,Canonical body shared by many submissions; one adds '#type(tipo)' but the other has no distinguishing marker to tie it to that cluster.,0
-783785.py,797286.py,0,0,0,0,0,0,0,0,Boolean-returning helper vs a range-guarded elif chain; different designs.,0
-770840.py,773298.py,0,0,0,0,0,0,0,0,Three-branch elif chain vs a string-returning function; unrelated.,0
-770568.py,771190.py,0,0,0,0,0,0,0,0,Both use an elif chain with two 'si' branches and single quotes but with the branch order swapped and different names/spacing; plausibly independent.,0
-134018.py,772683.py,0,0,0,0,0,0,0,0,Unparenthesized single expression vs a one-space-indented %100-first cascade; unrelated.,0
-772939.py,773322.py,1,0,1,1,0,0,0,0,Both use the non-canonical reversed form '(X % 400 == 0) or (X % 4 == 0 and X % 100 != 0)' with identical parenthesization and spacing; only the variable name differs.,1
-694043.py,770594.py,0,0,0,0,0,0,0,0,Nested 'anio' cascade with comment vs a range-guarded canonical expression; unrelated.,0
-770032.py,772683.py,0,0,0,0,0,0,0,0,Positive-guard canonical expression vs a one-space-indented cascade; unrelated.,0
-770568.py,770688.py,0,0,0,0,0,0,0,0,Elif chain vs a nested-if boolean function; different designs.,0
-693775.py,693791.py,1,0,1,0,0,0,0,0,"Same nested 'anio' cascade with the 'print (""si"")' spacing quirk; differ only by the '#Años Bisiesto' comment and a trailing blank line.",1
-693083.py,797132.py,1,0,1,0,1,0,1,0,Both replace the %400 test with the unusual integer-division trick (n//100 % 4 == 0) - an idiosyncratic shared technique - though restructured from one flat expression into a nested if.,1
-694120.py,770941.py,1,1,1,0,0,0,0,0,Byte-identical nested 'anio' cascade with the print-space quirk; differ only in trailing whitespace.,1
-770323.py,771377.py,1,0,1,0,0,0,0,0,Identical tab-indented body with the idiosyncratic 'if a%100==0 and a%400==0' followed by 'elif a%100!=0'; only a blank-line/stray-space difference.,1
-145335.py,772847.py,0,0,0,0,0,0,0,0,One-space-indented cascade vs canonical expression with .strip(); unrelated.,0
-693861.py,770538.py,0,0,0,0,0,0,0,0,Nested cascade vs a compact canonical expression; independent.,0
-773323.py,802351.py,0,0,0,0,0,0,0,0,Hardcoded 1800/1900 hack vs a range-guarded flag variable; unrelated.,0
-145335.py,149217.py,1,1,1,0,0,0,0,0,"Byte-identical, including the unusual one-space indentation, single quotes and %100-tested-first inverted cascade.",1
-771377.py,771668.py,0,0,0,0,0,0,0,0,Tab-indented cascade vs a one-line ternary print; unrelated.,0
-771668.py,797132.py,0,0,0,0,0,0,0,0,Ternary print vs a nested if using the //100 trick; unrelated.,0
-770076.py,797132.py,0,0,0,0,0,0,0,0,Boolean helper with if/elif vs an inline nested if using integer division; unrelated.,0
-770835.py,771661.py,0,0,0,0,0,0,0,0,Ternary print with an extracted boolean vs a nested-if helper function; different designs.,0
-770032.py,770594.py,0,0,0,0,0,0,0,0,"Both wrap the canonical expression in a guard, but the guards (N > 0 vs a range check) and names/indentation differ.",0
-771513.py,771636.py,0,0,0,0,0,0,0,0,Both canonical single-expression solutions with different names and blank-line placement; expected convergence.,0
-693823.py,773322.py,0,0,0,0,0,0,0,0,Nested 'anio' cascade vs reversed-order single expression; unrelated.,0
-773402.py,779722.py,0,0,0,0,0,0,0,0,Flag-variable cascade vs a range-guarded function assigning a 'frase' string; different designs.,0
-761526.py,783785.py,0,0,0,0,0,0,0,0,"Both use a boolean helper plus if/else at top level, but the names differ and only one uses the odd 'not a%100==0'; independent.",0
-770005.py,770051.py,0,0,0,0,0,0,0,0,"Both canonical; only one carries the '#type(tipo)' comment, and the other has no marker tying it to that cluster.",0
-770062.py,772815.py,1,1,1,0,0,0,0,0,"Byte-identical, sharing the distinctive compact style with no spaces around operators and asymmetric parentheses (last term unparenthesized).",1
-693406.py,693732.py,0,0,0,0,0,0,0,0,Canonical single expression vs a nested cascade; unrelated.,0
-770835.py,771668.py,0,0,0,0,0,0,0,0,"Both print via a ternary, but the boolean formulas are grouped differently and one extracts a variable; a natural Pythonic convergence.",0
-771077.py,771124.py,0,0,0,0,0,0,0,0,Both canonical single-expression solutions with different names and spacing; expected convergence.,0
-770510.py,770513.py,0,0,0,0,0,0,0,0,Both the exact canonical textbook form shared across many submissions; no distinguishing marker.,0
-791916.py,791919.py,1,0,1,0,0,0,0,0,"Same refactored '%4 and (%100 or %400)' expression, identical structure, differing only in spacing around operators.",1
-693406.py,694043.py,0,0,0,0,0,0,0,0,Canonical expression vs a nested cascade with comment; unrelated.,0
-761526.py,770323.py,0,0,0,0,0,0,0,0,Helper function vs a tab-indented inline cascade; unrelated.,0
-773298.py,788270.py,1,0,1,1,0,0,0,0,"Identical design of a helper returning the literal strings 'si'/'no' then print(es_bisiesto(x)), same body line for line; only the parameter name differs.",1
-791922.py,791932.py,1,0,1,0,1,0,0,0,Otherwise byte-identical compact refactored expression; the only change is the output literal 'si ' with a trailing space plus extra blank lines.,1
-693083.py,773497.py,0,0,0,0,0,0,0,0,Integer-division trick vs a one-space-indented cascade; unrelated.,0
-693823.py,693835.py,1,0,1,0,0,0,0,0,Same nested 'anio' cascade with the print-space quirk; differ only by the '#Años Bisiesto' comment and a blank line.,1
-770509.py,770586.py,0,0,0,0,0,0,0,0,"Both use the refactored grouping but with different names, indent widths and inconsistent spacing quirks unique to each.",0
-770840.py,779722.py,0,0,0,0,0,0,0,0,Elif chain vs a range-guarded function returning a string variable; unrelated.,0
-791946.py,791980.py,1,1,1,0,0,0,0,0,Byte-identical compact refactored expression; no differences at all.,1
-770987.py,771047.py,0,0,0,0,0,0,0,0,"Both the canonical textbook form; only trailing whitespace differs, and that form is shared by many submissions.",0
-773298.py,792059.py,0,0,0,0,0,0,0,0,String-returning helper vs a verbose commented flag-variable cascade; unrelated.,0
-773177.py,773462.py,0,0,0,0,0,0,0,0,One reads all of stdin in a loop; the other is a nested-if helper. Completely different.,0
-693919.py,694040.py,1,1,1,0,0,0,0,0,"Byte-identical nested 'anio' cascade including the 'print (""si"")' spacing quirk.",1
-770606.py,770669.py,0,0,0,0,0,0,0,0,Tab-indented %100-first cascade vs a range-guarded single expression; unrelated.,0
-693535.py,797286.py,0,0,0,0,0,0,0,0,Nested function definition inside a range check vs a flat elif chain; unrelated.,0
-771292.py,771342.py,0,0,0,0,0,0,0,0,Both canonical single-expression solutions with different variable names; expected convergence.,0
-770076.py,771661.py,0,0,0,0,0,0,0,0,"Share only the very common Spanish helper name es_bisiesto; one uses if/elif returning booleans, the other a nested if returning a comparison.",0
-770853.py,788409.py,0,0,0,0,0,0,0,0,Nested cascade vs a commented canonical expression with .strip(); unrelated.,0
-770323.py,783785.py,0,0,0,0,0,0,0,0,Inline tab-indented cascade vs a boolean helper function; unrelated.,0
-773070.py,781593.py,0,0,0,0,0,0,0,0,Canonical arithmetic expression vs a string-slicing approach; genuinely different techniques.,0
-770637.py,770840.py,0,0,0,0,0,0,0,0,Nested else-if structure vs a flat three-branch elif chain; unrelated.,0
-770634.py,773102.py,0,0,0,0,0,0,0,0,Inline cascade using (a/100)%4 vs a helper with the refactored boolean; unrelated.,0
-693791.py,711087.py,0,0,0,0,0,0,0,0,Nested cascade with comment vs the canonical single expression; unrelated.,0
-770051.py,772916.py,0,0,0,0,0,0,0,0,Canonical single expression vs a messy three-level nested cascade; unrelated.,0
-770606.py,791936.py,0,0,0,0,0,0,0,0,Tab-indented %100-first cascade vs a reversed-order single expression; unrelated.,0
-770198.py,770222.py,0,0,0,0,0,0,0,0,Both canonical with different names and spacing conventions; expected convergence.,0
-773013.py,773070.py,0,0,0,0,0,0,0,0,"Both canonical; differ in quote style, spacing and the input("""") argument. Independent.",0
-134018.py,771243.py,1,0,1,0,0,0,0,0,"Shared typographic fingerprint in the condition: double space after 'if', double space before 'and', and the odd '%100 !=0' spacing, all identical.",1
-770076.py,773487.py,0,0,0,0,0,0,0,0,Boolean helper function vs an inline range-guarded expression; unrelated.,0
-771465.py,773013.py,0,0,0,0,0,0,0,0,Nested cascade vs a canonical single expression; unrelated.,0
-773402.py,792059.py,1,0,1,0,0,1,0,0,Both use the same distinctive 'es_bisiesto = False' flag-variable design with nested ifs mutating the flag before a final if; one reorganizes the assignments into explicit else branches.,1
-772847.py,773034.py,1,0,1,0,0,0,0,0,Both add an unnecessary int(input().strip()) to the same canonical body and are otherwise identical apart from trailing whitespace.,1
-770060.py,770130.py,0,0,0,0,0,0,0,0,Both the exact canonical textbook form differing only by a blank line; that form is shared by many submissions.,0
-693861.py,770515.py,0,0,0,0,0,0,0,0,Nested cascade vs the canonical single expression; unrelated.,0
-770606.py,770634.py,0,0,0,0,0,0,0,0,"Both test %100 first, but one uses a nested if/else pair and the other (a/100)%4 with an elif; different enough.",0
-772991.py,772998.py,0,0,0,0,0,0,0,0,Both canonical; differ in variable name and 2-vs-4-space indentation. Independent.,0
-761526.py,771190.py,0,0,0,0,0,0,0,0,Boolean helper function vs an inline elif chain; unrelated.,0
-771465.py,773459.py,0,0,0,0,0,0,0,0,Nested three-level cascade vs the canonical single expression; unrelated.,0
-770669.py,773487.py,1,0,1,1,1,0,0,0,Both combine an unusual 1800..9999 range guard with the non-obvious second disjunct '%100==0 and %400==0' instead of a plain %400 test; only names and parenthesization differ.,1
-770567.py,788409.py,0,0,0,0,0,0,0,0,Nested cascade vs a commented canonical expression; unrelated.,0
-770594.py,773462.py,0,0,0,0,0,0,0,0,Range-guarded inline expression vs a string-returning nested-if helper; unrelated.,0
-773441.py,773459.py,0,0,0,0,0,0,0,0,Both canonical with different names and blank-line placement; expected convergence.,0
-772916.py,773459.py,0,0,0,0,0,0,0,0,Messy nested cascade vs the canonical single expression; unrelated.,0
-772897.py,772906.py,0,0,0,0,0,0,0,0,Both the exact canonical textbook form differing only by a trailing blank line; no distinguishing marker.,0
-770853.py,773013.py,0,0,0,0,0,0,0,0,Nested cascade vs a canonical single expression; unrelated.,0
-770895.py,773170.py,1,0,1,0,0,0,0,0,Both share the refactored grouping wrapped in redundant outer parentheses - 'if (año % 4 == 0 and (...)):' - identical character for character apart from blank lines.,1
-772814.py,773497.py,0,0,0,0,0,0,0,0,Tab-indented %4-first cascade vs a one-space-indented %100-first cascade; unrelated.,0
-693823.py,791936.py,0,0,0,0,0,0,0,0,Nested cascade vs a reversed-order single expression; unrelated.,0
-700505.py,773323.py,1,0,1,0,0,0,0,0,"Both use the same incorrect hardcoded special case 'if(n==1800 or n==1900): print(""no"")' followed by a bare %4 test; identical apart from inserted blank lines.",1
-693862.py,770538.py,0,0,0,0,0,0,0,0,Nested cascade vs a compact canonical expression; unrelated.,0
-693835.py,770515.py,0,0,0,0,0,0,0,0,Nested cascade with comment vs the canonical single expression; unrelated.,0
-770637.py,770669.py,0,0,0,0,0,0,0,0,Nested else-if structure vs a range-guarded single expression; unrelated.,0
-773307.py,773497.py,1,1,1,0,0,0,0,0,"Byte-identical, sharing the unusual one-space indentation, single quotes and the inverted %100-first cascade.",1
-773323.py,773487.py,0,0,0,0,0,0,0,0,Hardcoded 1800/1900 hack vs a range-guarded boolean expression; unrelated.,0
-770634.py,788270.py,0,0,0,0,0,0,0,0,Inline cascade using (a/100)%4 vs a string-returning helper; unrelated.,0
-700505.py,771377.py,0,0,0,0,0,0,0,0,Hardcoded special case vs a tab-indented %4-first cascade; unrelated.,0
-773144.py,773229.py,0,0,0,0,0,0,0,0,Both the exact canonical textbook form differing only by a blank line; shared by many submissions.,0
-772840.py,790617.py,0,0,0,0,0,0,0,0,Both use the unparenthesized 'and ... or ...' condition but with different names and none of the other's double-space spacing quirks.,0
-773462.py,779722.py,0,0,0,0,0,0,0,0,Nested-if string-returning helper vs a range-guarded function assigning 'frase'; unrelated.,0
-770549.py,775971.py,1,0,1,1,0,0,0,0,"Both use the same reordered elif chain testing %400 first with two separate 'si' branches, line for line; only the variable name and spacing differ.",1
-773177.py,802351.py,0,0,0,0,0,0,0,0,stdin loop vs a range-guarded flag variable; completely different.,0
-693535.py,770835.py,0,0,0,0,0,0,0,0,Nested function inside a range check vs a two-line ternary print; unrelated.,0
-770538.py,770541.py,0,0,0,0,0,0,0,0,Both canonical; differ in name and spacing conventions. Independent.,0
-770688.py,773177.py,0,0,0,0,0,0,0,0,Nested-if helper vs an stdin-reading loop; unrelated.,0
-134018.py,771366.py,0,0,0,0,0,0,0,0,Single expression vs a one-space-indented %100-first cascade; unrelated.,0
-149217.py,772847.py,0,0,0,0,0,0,0,0,One-space-indented cascade vs canonical expression with .strip(); unrelated.,0
-773339.py,773377.py,0,0,0,0,0,0,0,0,Both the exact canonical textbook form differing only in trailing whitespace; shared by many submissions.,0
-773102.py,773553.py,0,0,0,0,0,0,0,0,"Both use a string-returning helper, but the boolean grouping and the else-vs-fallthrough return differ; a natural design convergence.",0
-693535.py,771190.py,0,0,0,0,0,0,0,0,Nested function inside a range check vs an inline elif chain; unrelated.,0
-771366.py,772683.py,1,0,1,1,0,0,0,0,"Identical apart from the variable name, sharing the unusual one-space indentation, single quotes and inverted %100-first cascade.",1
-772928.py,772985.py,0,0,0,0,0,0,0,0,Both canonical with different names and a blank-line difference; expected convergence.,0
-770032.py,771366.py,0,0,0,0,0,0,0,0,Guarded canonical expression vs a one-space-indented cascade; unrelated.,0
-771465.py,772916.py,0,0,0,0,0,0,0,0,"Same nested three-level cascade shape, but the other file's distinctive broken indentation and trailing spaces are absent here; the cascade itself is one of two obvious structures.",0
-770515.py,770519.py,0,0,0,0,0,0,0,0,Both canonical with different names; expected convergence.,0
-771661.py,773070.py,0,0,0,0,0,0,0,0,Nested-if helper function vs an inline canonical expression; unrelated.,0
-149217.py,773034.py,0,0,0,0,0,0,0,0,One-space-indented cascade vs canonical expression with .strip(); unrelated.,0
-770568.py,788270.py,0,0,0,0,0,0,0,0,Inline elif chain vs a string-returning helper; unrelated.,0
-770555.py,770569.py,0,0,0,0,0,0,0,0,Both canonical; differ in name and whether spaces surround the parenthesized groups. Independent.,0
-770567.py,773593.py,0,0,0,0,0,0,0,0,Nested cascade vs a two-line canonical solution; unrelated.,0
+709191.py,710996.py,1,1,0,0,0,0,0,0,Byte-for-byte identical including the 1 <= n <= 10 guard and EOFError handling.,1
+736123.py,746688.py,1,0,1,1,0,0,0,0,Line-for-line identical template (same trailing-space blank lines and n range guard) with identifiers shortened to g/b/res vs generar/v/I/D.,1
+750310.py,750821.py,1,1,0,0,0,0,0,0,Identical files including the unusual I/D counter names and padded blank lines.,1
+750854.py,761810.py,1,0,1,1,0,0,0,0,Same file with I/D renamed to izq/der and the function renamed generar_parentecis; formatting otherwise identical.,1
+740388.py,740478.py,1,1,0,0,0,0,0,0,Identical including the full set of Spanish comments word for word.,1
+740523.py,740551.py,1,0,1,0,0,0,0,0,Same code with the Spanish comment block simply stripped out of one copy.,1
+740769.py,740802.py,1,0,1,1,0,0,0,0,Idiosyncratic names (metele_nomas/jeneraxd) abbreviated to gen/a/c/s but the variable enie survives in both.,1
+741147.py,741388.py,1,0,1,1,0,0,0,0,Same 4-parameter recursion and driver as the jeneraxd/enie version with identifiers renamed to neutral Spanish.,1
+685767.py,691098.py,1,0,1,1,0,0,0,0,Shared idiosyncratic default-argument signature and izq+der == 2*n base case; only the function name differs by one letter.,1
+691272.py,748852.py,1,1,0,0,0,0,0,0,Identical files.,1
+736581.py,737407.py,1,0,1,1,0,0,0,0,Same default-argument recursion line for line; abiertos/cerrados shortened to a/c and the function renamed.,1
+748843.py,750704.py,1,0,1,1,0,0,0,0,Docstrings and comments are the same sentences lightly paraphrased and the same unusual decrementing-counter scheme is used.,1
+750149.py,750170.py,1,1,0,0,0,0,0,0,Identical files.,1
+144882.py,757068.py,1,1,0,0,0,0,0,0,Identical including the global st=['0']*30 buffer and tab indentation.,1
+148148.py,148204.py,1,1,0,0,0,0,0,0,Differ only in trailing whitespace and blank lines.,1
+688370.py,691311.py,1,1,0,0,0,0,0,0,Identical including the stack push/pop variant and the raise ValueError() range check.,1
+688750.py,691391.py,1,1,0,0,0,0,0,0,Identical including the misspelled parentsis list and the odd 5/12-space indentation in the driver.,1
+691322.py,691347.py,1,1,0,0,0,0,0,0,Identical including the unused N=10000000000 constant.,1
+738424.py,748799.py,1,1,0,0,0,0,0,0,Identical brute-force bitmask enumeration - an unusual approach for this problem.,1
+738469.py,746871.py,1,0,1,0,0,0,0,0,Same code; one copy just adds Spanish explanatory comments.,1
+738482.py,748715.py,1,1,0,0,0,0,0,0,Identical including the misleading function name generate_parentheses_with_bits.,1
+740123.py,740131.py,1,1,0,0,0,0,0,0,Identical apart from padded blank lines.,1
+740331.py,741631.py,1,0,1,0,0,0,0,0,Same code and same inline comments; one copy drops the leading header comment.,1
+740507.py,740642.py,1,0,1,0,0,0,0,0,Identical code with comments added in one copy.,1
+740622.py,741467.py,1,1,0,0,0,0,0,0,Identical files.,1
+750074.py,750492.py,1,0,1,0,0,0,0,0,Identical including comment wording; only a backtick inside one comment differs.,1
+685581.py,739115.py,1,0,1,1,0,0,0,0,Same closure plus main() with import sys and sys.stdin.read; only the list and loop variable names differ.,1
+748786.py,750846.py,1,0,1,1,0,0,0,0,Same resultados=None sentinel pattern and driver; apertura/cierre renamed abiertos/cerrados and quote style changed.,1
+750772.py,749576.py,1,0,1,1,1,0,0,0,Identical docstrings and comments plus the same decrementing scheme; one copy adds an extra n == 0 break.,1
+750345.py,691195.py,1,0,1,1,1,0,0,0,"Same closure and the same main() boilerplate (import sys inside main, stdin.read, strip().split()); current renamed and an intermediate cases list added.",1
+749541.py,750035.py,1,0,1,0,0,0,0,0,Same distinctive decrementing-counter variant with comments stripped; differences are blank lines and input().strip().,1
+682028.py,688540.py,1,0,1,1,1,1,0,0,The recursive function is byte identical including the unusual uppercase S default parameter; only the driver is reorganized.,1
+762371.py,750409.py,1,0,1,1,0,0,0,0,"Same circulated template including the 1 <= n <= 10 guard inside the read loop, with Spanish identifiers translated to English.",1
+686982.py,749301.py,1,0,1,1,1,1,0,0,Same default-argument signature order and body line for line; renamed and the try/while nesting swapped.,1
+681451.py,740841.py,1,0,1,1,1,0,0,0,"Same signature (n, abiertos=0, cerrados=0, secuencia) and driver; only the base-case formulation differs.",1
+741661.py,750237.py,1,0,1,1,1,0,0,0,Same default-argument recursion wrapped in main() with try outside while; Spanish identifiers translated to English.,1
+748749.py,750613.py,1,0,1,1,1,0,0,0,Same closure plus the shared 'read line and break if empty' driver; aperturas/cierres renamed and comments added.,1
+749200.py,750073.py,1,0,1,1,1,1,0,0,Same nested backtrack with default arguments and the input = sys.stdin.read idiom; printing reorganized.,1
+739375.py,750007.py,1,0,1,1,1,1,0,0,Same resultado=None sentinel recursion line for line; only the input-reading block in main differs.,1
+738680.py,741446.py,1,0,1,1,1,1,0,0,"Same 5-parameter (n, open, close, sequence, result) recursion translated English/Spanish with a wrapper added.",1
+740898.py,741074.py,1,0,1,1,0,0,0,0,"Shares a highly idiosyncratic technique - parallel binary string, tuples of (int(binary,2), text), reverse sort - with identifiers reduced to single letters.",1
+738296.py,740142.py,1,0,1,1,1,1,0,0,Same default-argument print-based recursion; renamed and the stdin reading changed from line iteration to read().splitlines().,1
+738247.py,749568.py,1,0,1,1,0,0,0,0,"Shares the unusual mutable default resultados=[] plus the keyword call generar_parentesis(n, resultados=resultados).",1
+749023.py,749337.py,1,0,1,1,1,1,0,0,Same closure and main() with import sys inside and for line in sys.stdin; identifiers abbreviated (bt/res/secu).,1
+686574.py,736458.py,1,0,1,1,1,1,0,0,Recursive body maps 1:1 with the same parameter order and the same named-driver plus __main__ shell; identifiers fully renamed.,1
+740299.py,741211.py,1,0,1,1,1,1,0,0,"Both use the same append/pop mutable-list variant with ''.join and open==n and close==n base case, structurally 1:1.",1
+682980.py,749138.py,1,0,1,1,1,1,0,0,Same 5-parameter recursion and the same main() with import sys/stdin.read and a fresh result list per case; parameter order reordered.,1
+740338.py,749040.py,1,0,1,1,1,1,0,0,Same print-based recursion with n as the last parameter and identical main/try/EOFError/__main__ shell; renamed English/Spanish.,1
+738486.py,740245.py,1,0,1,1,1,0,0,0,Both add the same distinctive imprimir_secuencias* printing wrapper over the same recursion and per-line stdin loop.,1
+739116.py,748796.py,1,0,1,1,1,1,0,0,"Same default-argument signature order (n, sec, open, close) and body; identifiers abbreviated and driver switched to try/while.",1
+740275.py,748335.py,1,0,1,1,1,1,0,0,Converted to counting down but the n parameter is kept and left unused in one copy while the driver is otherwise identical.,1
+748717.py,748959.py,1,0,1,1,1,1,0,0,Same append/pop list variant with ''.join; one keeps the odd generate_parentheses_with_bits name and the other collects into a list.,1
+746677.py,749479.py,1,0,1,1,1,1,0,0,Both redundantly pass the result list into a nested closure that could capture it - the same quirk - with counts-first parameter order.,1
+691301.py,740111.py,1,0,1,1,1,1,0,0,Same mutable-stack append/pop with ''.join and counts-up base case plus main() with import sys inside; restructured into a closure.,1
+688670.py,749940.py,1,0,1,1,1,1,1,0,"Recursion replaced by an explicit tuple stack but both keep the stack/pila framing, return sorted(resultado) and the same driver.",1
+738550.py,740197.py,1,1,0,0,0,0,0,0,Byte-identical files (verified manually after Opus agent hit rate limit).,1
+131678.py,131714.py,1,0,1,1,0,0,0,0,Same idiosyncratic sw/flag skeleton with redundant 'if n==0 and n<10' and 'if n<=10' branches; only single-letter identifiers differ (a/x vs b/y).,1
+131765.py,131770.py,1,1,0,0,0,0,0,0,Byte-for-byte identical submissions.,1
+145296.py,723547.py,1,1,0,0,0,0,0,0,Byte-for-byte identical (same y/b/y variant of the flag-based solution).,1
+131666.py,131705.py,1,0,1,1,0,0,0,0,"Identical redundant flag skeleton (num==0 and num<10 test, s flag, d product); only counter/digit variable names differ.",1
+131746.py,131784.py,1,1,0,0,0,0,0,0,Byte-for-byte identical.,1
+133088.py,688705.py,1,0,1,0,0,0,0,0,Identical recursive mul_digitos helper and driver; only the leading '# Productos' comment and blank lines differ.,1
+694431.py,720904.py,1,0,1,0,0,0,0,0,Same recursive mul_digitos solution; differs only by trailing whitespace on blank lines.,1
+721264.py,721337.py,1,0,1,0,0,0,0,0,Identical code; one adds the inline comment '# Numero de casos de prueba'.,1
+723098.py,723107.py,1,1,0,0,0,0,0,0,"Byte-for-byte identical, including the same inline comment.",1
+721274.py,722177.py,1,0,1,1,0,0,0,0,"Shares the unusual 'n_c' case-count name and a line-for-line identical loop; only iteraciones->interacccion, producto->product, digito->dig renamed.",1
+721988.py,723011.py,1,0,1,1,0,0,0,0,Identical two-function split (multiplicar_digitos + contar_pasos with redundant 'if n<10: return 0') line for line; only renamed to p/p1/p2.,1
+723585.py,775454.py,1,0,1,1,0,0,0,0,Same contar_pasos with redundant early-return guard and same driver; differs only in blank lines and casos/numero naming.,1
+131305.py,775505.py,1,1,0,0,0,0,0,0,Byte-for-byte identical recursive 'per' solution.,1
+131503.py,775704.py,1,1,0,0,0,0,0,0,"Byte-for-byte identical, including the odd 'z=\ pasos\""' string-concatenation output.""",1
+720940.py,721115.py,1,1,0,0,0,0,0,0,"Byte-for-byte identical, including the special-case 'if n == 0' branch.",1
+720960.py,745341.py,1,1,0,0,0,0,0,0,"Byte-for-byte identical, same tab indentation and ans/aux naming.",1
+723131.py,723194.py,1,1,0,0,0,0,0,0,"Identical apart from a trailing newline, including the same trailing-space comment artifacts and result-list output.",1
+775405.py,775673.py,1,0,1,0,0,0,0,0,Same code with identical n/c/p/d naming; only indentation width and the one-line for-loop split differ.,1
+775638.py,775649.py,1,1,0,0,0,0,0,0,"Byte-for-byte identical, including the sys.stdin.read token slicing.",1
+775720.py,775738.py,1,1,0,0,0,0,0,0,"Byte-for-byte identical, including identical sys.stdin.readline driver.",1
+775747.py,775795.py,1,0,1,1,0,0,0,0,"Same redundant 'len==1 -> print 0 pasos, continue' early exit and identical string-based loop; only identifiers renamed.",1
+775760.py,775920.py,1,0,1,1,0,0,0,0,Same contar_pasos with early-return guard and identical driver; only digito->d and t->C renamed.,1
+131589.py,131781.py,1,0,1,1,0,0,0,0,Both share the idiosyncratic redundant outer 'if m>9' plus while/else-print construct; pure identifier rename otherwise.,1
+723137.py,723139.py,1,0,1,0,0,0,0,0,"Identical program; one calls input(\\"") instead of input().""",1
+723549.py,131543.py,1,0,1,1,0,0,0,0,Same flag-based skeleton with the redundant 'x==0 and x<10' and 'x<=10' branches; identifiers renamed (s->sw etc.).,1
+723417.py,775578.py,1,0,1,1,0,0,0,0,Same input().strip() string loop line for line; the second is a reindented (1-space) copy with shortened names.,1
+723384.py,775817.py,1,0,1,1,0,0,0,0,"Both use the less common recursive 'return 1 + f(producto)' formulation with the same if/else shape; only names and input(\\"") differ.""",1
+775539.py,721391.py,1,0,1,1,1,1,0,0,Identical contar_pasos body including the redundant guard and blank-line placement; second only wraps the driver in a function.,1
+722124.py,723400.py,1,0,1,1,1,0,0,0,multiplicar_digitos bodies are identical line for line (including the misleading name for a step counter) and both use main()/__main__; only driver details differ.,1
+722225.py,723275.py,1,0,1,1,1,1,0,0,Identical function body plus the shared 'if n == 0: return 0' quirk; differs by renaming and by buffering output in a list.,1
+722497.py,723510.py,1,0,1,1,1,0,0,0,Both reuse the input variable n itself as the product accumulator inside the loop - an idiosyncratic choice shared by no other submission here.,1
+775440.py,775889.py,1,0,1,1,1,1,0,0,"Same string-based loop with the redundant 'len(n)==1 -> print 0 pasos, continue' guard; only renames and minor statement reordering.",1
+723282.py,775425.py,1,0,1,1,1,0,0,0,"Both compare the raw input against the string \0\"" for the early exit and both round-trip str(multiplicar_digitos(...)) inside a len()>1 loop - a distinctive shared combination.""",1
+721474.py,767182.py,1,0,1,1,1,0,0,0,"Identical contar_pasos body with the same redundant guard; second adds type annotations and renames producto->nuevo_n, main() flattened.",1
+136279.py,138834.py,1,0,1,1,1,0,0,0,Same tab-indented skeleton with the unusual placement of the step increment before the inner digit loop; renames plus one extra copy variable.,1
+723271.py,775495.py,1,0,1,1,1,1,0,0,"Both read all input via sys.stdin.read inside a function, index data[i] over range(1,t+1), buffer f-strings and print '\n'.join(...) under __main__ - a distinctive combination; digit product inlined in one.",1
+750170.py,775704.py,0,0,0,0,0,0,0,0,Different sub-problem (balanced parentheses vs multiplicative persistence); unrelated implementations.,0
+750310.py,722818.py,0,0,0,0,0,0,0,0,Different sub-problem (balanced parentheses vs multiplicative persistence); unrelated implementations.,0
+750854.py,775673.py,0,0,0,0,0,0,0,0,Different sub-problem (balanced parentheses vs multiplicative persistence); unrelated implementations.,0
+739375.py,138834.py,0,0,0,0,0,0,0,0,Different sub-problem (balanced parentheses vs multiplicative persistence); unrelated implementations.,0
+757068.py,723062.py,0,0,0,0,0,0,0,0,Different sub-problem (balanced parentheses vs multiplicative persistence); unrelated implementations.,0
+739116.py,131670.py,0,0,0,0,0,0,0,0,Different sub-problem (balanced parentheses vs multiplicative persistence); unrelated implementations.,0
+750149.py,721274.py,0,0,0,0,0,0,0,0,Different sub-problem (balanced parentheses vs multiplicative persistence); unrelated implementations.,0
+738296.py,131666.py,0,0,0,0,0,0,0,0,Different sub-problem (balanced parentheses vs multiplicative persistence); unrelated implementations.,0
+685767.py,723394.py,0,0,0,0,0,0,0,0,Different sub-problem (balanced parentheses vs multiplicative persistence); unrelated implementations.,0
+749200.py,775885.py,0,0,0,0,0,0,0,0,Different sub-problem (balanced parentheses vs multiplicative persistence); unrelated implementations.,0
+750170.py,723549.py,0,0,0,0,0,0,0,0,Different sub-problem (balanced parentheses vs multiplicative persistence); unrelated implementations.,0
+738486.py,723453.py,0,0,0,0,0,0,0,0,Different sub-problem (balanced parentheses vs multiplicative persistence); unrelated implementations.,0
+148198.py,775649.py,0,0,0,0,0,0,0,0,Different sub-problem (balanced parentheses vs multiplicative persistence); unrelated implementations.,0
+782936.py,131627.py,0,0,0,0,0,0,0,0,Different sub-problem (balanced parentheses vs multiplicative persistence); unrelated implementations.,0
+688670.py,131543.py,0,0,0,0,0,0,0,0,Different sub-problem (balanced parentheses vs multiplicative persistence); unrelated implementations.,0
+739375.py,775738.py,0,0,0,0,0,0,0,0,Different sub-problem (balanced parentheses vs multiplicative persistence); unrelated implementations.,0
+740388.py,723394.py,0,0,0,0,0,0,0,0,Different sub-problem (balanced parentheses vs multiplicative persistence); unrelated implementations.,0
+682028.py,775536.py,0,0,0,0,0,0,0,0,Different sub-problem (balanced parentheses vs multiplicative persistence); unrelated implementations.,0
+750307.py,721337.py,0,0,0,0,0,0,0,0,Different sub-problem (balanced parentheses vs multiplicative persistence); unrelated implementations.,0
+750073.py,723384.py,0,0,0,0,0,0,0,0,Different sub-problem (balanced parentheses vs multiplicative persistence); unrelated implementations.,0
+740111.py,723131.py,0,0,0,0,0,0,0,0,Different sub-problem (balanced parentheses vs multiplicative persistence); unrelated implementations.,0
+740331.py,723510.py,0,0,0,0,0,0,0,0,Different sub-problem (balanced parentheses vs multiplicative persistence); unrelated implementations.,0
+741211.py,723095.py,0,0,0,0,0,0,0,0,Different sub-problem (balanced parentheses vs multiplicative persistence); unrelated implementations.,0
+145588.py,723585.py,0,0,0,0,0,0,0,0,Different sub-problem (balanced parentheses vs multiplicative persistence); unrelated implementations.,0
+691272.py,723011.py,0,0,0,0,0,0,0,0,Different sub-problem (balanced parentheses vs multiplicative persistence); unrelated implementations.,0
+740879.py,722177.py,0,0,0,0,0,0,0,0,Different sub-problem (balanced parentheses vs multiplicative persistence); unrelated implementations.,0
+691272.py,775412.py,0,0,0,0,0,0,0,0,Different sub-problem (balanced parentheses vs multiplicative persistence); unrelated implementations.,0
+740551.py,721318.py,0,0,0,0,0,0,0,0,Different sub-problem (balanced parentheses vs multiplicative persistence); unrelated implementations.,0
+740299.py,723107.py,0,0,0,0,0,0,0,0,Different sub-problem (balanced parentheses vs multiplicative persistence); unrelated implementations.,0
+741074.py,131529.py,0,0,0,0,0,0,0,0,Different sub-problem (balanced parentheses vs multiplicative persistence); unrelated implementations.,0
+690879.py,723271.py,0,0,0,0,0,0,0,0,Different sub-problem (balanced parentheses vs multiplicative persistence); unrelated implementations.,0
+709191.py,722138.py,0,0,0,0,0,0,0,0,Different sub-problem (balanced parentheses vs multiplicative persistence); unrelated implementations.,0
+709191.py,775670.py,0,0,0,0,0,0,0,0,Different sub-problem (balanced parentheses vs multiplicative persistence); unrelated implementations.,0
+741147.py,722111.py,0,0,0,0,0,0,0,0,Different sub-problem (balanced parentheses vs multiplicative persistence); unrelated implementations.,0
+690879.py,775866.py,0,0,0,0,0,0,0,0,Different sub-problem (balanced parentheses vs multiplicative persistence); unrelated implementations.,0
+148204.py,775670.py,0,0,0,0,0,0,0,0,Different sub-problem (balanced parentheses vs multiplicative persistence); unrelated implementations.,0
+144882.py,720904.py,0,0,0,0,0,0,0,0,Different sub-problem (balanced parentheses vs multiplicative persistence); unrelated implementations.,0
+740142.py,775812.py,0,0,0,0,0,0,0,0,Different sub-problem (balanced parentheses vs multiplicative persistence); unrelated implementations.,0
+688370.py,723062.py,0,0,0,0,0,0,0,0,Different sub-problem (balanced parentheses vs multiplicative persistence); unrelated implementations.,0
+748852.py,775920.py,0,0,0,0,0,0,0,0,Different sub-problem (balanced parentheses vs multiplicative persistence); unrelated implementations.,0
+749200.py,722225.py,0,0,0,0,0,0,0,0,Different sub-problem (balanced parentheses vs multiplicative persistence); unrelated implementations.,0
+691020.py,723271.py,0,0,0,0,0,0,0,0,Different sub-problem (balanced parentheses vs multiplicative persistence); unrelated implementations.,0
+740111.py,775536.py,0,0,0,0,0,0,0,0,Different sub-problem (balanced parentheses vs multiplicative persistence); unrelated implementations.,0
+740802.py,721423.py,0,0,0,0,0,0,0,0,Different sub-problem (balanced parentheses vs multiplicative persistence); unrelated implementations.,0
+691301.py,721276.py,0,0,0,0,0,0,0,0,Different sub-problem (balanced parentheses vs multiplicative persistence); unrelated implementations.,0
+747217.py,131503.py,0,0,0,0,0,0,0,0,Different sub-problem (balanced parentheses vs multiplicative persistence); unrelated implementations.,0
+749479.py,775495.py,0,0,0,0,0,0,0,0,Different sub-problem (balanced parentheses vs multiplicative persistence); unrelated implementations.,0
+736458.py,131765.py,0,0,0,0,0,0,0,0,Different sub-problem (balanced parentheses vs multiplicative persistence); unrelated implementations.,0
+740507.py,775412.py,0,0,0,0,0,0,0,0,Different sub-problem (balanced parentheses vs multiplicative persistence); unrelated implementations.,0
+691347.py,131503.py,0,0,0,0,0,0,0,0,Different sub-problem (balanced parentheses vs multiplicative persistence); unrelated implementations.,0
+688670.py,723035.py,0,0,0,0,0,0,0,0,Different sub-problem (balanced parentheses vs multiplicative persistence); unrelated implementations.,0
+750613.py,136279.py,0,0,0,0,0,0,0,0,Different sub-problem (balanced parentheses vs multiplicative persistence); unrelated implementations.,0
+750854.py,145296.py,0,0,0,0,0,0,0,0,Different sub-problem (balanced parentheses vs multiplicative persistence); unrelated implementations.,0
+737407.py,722225.py,0,0,0,0,0,0,0,0,Different sub-problem (balanced parentheses vs multiplicative persistence); unrelated implementations.,0
+749023.py,131705.py,0,0,0,0,0,0,0,0,Different sub-problem (balanced parentheses vs multiplicative persistence); unrelated implementations.,0
+740197.py,131305.py,0,0,0,0,0,0,0,0,Different sub-problem (balanced parentheses vs multiplicative persistence); unrelated implementations.,0
+740802.py,775704.py,0,0,0,0,0,0,0,0,Different sub-problem (balanced parentheses vs multiplicative persistence); unrelated implementations.,0
+741388.py,775747.py,0,0,0,0,0,0,0,0,Different sub-problem (balanced parentheses vs multiplicative persistence); unrelated implementations.,0
+681451.py,694431.py,0,0,0,0,0,0,0,0,Different sub-problem (balanced parentheses vs multiplicative persistence); unrelated implementations.,0
+739116.py,722124.py,0,0,0,0,0,0,0,0,Different sub-problem (balanced parentheses vs multiplicative persistence); unrelated implementations.,0
+691347.py,131553.py,0,0,0,0,0,0,0,0,Different sub-problem (balanced parentheses vs multiplicative persistence); unrelated implementations.,0
+738424.py,720904.py,0,0,0,0,0,0,0,0,Different sub-problem (balanced parentheses vs multiplicative persistence); unrelated implementations.,0
+750074.py,721096.py,0,0,0,0,0,0,0,0,Different sub-problem (balanced parentheses vs multiplicative persistence); unrelated implementations.,0
+148148.py,775505.py,0,0,0,0,0,0,0,0,Different sub-problem (balanced parentheses vs multiplicative persistence); unrelated implementations.,0
+746871.py,775649.py,0,0,0,0,0,0,0,0,Different sub-problem (balanced parentheses vs multiplicative persistence); unrelated implementations.,0
+741211.py,722111.py,0,0,0,0,0,0,0,0,Different sub-problem (balanced parentheses vs multiplicative persistence); unrelated implementations.,0
+691020.py,131646.py,0,0,0,0,0,0,0,0,Different sub-problem (balanced parentheses vs multiplicative persistence); unrelated implementations.,0
+691311.py,694431.py,0,0,0,0,0,0,0,0,Different sub-problem (balanced parentheses vs multiplicative persistence); unrelated implementations.,0
+748799.py,721496.py,0,0,0,0,0,0,0,0,Different sub-problem (balanced parentheses vs multiplicative persistence); unrelated implementations.,0
+750237.py,131746.py,0,0,0,0,0,0,0,0,Different sub-problem (balanced parentheses vs multiplicative persistence); unrelated implementations.,0
+749023.py,138834.py,0,0,0,0,0,0,0,0,Different sub-problem (balanced parentheses vs multiplicative persistence); unrelated implementations.,0
+738482.py,721276.py,0,0,0,0,0,0,0,0,Different sub-problem (balanced parentheses vs multiplicative persistence); unrelated implementations.,0
+740299.py,775624.py,0,0,0,0,0,0,0,0,Different sub-problem (balanced parentheses vs multiplicative persistence); unrelated implementations.,0
+740507.py,775433.py,0,0,0,0,0,0,0,0,Different sub-problem (balanced parentheses vs multiplicative persistence); unrelated implementations.,0
+749040.py,775738.py,0,0,0,0,0,0,0,0,Different sub-problem (balanced parentheses vs multiplicative persistence); unrelated implementations.,0
+750605.py,723400.py,0,0,0,0,0,0,0,0,Different sub-problem (balanced parentheses vs multiplicative persistence); unrelated implementations.,0
+686982.py,131678.py,0,0,0,0,0,0,0,0,Different sub-problem (balanced parentheses vs multiplicative persistence); unrelated implementations.,0
+757068.py,775885.py,0,0,0,0,0,0,0,0,Different sub-problem (balanced parentheses vs multiplicative persistence); unrelated implementations.,0
+740551.py,720967.py,0,0,0,0,0,0,0,0,Different sub-problem (balanced parentheses vs multiplicative persistence); unrelated implementations.,0
+749138.py,721049.py,0,0,0,0,0,0,0,0,Different sub-problem (balanced parentheses vs multiplicative persistence); unrelated implementations.,0
+749576.py,775638.py,0,0,0,0,0,0,0,0,Different sub-problem (balanced parentheses vs multiplicative persistence); unrelated implementations.,0
+750704.py,721264.py,0,0,0,0,0,0,0,0,Different sub-problem (balanced parentheses vs multiplicative persistence); unrelated implementations.,0
+762371.py,136279.py,0,0,0,0,0,0,0,0,Different sub-problem (balanced parentheses vs multiplicative persistence); unrelated implementations.,0
+740197.py,775795.py,0,0,0,0,0,0,0,0,Different sub-problem (balanced parentheses vs multiplicative persistence); unrelated implementations.,0
+740131.py,775454.py,0,0,0,0,0,0,0,0,Different sub-problem (balanced parentheses vs multiplicative persistence); unrelated implementations.,0
+148204.py,131627.py,0,0,0,0,0,0,0,0,Different sub-problem (balanced parentheses vs multiplicative persistence); unrelated implementations.,0
+740769.py,722177.py,0,0,0,0,0,0,0,0,Different sub-problem (balanced parentheses vs multiplicative persistence); unrelated implementations.,0
+750149.py,721035.py,0,0,0,0,0,0,0,0,Different sub-problem (balanced parentheses vs multiplicative persistence); unrelated implementations.,0
+738978.py,721217.py,0,0,0,0,0,0,0,0,Different sub-problem (balanced parentheses vs multiplicative persistence); unrelated implementations.,0
+748799.py,723137.py,0,0,0,0,0,0,0,0,Different sub-problem (balanced parentheses vs multiplicative persistence); unrelated implementations.,0
+737407.py,131666.py,0,0,0,0,0,0,0,0,Different sub-problem (balanced parentheses vs multiplicative persistence); unrelated implementations.,0
+748786.py,131765.py,0,0,0,0,0,0,0,0,Different sub-problem (balanced parentheses vs multiplicative persistence); unrelated implementations.,0
+746871.py,723585.py,0,0,0,0,0,0,0,0,Different sub-problem (balanced parentheses vs multiplicative persistence); unrelated implementations.,0
+762371.py,723282.py,0,0,0,0,0,0,0,0,Different sub-problem (balanced parentheses vs multiplicative persistence); unrelated implementations.,0
+738247.py,723384.py,0,0,0,0,0,0,0,0,Different sub-problem (balanced parentheses vs multiplicative persistence); unrelated implementations.,0
+682980.py,775812.py,0,0,0,0,0,0,0,0,Different sub-problem (balanced parentheses vs multiplicative persistence); unrelated implementations.,0
+748749.py,775405.py,0,0,0,0,0,0,0,0,Different sub-problem (balanced parentheses vs multiplicative persistence); unrelated implementations.,0
+682980.py,131508.py,0,0,0,0,0,0,0,0,Different sub-problem (balanced parentheses vs multiplicative persistence); unrelated implementations.,0
+691098.py,723068.py,0,0,0,0,0,0,0,0,Different sub-problem (balanced parentheses vs multiplicative persistence); unrelated implementations.,0
+741467.py,721318.py,0,0,0,0,0,0,0,0,Different sub-problem (balanced parentheses vs multiplicative persistence); unrelated implementations.,0
+738211.py,131646.py,0,0,0,0,0,0,0,0,Different sub-problem (balanced parentheses vs multiplicative persistence); unrelated implementations.,0
+691098.py,722818.py,0,0,0,0,0,0,0,0,Different sub-problem (balanced parentheses vs multiplicative persistence); unrelated implementations.,0
+686574.py,775762.py,0,0,0,0,0,0,0,0,Different sub-problem (balanced parentheses vs multiplicative persistence); unrelated implementations.,0
+748385.py,721462.py,0,0,0,0,0,0,0,0,Different sub-problem (balanced parentheses vs multiplicative persistence); unrelated implementations.,0
+750409.py,775762.py,0,0,0,0,0,0,0,0,Different sub-problem (balanced parentheses vs multiplicative persistence); unrelated implementations.,0
