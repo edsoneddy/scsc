@@ -1,12 +1,12 @@
-"""Builds the pair files of dataset A2 exactly as fixed in docs/dataset_A2_protocol.md.
+"""Builds the pair files of dataset A exactly as fixed in docs/dataset_A_protocol.md.
 
 Positives: (orig, Lk) of every problem, k = 1..6 (54 pairs, label 1).
 Negatives: every pair of two files of different problems (label 0). Two files are written:
 
-* A2_dataset_validated.csv       54 positives + 54 negatives sampled with
+* A_dataset_validated.csv       54 positives + 54 negatives sampled with
                                  random.Random(20260926).sample(sorted(negatives), 54)
                                  (for F1/accuracy/precision/recall).
-* A2_full_dataset_validated.csv  54 positives + all negatives (for the AUC).
+* A_full_dataset_validated.csv  54 positives + all negatives (for the AUC).
 
 No similarity score is used anywhere in this script.
 """
@@ -15,12 +15,12 @@ import os
 import random
 
 HERE = os.path.dirname(os.path.abspath(__file__))
-A2_DIR = os.path.join(HERE, "..", "datasets", "A2")
+A_DIR = os.path.join(HERE, "..", "datasets", "A")
 OUT_DIR = os.path.join(HERE, "validated_datasets")
 SEED = 20260926
 N_NEG_SAMPLE = 54
 
-manifest = list(csv.DictReader(open(os.path.join(A2_DIR, "MANIFEST.csv"), encoding="utf-8")))
+manifest = list(csv.DictReader(open(os.path.join(A_DIR, "MANIFEST.csv"), encoding="utf-8")))
 problem_of = {r["file"]: r["problem"] for r in manifest}
 files = sorted(problem_of)
 
@@ -54,6 +54,6 @@ def write(name, rows):
 
 
 neg_note = "Different problems (cross-problem pair)."
-write("A2_dataset_validated.csv", positives + [row(a, b, 0, None, neg_note) for a, b in sorted(sample)])
-write("A2_full_dataset_validated.csv", positives + [row(a, b, 0, None, neg_note) for a, b in negatives])
+write("A_dataset_validated.csv", positives + [row(a, b, 0, None, neg_note) for a, b in sorted(sample)])
+write("A_full_dataset_validated.csv", positives + [row(a, b, 0, None, neg_note) for a, b in negatives])
 print(len(positives), "positives;", len(negatives), "negatives in total;", len(sample), "sampled")
