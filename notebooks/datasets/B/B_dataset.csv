@@ -71,3 +71,161 @@ submission45.py,submission46.py,1,0,1,1,1,1,1,0,"Same three-function read/square
 submission55.py,submission58.py,1,0,1,1,1,1,1,0,"Same JSON pipeline, literals, list-comprehension filter and summary keys; the average function swaps a conditional expression for an early-return guard."
 submission35.py,submission37.py,1,0,1,1,1,0,0,0,Identical naive is-prime loop and collect-into-list driver with the same limit 50 and print shape; a pure rename of functions and variables.
 submission122.py,submission126.py,1,0,1,1,1,1,0,0,"Identical MobileDevice class, add_device and list_devices bodies and comments; 126 only adds a search-by-model procedure (and a broken __main__ guard)."
+submission101.py,submission102.py,1,1,0,0,0,0,0,0,DNA mutation script byte-identical apart from trailing whitespace.
+submission101.py,submission103.py,1,0,1,1,1,0,0,0,"Same DNA-mutation structure with renamed identifiers, same hardcoded sequence ATGCTAGCTAGT and print strings, only default rate literal changed."
+submission102.py,submission103.py,1,0,1,1,1,0,0,0,"Same DNA-mutation structure with renamed identifiers, identical hardcoded sequence and prints, changed default rate literal."
+submission112.py,submission113.py,1,0,1,1,1,0,0,0,Identical sqlite CRUD skeleton and comment-for-comment match; table/field names renamed and sample row literals changed.
+submission112.py,submission115.py,1,0,1,1,1,0,0,0,Identical sqlite CRUD skeleton and comments; users table renamed to employees and sample row literals changed.
+submission112.py,submission158.py,1,0,1,1,1,0,0,0,Same sqlite CRUD skeleton line-for-line; functions/variables renamed and db name plus sample row changed.
+submission113.py,submission158.py,1,0,1,1,1,0,0,0,Same sqlite CRUD skeleton line-for-line; customers renamed to staff with changed db name and sample row.
+submission117.py,submission152.py,1,0,1,1,1,0,0,0,"Identical iris load/split/train/joblib-dump script with verbatim comments; variables renamed, estimator class and split constants changed."
+submission119.py,submission152.py,1,0,1,1,1,0,0,0,Identical iris LogisticRegression pipeline with verbatim comments; variables renamed and test_size/random_state/max_iter constants changed.
+submission130.py,submission153.py,1,0,1,1,1,0,0,0,"Book-with-price-update registry reproduced as Publication with cost update; same structure and comments, renamed members and changed sample literals."
+submission131.py,submission151.py,1,0,1,1,1,0,0,0,Four-attribute book/publication registry with identical structure and comments; renamed members and changed sample titles (same author Yuval Noah Harari reused).
+submission131.py,submission161.py,1,0,1,1,0,0,0,0,Book vs Novel registry identical line-for-line with the exact same hardcoded sample data (The Alchemist / Sapiens with same prices and genres); pure renaming.
+submission14.py,submission15.py,1,0,1,1,1,0,0,0,Recursive factorial with validator helper reproduced with renamed functions/variables and reworded prompt strings; identical logic shape.
+submission144.py,submission145.py,1,1,0,0,0,0,0,0,psutil CPU/memory/disk monitor is byte-identical.
+submission144.py,submission155.py,1,0,1,1,0,0,0,0,"Same psutil three-check monitor with identical ordering and comments; functions and locals renamed, output labels reworded."
+submission145.py,submission155.py,1,0,1,1,0,0,0,0,Same psutil three-check monitor; only identifier renaming and reworded output labels.
+submission147.py,submission148.py,1,0,1,1,1,0,0,0,"Population growth CSV/matplotlib pipeline identical in structure, subplot layout and orange growth line; renamed functions and changed growth column name/titles."
+submission147.py,submission149.py,1,0,1,1,1,0,0,0,Same population growth pipeline with identical subplot layout and styling; renamed functions and changed column name/plot titles.
+submission147.py,submission156.py,1,0,1,1,1,0,0,0,Same population growth pipeline; renamed functions/variables and changed growth column key and titles.
+submission147.py,submission26.py,1,0,1,0,0,0,0,0,Effectively the same file: only the __main__ guard string and trailing whitespace differ.
+submission147.py,submission27.py,1,0,1,1,1,0,0,0,Same population growth pipeline with identical subplot/marker/color choices; renamed functions and changed growth column key and titles.
+submission148.py,submission149.py,1,1,0,0,0,0,0,0,Population growth scripts are byte-identical.
+submission148.py,submission156.py,1,0,1,1,1,0,0,0,Same population growth pipeline; renamed functions/variables and changed growth column key and plot titles.
+submission148.py,submission26.py,1,0,1,1,1,0,0,0,Same population growth pipeline; renamed functions and changed growth column key and titles.
+submission148.py,submission27.py,1,0,1,1,1,0,0,0,Same population growth pipeline; renamed functions/variables and changed growth column key and titles.
+submission149.py,submission156.py,1,0,1,1,1,0,0,0,Same population growth pipeline; renamed functions and changed growth column key and titles.
+submission149.py,submission26.py,1,0,1,1,1,0,0,0,Same population growth pipeline; renamed functions and changed growth column key and titles.
+submission149.py,submission27.py,1,0,1,1,1,0,0,0,Same population growth pipeline; renamed functions and changed growth column key and titles.
+submission151.py,submission161.py,1,0,1,1,1,0,0,0,Publication vs Novel four-attribute registry identical line-for-line and comment-for-comment; renamed members and changed sample literals.
+submission156.py,submission26.py,1,0,1,1,1,0,0,0,Same population growth pipeline; renamed functions/variables and changed growth column key and titles.
+submission156.py,submission27.py,1,0,1,1,1,0,0,0,Same population growth pipeline; renamed functions and changed growth column key and titles.
+submission160.py,submission87.py,1,0,1,1,0,0,0,0,"Quicksort with the same first-element pivot and two list comprehensions on the identical input array [10,7,8,9,1,5]; only renaming and reworded prints."
+submission162.py,submission163.py,1,0,1,1,1,0,0,0,"Institution-with-list-of-units class identical in structure and method sequence; renamed class/members, changed sample names and bullet prefix."
+submission162.py,submission164.py,1,0,1,1,1,0,0,0,Same institution/unit-list class structure and three add-calls; renamed members and changed sample literals.
+submission162.py,submission165.py,1,0,1,1,1,0,0,0,Same institution/unit-list class structure and three add-calls; renamed members and changed sample literals.
+submission164.py,submission165.py,1,0,1,1,1,0,0,0,Same institution/unit-list class structure and three add-calls; renamed members and changed sample literals.
+submission166.py,submission168.py,1,0,1,1,1,0,0,0,Patient registry identical line-for-line with parallel comments; renamed class/attributes and changed patient sample data.
+submission167.py,submission169.py,1,0,1,1,1,0,0,0,Patient registry identical line-for-line with parallel comments; renamed class/attributes and changed patient sample data.
+submission168.py,submission169.py,1,0,1,1,1,0,0,0,Patient registry identical line-for-line with parallel comments; renamed class/attributes and changed patient sample data.
+submission170.py,submission173.py,1,0,1,1,1,0,0,0,Car registry identical line-for-line with parallel comments; renamed class/attributes and changed vehicle sample data.
+submission170.py,submission174.py,1,0,1,1,1,0,0,0,Car registry identical line-for-line with parallel comments; renamed class/attributes and changed vehicle sample data.
+submission172.py,submission173.py,1,0,1,1,1,0,0,0,Car registry identical line-for-line with parallel comments; renamed class/attributes and changed vehicle sample data.
+submission172.py,submission174.py,1,0,1,1,1,0,0,0,Car registry identical line-for-line with parallel comments; renamed class/attributes and changed vehicle sample data.
+submission173.py,submission174.py,1,0,1,1,1,0,0,0,Car registry identical line-for-line with parallel comments; renamed class/attributes and changed vehicle sample data.
+submission18.py,submission19.py,1,0,1,1,1,0,0,0,Factorial-with-logging-and-repeat-loop program matches function for function including docstring placement; renamed identifiers and changed log filename/messages.
+submission20.py,submission21.py,1,0,1,1,1,0,0,0,"Unusual combination of recursive plus iterative factorial, digit-sum and logging menu reproduced exactly; renamed identifiers and changed log filename."
+submission24.py,submission25.py,1,0,1,1,1,0,0,0,"ATM class with identical menu branches, same $100 seed balance and same validation ordering; renamed members and reworded messages."
+submission31.py,submission32.py,1,1,0,0,0,0,0,0,Recursive factorial scripts are byte-identical.
+submission35.py,submission39.py,1,0,1,1,0,0,0,0,Naive is_prime plus list-builder with the same limit of 50 and same output format; only renaming and slight print rewording.
+submission37.py,submission39.py,1,0,1,1,0,0,0,0,Naive is_prime plus list-builder with the same limit of 50 and same output format; only renaming.
+submission40.py,submission44.py,1,0,1,1,0,0,0,0,"Sort-dicts-by-age with the identical hardcoded roster (Alice 34, Bob 23, Charlie 29, Diana 40, Eve 22); only renaming and reworded header."
+submission42.py,submission44.py,1,0,1,1,0,0,0,0,Sort-dicts-by-age with the identical hardcoded roster and same lambda key; only renaming and reworded header.
+submission47.py,submission49.py,1,0,1,1,0,0,0,0,Read-ints/square/write pipeline with identical comprehensions and input.txt/output.txt literals; only renaming.
+submission6.py,submission7.py,1,0,1,1,0,0,0,0,"Bubble sort with identical nested-loop bounds, swap idiom, module-level call and same input array; only renaming."
+submission65.py,submission66.py,1,0,1,1,0,0,0,0,XML book filter using the same comprehension/filter-lambda/map style and identical booksReport tag and file literals; only renaming.
+submission8.py,submission9.py,1,0,1,1,0,0,0,0,"Iterative Fibonacci with same tuple-swap idiom, n=10 module-level call and the same '10th Fibonacci number' message; only renaming."
+submission92.py,submission93.py,1,0,1,1,1,0,0,0,"List-backed container class reproduced as Stack and Queue with the same five-method layout and same main driver pushing 1,2,3; differences reduce to pop index/peek index."
+submission139.py,submission150.py,1,0,1,1,1,0,0,0,"Threading demo with same two-thread start/join layout, same range(5) loop and parallel comments; renamed identifiers and changed thread names/delays."
+submission61.py,submission62.py,1,0,1,1,1,1,0,0,Same ElementTree book-filter pipeline with identical file names and year threshold 2000; SubElement writing reorganized from two-step to inline assignment.
+submission61.py,submission63.py,1,0,1,1,1,1,1,0,"Same book-filter pipeline and identical literals, but ElementTree findall replaced by lxml etree with an XPath query - equivalent construct substitution."
+submission132.py,submission135.py,1,0,1,1,1,0,0,0,openpyxl workbook writer identical statement for statement with the same comments; renamed function and different header/data literals.
+submission133.py,submission135.py,1,0,1,1,1,0,0,0,openpyxl workbook writer identical statement for statement; renamed function and different header/data literals.
+submission45.py,submission47.py,1,0,1,1,0,0,0,0,Read-ints/square/write pipeline with identical comprehensions and file literals; only renaming.
+submission45.py,submission49.py,1,0,1,1,0,0,0,0,Read-ints/square/write pipeline with identical comprehensions and file literals; only renaming.
+submission123.py,submission129.py,1,0,1,1,1,0,0,0,Beyond the shared registry template both use the same idiosyncratic slice-assignment removal (lst[:] = [x for x in lst if ...]) in the same position with parallel comments and before/after listing flow.
+submission117.py,submission121.py,1,0,1,1,1,0,0,0,iris script identical including verbatim comments and test_size/random_state; only the classifier class and dump filename differ.
+submission119.py,submission121.py,1,0,1,1,1,0,0,0,iris script identical including verbatim comments and split constants; only the estimator class and dump filename differ.
+submission121.py,submission152.py,1,0,1,1,1,0,0,0,"Same iris load/split/train/dump script with verbatim comment set; variables renamed, estimator and split constants changed."
+submission5.py,submission72.py,0,0,0,0,0,0,0,0,Low similarity across methods (mdiff=0.036); independent implementations.
+submission3.py,submission72.py,0,0,0,0,0,0,0,0,Low similarity across methods (mdiff=0.036); independent implementations.
+submission2.py,submission72.py,0,0,0,0,0,0,0,0,Low similarity across methods (mdiff=0.036); independent implementations.
+submission1.py,submission72.py,0,0,0,0,0,0,0,0,Low similarity across methods (mdiff=0.036); independent implementations.
+submission5.py,submission71.py,0,0,0,0,0,0,0,0,Low similarity across methods (mdiff=0.04); independent implementations.
+submission3.py,submission71.py,0,0,0,0,0,0,0,0,Low similarity across methods (mdiff=0.04); independent implementations.
+submission2.py,submission71.py,0,0,0,0,0,0,0,0,Low similarity across methods (mdiff=0.04); independent implementations.
+submission1.py,submission71.py,0,0,0,0,0,0,0,0,Low similarity across methods (mdiff=0.04); independent implementations.
+submission5.py,submission68.py,0,0,0,0,0,0,0,0,Low similarity across methods (mdiff=0.041); independent implementations.
+submission3.py,submission68.py,0,0,0,0,0,0,0,0,Low similarity across methods (mdiff=0.041); independent implementations.
+submission2.py,submission68.py,0,0,0,0,0,0,0,0,Low similarity across methods (mdiff=0.041); independent implementations.
+submission1.py,submission68.py,0,0,0,0,0,0,0,0,Low similarity across methods (mdiff=0.041); independent implementations.
+submission100.py,submission5.py,0,0,0,0,0,0,0,0,Low similarity across methods (mdiff=0.043); independent implementations.
+submission100.py,submission3.py,0,0,0,0,0,0,0,0,Low similarity across methods (mdiff=0.043); independent implementations.
+submission100.py,submission2.py,0,0,0,0,0,0,0,0,Low similarity across methods (mdiff=0.043); independent implementations.
+submission1.py,submission100.py,0,0,0,0,0,0,0,0,Low similarity across methods (mdiff=0.043); independent implementations.
+submission4.py,submission72.py,0,0,0,0,0,0,0,0,Low similarity across methods (mdiff=0.047); independent implementations.
+submission5.py,submission75.py,0,0,0,0,0,0,0,0,Low similarity across methods (mdiff=0.048); independent implementations.
+submission5.py,submission64.py,0,0,0,0,0,0,0,0,Low similarity across methods (mdiff=0.048); independent implementations.
+submission3.py,submission64.py,0,0,0,0,0,0,0,0,Low similarity across methods (mdiff=0.048); independent implementations.
+submission2.py,submission75.py,0,0,0,0,0,0,0,0,Low similarity across methods (mdiff=0.048); independent implementations.
+submission2.py,submission64.py,0,0,0,0,0,0,0,0,Low similarity across methods (mdiff=0.048); independent implementations.
+submission1.py,submission75.py,0,0,0,0,0,0,0,0,Low similarity across methods (mdiff=0.048); independent implementations.
+submission1.py,submission64.py,0,0,0,0,0,0,0,0,Low similarity across methods (mdiff=0.048); independent implementations.
+submission5.py,submission81.py,0,0,0,0,0,0,0,0,Low similarity across methods (mdiff=0.049); independent implementations.
+submission5.py,submission74.py,0,0,0,0,0,0,0,0,Low similarity across methods (mdiff=0.05); independent implementations.
+submission2.py,submission74.py,0,0,0,0,0,0,0,0,Low similarity across methods (mdiff=0.05); independent implementations.
+submission1.py,submission74.py,0,0,0,0,0,0,0,0,Low similarity across methods (mdiff=0.05); independent implementations.
+submission5.py,submission63.py,0,0,0,0,0,0,0,0,Low similarity across methods (mdiff=0.052); independent implementations.
+submission5.py,submission61.py,0,0,0,0,0,0,0,0,Low similarity across methods (mdiff=0.052); independent implementations.
+submission4.py,submission71.py,0,0,0,0,0,0,0,0,Low similarity across methods (mdiff=0.052); independent implementations.
+submission4.py,submission68.py,0,0,0,0,0,0,0,0,Low similarity across methods (mdiff=0.052); independent implementations.
+submission3.py,submission75.py,0,0,0,0,0,0,0,0,Low similarity across methods (mdiff=0.052); independent implementations.
+submission3.py,submission63.py,0,0,0,0,0,0,0,0,Low similarity across methods (mdiff=0.052); independent implementations.
+submission3.py,submission61.py,0,0,0,0,0,0,0,0,Low similarity across methods (mdiff=0.052); independent implementations.
+submission2.py,submission63.py,0,0,0,0,0,0,0,0,Low similarity across methods (mdiff=0.052); independent implementations.
+submission2.py,submission61.py,0,0,0,0,0,0,0,0,Low similarity across methods (mdiff=0.052); independent implementations.
+submission1.py,submission63.py,0,0,0,0,0,0,0,0,Low similarity across methods (mdiff=0.052); independent implementations.
+submission1.py,submission61.py,0,0,0,0,0,0,0,0,Low similarity across methods (mdiff=0.052); independent implementations.
+submission5.py,submission66.py,0,0,0,0,0,0,0,0,Low similarity across methods (mdiff=0.054); independent implementations.
+submission5.py,submission65.py,0,0,0,0,0,0,0,0,Low similarity across methods (mdiff=0.054); independent implementations.
+submission5.py,submission62.py,0,0,0,0,0,0,0,0,Low similarity across methods (mdiff=0.054); independent implementations.
+submission3.py,submission81.py,0,0,0,0,0,0,0,0,Low similarity across methods (mdiff=0.054); independent implementations.
+submission3.py,submission66.py,0,0,0,0,0,0,0,0,Low similarity across methods (mdiff=0.054); independent implementations.
+submission3.py,submission65.py,0,0,0,0,0,0,0,0,Low similarity across methods (mdiff=0.054); independent implementations.
+submission3.py,submission62.py,0,0,0,0,0,0,0,0,Low similarity across methods (mdiff=0.054); independent implementations.
+submission2.py,submission81.py,0,0,0,0,0,0,0,0,Low similarity across methods (mdiff=0.054); independent implementations.
+submission2.py,submission66.py,0,0,0,0,0,0,0,0,Low similarity across methods (mdiff=0.054); independent implementations.
+submission2.py,submission65.py,0,0,0,0,0,0,0,0,Low similarity across methods (mdiff=0.054); independent implementations.
+submission2.py,submission62.py,0,0,0,0,0,0,0,0,Low similarity across methods (mdiff=0.054); independent implementations.
+submission1.py,submission81.py,0,0,0,0,0,0,0,0,Low similarity across methods (mdiff=0.054); independent implementations.
+submission1.py,submission66.py,0,0,0,0,0,0,0,0,Low similarity across methods (mdiff=0.054); independent implementations.
+submission1.py,submission65.py,0,0,0,0,0,0,0,0,Low similarity across methods (mdiff=0.054); independent implementations.
+submission1.py,submission62.py,0,0,0,0,0,0,0,0,Low similarity across methods (mdiff=0.054); independent implementations.
+submission5.py,submission69.py,0,0,0,0,0,0,0,0,Low similarity across methods (mdiff=0.055); independent implementations.
+submission3.py,submission74.py,0,0,0,0,0,0,0,0,Low similarity across methods (mdiff=0.055); independent implementations.
+submission3.py,submission69.py,0,0,0,0,0,0,0,0,Low similarity across methods (mdiff=0.055); independent implementations.
+submission2.py,submission69.py,0,0,0,0,0,0,0,0,Low similarity across methods (mdiff=0.055); independent implementations.
+submission1.py,submission69.py,0,0,0,0,0,0,0,0,Low similarity across methods (mdiff=0.055); independent implementations.
+submission5.py,submission67.py,0,0,0,0,0,0,0,0,Low similarity across methods (mdiff=0.056); independent implementations.
+submission3.py,submission67.py,0,0,0,0,0,0,0,0,Low similarity across methods (mdiff=0.056); independent implementations.
+submission2.py,submission67.py,0,0,0,0,0,0,0,0,Low similarity across methods (mdiff=0.056); independent implementations.
+submission1.py,submission67.py,0,0,0,0,0,0,0,0,Low similarity across methods (mdiff=0.056); independent implementations.
+submission100.py,submission4.py,0,0,0,0,0,0,0,0,Low similarity across methods (mdiff=0.059); independent implementations.
+submission4.py,submission75.py,0,0,0,0,0,0,0,0,Low similarity across methods (mdiff=0.061); independent implementations.
+submission4.py,submission64.py,0,0,0,0,0,0,0,0,Low similarity across methods (mdiff=0.061); independent implementations.
+submission4.py,submission74.py,0,0,0,0,0,0,0,0,Low similarity across methods (mdiff=0.065); independent implementations.
+submission4.py,submission63.py,0,0,0,0,0,0,0,0,Low similarity across methods (mdiff=0.066); independent implementations.
+submission4.py,submission61.py,0,0,0,0,0,0,0,0,Low similarity across methods (mdiff=0.066); independent implementations.
+submission4.py,submission81.py,0,0,0,0,0,0,0,0,Low similarity across methods (mdiff=0.068); independent implementations.
+submission4.py,submission62.py,0,0,0,0,0,0,0,0,Low similarity across methods (mdiff=0.068); independent implementations.
+submission10.py,submission72.py,0,0,0,0,0,0,0,0,Low similarity across methods (mdiff=0.068); independent implementations.
+submission4.py,submission66.py,0,0,0,0,0,0,0,0,Low similarity across methods (mdiff=0.069); independent implementations.
+submission4.py,submission65.py,0,0,0,0,0,0,0,0,Low similarity across methods (mdiff=0.069); independent implementations.
+submission10.py,submission100.py,0,0,0,0,0,0,0,0,Low similarity across methods (mdiff=0.07); independent implementations.
+submission4.py,submission69.py,0,0,0,0,0,0,0,0,Low similarity across methods (mdiff=0.071); independent implementations.
+submission4.py,submission67.py,0,0,0,0,0,0,0,0,Low similarity across methods (mdiff=0.072); independent implementations.
+submission10.py,submission71.py,0,0,0,0,0,0,0,0,Low similarity across methods (mdiff=0.075); independent implementations.
+submission10.py,submission68.py,0,0,0,0,0,0,0,0,Low similarity across methods (mdiff=0.076); independent implementations.
+submission12.py,submission72.py,0,0,0,0,0,0,0,0,Low similarity across methods (mdiff=0.081); independent implementations.
+submission12.py,submission71.py,0,0,0,0,0,0,0,0,Low similarity across methods (mdiff=0.085); independent implementations.
+submission12.py,submission68.py,0,0,0,0,0,0,0,0,Low similarity across methods (mdiff=0.086); independent implementations.
+submission109.py,submission71.py,0,0,0,0,0,0,0,0,Low similarity across methods (mdiff=0.087); independent implementations.
+submission109.py,submission68.py,0,0,0,0,0,0,0,0,Low similarity across methods (mdiff=0.087); independent implementations.
+submission100.py,submission12.py,0,0,0,0,0,0,0,0,Low similarity across methods (mdiff=0.087); independent implementations.
+submission108.py,submission71.py,0,0,0,0,0,0,0,0,Low similarity across methods (mdiff=0.088); independent implementations.
+submission108.py,submission68.py,0,0,0,0,0,0,0,0,Low similarity across methods (mdiff=0.088); independent implementations.
+submission107.py,submission71.py,0,0,0,0,0,0,0,0,Low similarity across methods (mdiff=0.088); independent implementations.
+submission107.py,submission68.py,0,0,0,0,0,0,0,0,Low similarity across methods (mdiff=0.088); independent implementations.
+submission10.py,submission75.py,0,0,0,0,0,0,0,0,Low similarity across methods (mdiff=0.088); independent implementations.
