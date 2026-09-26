@@ -1,0 +1,198 @@
+File_1,File_2,Label,L0,L1,L2,L3,L4,L5,L6,Notes
+709191.py,710996.py,1,1,0,0,0,0,0,0,Byte-for-byte identical including the 1 <= n <= 10 guard and EOFError handling.
+736123.py,746688.py,1,0,1,1,0,0,0,0,Line-for-line identical template (same trailing-space blank lines and n range guard) with identifiers shortened to g/b/res vs generar/v/I/D.
+750310.py,750821.py,1,1,0,0,0,0,0,0,Identical files including the unusual I/D counter names and padded blank lines.
+750854.py,761810.py,1,0,1,1,0,0,0,0,Same file with I/D renamed to izq/der and the function renamed generar_parentecis; formatting otherwise identical.
+740388.py,740478.py,1,1,0,0,0,0,0,0,Identical including the full set of Spanish comments word for word.
+740523.py,740551.py,1,0,1,0,0,0,0,0,Same code with the Spanish comment block simply stripped out of one copy.
+740769.py,740802.py,1,0,1,1,0,0,0,0,Idiosyncratic names (metele_nomas/jeneraxd) abbreviated to gen/a/c/s but the variable enie survives in both.
+741147.py,741388.py,1,0,1,1,0,0,0,0,Same 4-parameter recursion and driver as the jeneraxd/enie version with identifiers renamed to neutral Spanish.
+685767.py,691098.py,1,0,1,1,0,0,0,0,Shared idiosyncratic default-argument signature and izq+der == 2*n base case; only the function name differs by one letter.
+691272.py,748852.py,1,1,0,0,0,0,0,0,Identical files.
+736581.py,737407.py,1,0,1,1,0,0,0,0,Same default-argument recursion line for line; abiertos/cerrados shortened to a/c and the function renamed.
+748843.py,750704.py,1,0,1,1,0,0,0,0,Docstrings and comments are the same sentences lightly paraphrased and the same unusual decrementing-counter scheme is used.
+750149.py,750170.py,1,1,0,0,0,0,0,0,Identical files.
+144882.py,757068.py,1,1,0,0,0,0,0,0,Identical including the global st=['0']*30 buffer and tab indentation.
+148148.py,148204.py,1,1,0,0,0,0,0,0,Differ only in trailing whitespace and blank lines.
+688370.py,691311.py,1,1,0,0,0,0,0,0,Identical including the stack push/pop variant and the raise ValueError() range check.
+688750.py,691391.py,1,1,0,0,0,0,0,0,Identical including the misspelled parentsis list and the odd 5/12-space indentation in the driver.
+691322.py,691347.py,1,1,0,0,0,0,0,0,Identical including the unused N=10000000000 constant.
+738424.py,748799.py,1,1,0,0,0,0,0,0,Identical brute-force bitmask enumeration - an unusual approach for this problem.
+738469.py,746871.py,1,0,1,0,0,0,0,0,Same code; one copy just adds Spanish explanatory comments.
+738482.py,748715.py,1,1,0,0,0,0,0,0,Identical including the misleading function name generate_parentheses_with_bits.
+740123.py,740131.py,1,1,0,0,0,0,0,0,Identical apart from padded blank lines.
+740331.py,741631.py,1,0,1,0,0,0,0,0,Same code and same inline comments; one copy drops the leading header comment.
+740507.py,740642.py,1,0,1,0,0,0,0,0,Identical code with comments added in one copy.
+740622.py,741467.py,1,1,0,0,0,0,0,0,Identical files.
+750074.py,750492.py,1,0,1,0,0,0,0,0,Identical including comment wording; only a backtick inside one comment differs.
+685581.py,739115.py,1,0,1,1,0,0,0,0,Same closure plus main() with import sys and sys.stdin.read; only the list and loop variable names differ.
+748786.py,750846.py,1,0,1,1,0,0,0,0,Same resultados=None sentinel pattern and driver; apertura/cierre renamed abiertos/cerrados and quote style changed.
+750772.py,749576.py,1,0,1,1,1,0,0,0,Identical docstrings and comments plus the same decrementing scheme; one copy adds an extra n == 0 break.
+750345.py,691195.py,1,0,1,1,1,0,0,0,"Same closure and the same main() boilerplate (import sys inside main, stdin.read, strip().split()); current renamed and an intermediate cases list added."
+749541.py,750035.py,1,0,1,0,0,0,0,0,Same distinctive decrementing-counter variant with comments stripped; differences are blank lines and input().strip().
+682028.py,688540.py,1,0,1,1,1,1,0,0,The recursive function is byte identical including the unusual uppercase S default parameter; only the driver is reorganized.
+762371.py,750409.py,1,0,1,1,0,0,0,0,"Same circulated template including the 1 <= n <= 10 guard inside the read loop, with Spanish identifiers translated to English."
+686982.py,749301.py,1,0,1,1,1,1,0,0,Same default-argument signature order and body line for line; renamed and the try/while nesting swapped.
+681451.py,740841.py,1,0,1,1,1,0,0,0,"Same signature (n, abiertos=0, cerrados=0, secuencia) and driver; only the base-case formulation differs."
+741661.py,750237.py,1,0,1,1,1,0,0,0,Same default-argument recursion wrapped in main() with try outside while; Spanish identifiers translated to English.
+748749.py,750613.py,1,0,1,1,1,0,0,0,Same closure plus the shared 'read line and break if empty' driver; aperturas/cierres renamed and comments added.
+749200.py,750073.py,1,0,1,1,1,1,0,0,Same nested backtrack with default arguments and the input = sys.stdin.read idiom; printing reorganized.
+739375.py,750007.py,1,0,1,1,1,1,0,0,Same resultado=None sentinel recursion line for line; only the input-reading block in main differs.
+738680.py,741446.py,1,0,1,1,1,1,0,0,"Same 5-parameter (n, open, close, sequence, result) recursion translated English/Spanish with a wrapper added."
+740898.py,741074.py,1,0,1,1,0,0,0,0,"Shares a highly idiosyncratic technique - parallel binary string, tuples of (int(binary,2), text), reverse sort - with identifiers reduced to single letters."
+738296.py,740142.py,1,0,1,1,1,1,0,0,Same default-argument print-based recursion; renamed and the stdin reading changed from line iteration to read().splitlines().
+738247.py,749568.py,1,0,1,1,0,0,0,0,"Shares the unusual mutable default resultados=[] plus the keyword call generar_parentesis(n, resultados=resultados)."
+749023.py,749337.py,1,0,1,1,1,1,0,0,Same closure and main() with import sys inside and for line in sys.stdin; identifiers abbreviated (bt/res/secu).
+686574.py,736458.py,1,0,1,1,1,1,0,0,Recursive body maps 1:1 with the same parameter order and the same named-driver plus __main__ shell; identifiers fully renamed.
+740299.py,741211.py,1,0,1,1,1,1,0,0,"Both use the same append/pop mutable-list variant with ''.join and open==n and close==n base case, structurally 1:1."
+682980.py,749138.py,1,0,1,1,1,1,0,0,Same 5-parameter recursion and the same main() with import sys/stdin.read and a fresh result list per case; parameter order reordered.
+740338.py,749040.py,1,0,1,1,1,1,0,0,Same print-based recursion with n as the last parameter and identical main/try/EOFError/__main__ shell; renamed English/Spanish.
+738486.py,740245.py,1,0,1,1,1,0,0,0,Both add the same distinctive imprimir_secuencias* printing wrapper over the same recursion and per-line stdin loop.
+739116.py,748796.py,1,0,1,1,1,1,0,0,"Same default-argument signature order (n, sec, open, close) and body; identifiers abbreviated and driver switched to try/while."
+740275.py,748335.py,1,0,1,1,1,1,0,0,Converted to counting down but the n parameter is kept and left unused in one copy while the driver is otherwise identical.
+748717.py,748959.py,1,0,1,1,1,1,0,0,Same append/pop list variant with ''.join; one keeps the odd generate_parentheses_with_bits name and the other collects into a list.
+746677.py,749479.py,1,0,1,1,1,1,0,0,Both redundantly pass the result list into a nested closure that could capture it - the same quirk - with counts-first parameter order.
+691301.py,740111.py,1,0,1,1,1,1,0,0,Same mutable-stack append/pop with ''.join and counts-up base case plus main() with import sys inside; restructured into a closure.
+688670.py,749940.py,1,0,1,1,1,1,1,0,"Recursion replaced by an explicit tuple stack but both keep the stack/pila framing, return sorted(resultado) and the same driver."
+738550.py,740197.py,1,1,0,0,0,0,0,0,Byte-identical files (verified manually after Opus agent hit rate limit).
+131678.py,131714.py,1,0,1,1,0,0,0,0,Same idiosyncratic sw/flag skeleton with redundant 'if n==0 and n<10' and 'if n<=10' branches; only single-letter identifiers differ (a/x vs b/y).
+131765.py,131770.py,1,1,0,0,0,0,0,0,Byte-for-byte identical submissions.
+145296.py,723547.py,1,1,0,0,0,0,0,0,Byte-for-byte identical (same y/b/y variant of the flag-based solution).
+131666.py,131705.py,1,0,1,1,0,0,0,0,"Identical redundant flag skeleton (num==0 and num<10 test, s flag, d product); only counter/digit variable names differ."
+131746.py,131784.py,1,1,0,0,0,0,0,0,Byte-for-byte identical.
+133088.py,688705.py,1,0,1,0,0,0,0,0,Identical recursive mul_digitos helper and driver; only the leading '# Productos' comment and blank lines differ.
+694431.py,720904.py,1,0,1,0,0,0,0,0,Same recursive mul_digitos solution; differs only by trailing whitespace on blank lines.
+721264.py,721337.py,1,0,1,0,0,0,0,0,Identical code; one adds the inline comment '# Numero de casos de prueba'.
+723098.py,723107.py,1,1,0,0,0,0,0,0,"Byte-for-byte identical, including the same inline comment."
+721274.py,722177.py,1,0,1,1,0,0,0,0,"Shares the unusual 'n_c' case-count name and a line-for-line identical loop; only iteraciones->interacccion, producto->product, digito->dig renamed."
+721988.py,723011.py,1,0,1,1,0,0,0,0,Identical two-function split (multiplicar_digitos + contar_pasos with redundant 'if n<10: return 0') line for line; only renamed to p/p1/p2.
+723585.py,775454.py,1,0,1,1,0,0,0,0,Same contar_pasos with redundant early-return guard and same driver; differs only in blank lines and casos/numero naming.
+131305.py,775505.py,1,1,0,0,0,0,0,0,Byte-for-byte identical recursive 'per' solution.
+131503.py,775704.py,1,1,0,0,0,0,0,0,"Byte-for-byte identical, including the odd 'z=\ pasos\""' string-concatenation output."""
+720940.py,721115.py,1,1,0,0,0,0,0,0,"Byte-for-byte identical, including the special-case 'if n == 0' branch."
+720960.py,745341.py,1,1,0,0,0,0,0,0,"Byte-for-byte identical, same tab indentation and ans/aux naming."
+723131.py,723194.py,1,1,0,0,0,0,0,0,"Identical apart from a trailing newline, including the same trailing-space comment artifacts and result-list output."
+775405.py,775673.py,1,0,1,0,0,0,0,0,Same code with identical n/c/p/d naming; only indentation width and the one-line for-loop split differ.
+775638.py,775649.py,1,1,0,0,0,0,0,0,"Byte-for-byte identical, including the sys.stdin.read token slicing."
+775720.py,775738.py,1,1,0,0,0,0,0,0,"Byte-for-byte identical, including identical sys.stdin.readline driver."
+775747.py,775795.py,1,0,1,1,0,0,0,0,"Same redundant 'len==1 -> print 0 pasos, continue' early exit and identical string-based loop; only identifiers renamed."
+775760.py,775920.py,1,0,1,1,0,0,0,0,Same contar_pasos with early-return guard and identical driver; only digito->d and t->C renamed.
+131589.py,131781.py,1,0,1,1,0,0,0,0,Both share the idiosyncratic redundant outer 'if m>9' plus while/else-print construct; pure identifier rename otherwise.
+723137.py,723139.py,1,0,1,0,0,0,0,0,"Identical program; one calls input(\\"") instead of input()."""
+723549.py,131543.py,1,0,1,1,0,0,0,0,Same flag-based skeleton with the redundant 'x==0 and x<10' and 'x<=10' branches; identifiers renamed (s->sw etc.).
+723417.py,775578.py,1,0,1,1,0,0,0,0,Same input().strip() string loop line for line; the second is a reindented (1-space) copy with shortened names.
+723384.py,775817.py,1,0,1,1,0,0,0,0,"Both use the less common recursive 'return 1 + f(producto)' formulation with the same if/else shape; only names and input(\\"") differ."""
+775539.py,721391.py,1,0,1,1,1,1,0,0,Identical contar_pasos body including the redundant guard and blank-line placement; second only wraps the driver in a function.
+722124.py,723400.py,1,0,1,1,1,0,0,0,multiplicar_digitos bodies are identical line for line (including the misleading name for a step counter) and both use main()/__main__; only driver details differ.
+722225.py,723275.py,1,0,1,1,1,1,0,0,Identical function body plus the shared 'if n == 0: return 0' quirk; differs by renaming and by buffering output in a list.
+722497.py,723510.py,1,0,1,1,1,0,0,0,Both reuse the input variable n itself as the product accumulator inside the loop - an idiosyncratic choice shared by no other submission here.
+775440.py,775889.py,1,0,1,1,1,1,0,0,"Same string-based loop with the redundant 'len(n)==1 -> print 0 pasos, continue' guard; only renames and minor statement reordering."
+723282.py,775425.py,1,0,1,1,1,0,0,0,"Both compare the raw input against the string \0\"" for the early exit and both round-trip str(multiplicar_digitos(...)) inside a len()>1 loop - a distinctive shared combination."""
+721474.py,767182.py,1,0,1,1,1,0,0,0,"Identical contar_pasos body with the same redundant guard; second adds type annotations and renames producto->nuevo_n, main() flattened."
+136279.py,138834.py,1,0,1,1,1,0,0,0,Same tab-indented skeleton with the unusual placement of the step increment before the inner digit loop; renames plus one extra copy variable.
+723271.py,775495.py,1,0,1,1,1,1,0,0,"Both read all input via sys.stdin.read inside a function, index data[i] over range(1,t+1), buffer f-strings and print '\n'.join(...) under __main__ - a distinctive combination; digit product inlined in one."
+750170.py,775704.py,0,0,0,0,0,0,0,0,Different sub-problem (balanced parentheses vs multiplicative persistence); unrelated implementations.
+750310.py,722818.py,0,0,0,0,0,0,0,0,Different sub-problem (balanced parentheses vs multiplicative persistence); unrelated implementations.
+750854.py,775673.py,0,0,0,0,0,0,0,0,Different sub-problem (balanced parentheses vs multiplicative persistence); unrelated implementations.
+739375.py,138834.py,0,0,0,0,0,0,0,0,Different sub-problem (balanced parentheses vs multiplicative persistence); unrelated implementations.
+757068.py,723062.py,0,0,0,0,0,0,0,0,Different sub-problem (balanced parentheses vs multiplicative persistence); unrelated implementations.
+739116.py,131670.py,0,0,0,0,0,0,0,0,Different sub-problem (balanced parentheses vs multiplicative persistence); unrelated implementations.
+750149.py,721274.py,0,0,0,0,0,0,0,0,Different sub-problem (balanced parentheses vs multiplicative persistence); unrelated implementations.
+738296.py,131666.py,0,0,0,0,0,0,0,0,Different sub-problem (balanced parentheses vs multiplicative persistence); unrelated implementations.
+685767.py,723394.py,0,0,0,0,0,0,0,0,Different sub-problem (balanced parentheses vs multiplicative persistence); unrelated implementations.
+749200.py,775885.py,0,0,0,0,0,0,0,0,Different sub-problem (balanced parentheses vs multiplicative persistence); unrelated implementations.
+750170.py,723549.py,0,0,0,0,0,0,0,0,Different sub-problem (balanced parentheses vs multiplicative persistence); unrelated implementations.
+738486.py,723453.py,0,0,0,0,0,0,0,0,Different sub-problem (balanced parentheses vs multiplicative persistence); unrelated implementations.
+148198.py,775649.py,0,0,0,0,0,0,0,0,Different sub-problem (balanced parentheses vs multiplicative persistence); unrelated implementations.
+782936.py,131627.py,0,0,0,0,0,0,0,0,Different sub-problem (balanced parentheses vs multiplicative persistence); unrelated implementations.
+688670.py,131543.py,0,0,0,0,0,0,0,0,Different sub-problem (balanced parentheses vs multiplicative persistence); unrelated implementations.
+739375.py,775738.py,0,0,0,0,0,0,0,0,Different sub-problem (balanced parentheses vs multiplicative persistence); unrelated implementations.
+740388.py,723394.py,0,0,0,0,0,0,0,0,Different sub-problem (balanced parentheses vs multiplicative persistence); unrelated implementations.
+682028.py,775536.py,0,0,0,0,0,0,0,0,Different sub-problem (balanced parentheses vs multiplicative persistence); unrelated implementations.
+750307.py,721337.py,0,0,0,0,0,0,0,0,Different sub-problem (balanced parentheses vs multiplicative persistence); unrelated implementations.
+750073.py,723384.py,0,0,0,0,0,0,0,0,Different sub-problem (balanced parentheses vs multiplicative persistence); unrelated implementations.
+740111.py,723131.py,0,0,0,0,0,0,0,0,Different sub-problem (balanced parentheses vs multiplicative persistence); unrelated implementations.
+740331.py,723510.py,0,0,0,0,0,0,0,0,Different sub-problem (balanced parentheses vs multiplicative persistence); unrelated implementations.
+741211.py,723095.py,0,0,0,0,0,0,0,0,Different sub-problem (balanced parentheses vs multiplicative persistence); unrelated implementations.
+145588.py,723585.py,0,0,0,0,0,0,0,0,Different sub-problem (balanced parentheses vs multiplicative persistence); unrelated implementations.
+691272.py,723011.py,0,0,0,0,0,0,0,0,Different sub-problem (balanced parentheses vs multiplicative persistence); unrelated implementations.
+740879.py,722177.py,0,0,0,0,0,0,0,0,Different sub-problem (balanced parentheses vs multiplicative persistence); unrelated implementations.
+691272.py,775412.py,0,0,0,0,0,0,0,0,Different sub-problem (balanced parentheses vs multiplicative persistence); unrelated implementations.
+740551.py,721318.py,0,0,0,0,0,0,0,0,Different sub-problem (balanced parentheses vs multiplicative persistence); unrelated implementations.
+740299.py,723107.py,0,0,0,0,0,0,0,0,Different sub-problem (balanced parentheses vs multiplicative persistence); unrelated implementations.
+741074.py,131529.py,0,0,0,0,0,0,0,0,Different sub-problem (balanced parentheses vs multiplicative persistence); unrelated implementations.
+690879.py,723271.py,0,0,0,0,0,0,0,0,Different sub-problem (balanced parentheses vs multiplicative persistence); unrelated implementations.
+709191.py,722138.py,0,0,0,0,0,0,0,0,Different sub-problem (balanced parentheses vs multiplicative persistence); unrelated implementations.
+709191.py,775670.py,0,0,0,0,0,0,0,0,Different sub-problem (balanced parentheses vs multiplicative persistence); unrelated implementations.
+741147.py,722111.py,0,0,0,0,0,0,0,0,Different sub-problem (balanced parentheses vs multiplicative persistence); unrelated implementations.
+690879.py,775866.py,0,0,0,0,0,0,0,0,Different sub-problem (balanced parentheses vs multiplicative persistence); unrelated implementations.
+148204.py,775670.py,0,0,0,0,0,0,0,0,Different sub-problem (balanced parentheses vs multiplicative persistence); unrelated implementations.
+144882.py,720904.py,0,0,0,0,0,0,0,0,Different sub-problem (balanced parentheses vs multiplicative persistence); unrelated implementations.
+740142.py,775812.py,0,0,0,0,0,0,0,0,Different sub-problem (balanced parentheses vs multiplicative persistence); unrelated implementations.
+688370.py,723062.py,0,0,0,0,0,0,0,0,Different sub-problem (balanced parentheses vs multiplicative persistence); unrelated implementations.
+748852.py,775920.py,0,0,0,0,0,0,0,0,Different sub-problem (balanced parentheses vs multiplicative persistence); unrelated implementations.
+749200.py,722225.py,0,0,0,0,0,0,0,0,Different sub-problem (balanced parentheses vs multiplicative persistence); unrelated implementations.
+691020.py,723271.py,0,0,0,0,0,0,0,0,Different sub-problem (balanced parentheses vs multiplicative persistence); unrelated implementations.
+740111.py,775536.py,0,0,0,0,0,0,0,0,Different sub-problem (balanced parentheses vs multiplicative persistence); unrelated implementations.
+740802.py,721423.py,0,0,0,0,0,0,0,0,Different sub-problem (balanced parentheses vs multiplicative persistence); unrelated implementations.
+691301.py,721276.py,0,0,0,0,0,0,0,0,Different sub-problem (balanced parentheses vs multiplicative persistence); unrelated implementations.
+747217.py,131503.py,0,0,0,0,0,0,0,0,Different sub-problem (balanced parentheses vs multiplicative persistence); unrelated implementations.
+749479.py,775495.py,0,0,0,0,0,0,0,0,Different sub-problem (balanced parentheses vs multiplicative persistence); unrelated implementations.
+736458.py,131765.py,0,0,0,0,0,0,0,0,Different sub-problem (balanced parentheses vs multiplicative persistence); unrelated implementations.
+740507.py,775412.py,0,0,0,0,0,0,0,0,Different sub-problem (balanced parentheses vs multiplicative persistence); unrelated implementations.
+691347.py,131503.py,0,0,0,0,0,0,0,0,Different sub-problem (balanced parentheses vs multiplicative persistence); unrelated implementations.
+688670.py,723035.py,0,0,0,0,0,0,0,0,Different sub-problem (balanced parentheses vs multiplicative persistence); unrelated implementations.
+750613.py,136279.py,0,0,0,0,0,0,0,0,Different sub-problem (balanced parentheses vs multiplicative persistence); unrelated implementations.
+750854.py,145296.py,0,0,0,0,0,0,0,0,Different sub-problem (balanced parentheses vs multiplicative persistence); unrelated implementations.
+737407.py,722225.py,0,0,0,0,0,0,0,0,Different sub-problem (balanced parentheses vs multiplicative persistence); unrelated implementations.
+749023.py,131705.py,0,0,0,0,0,0,0,0,Different sub-problem (balanced parentheses vs multiplicative persistence); unrelated implementations.
+740197.py,131305.py,0,0,0,0,0,0,0,0,Different sub-problem (balanced parentheses vs multiplicative persistence); unrelated implementations.
+740802.py,775704.py,0,0,0,0,0,0,0,0,Different sub-problem (balanced parentheses vs multiplicative persistence); unrelated implementations.
+741388.py,775747.py,0,0,0,0,0,0,0,0,Different sub-problem (balanced parentheses vs multiplicative persistence); unrelated implementations.
+681451.py,694431.py,0,0,0,0,0,0,0,0,Different sub-problem (balanced parentheses vs multiplicative persistence); unrelated implementations.
+739116.py,722124.py,0,0,0,0,0,0,0,0,Different sub-problem (balanced parentheses vs multiplicative persistence); unrelated implementations.
+691347.py,131553.py,0,0,0,0,0,0,0,0,Different sub-problem (balanced parentheses vs multiplicative persistence); unrelated implementations.
+738424.py,720904.py,0,0,0,0,0,0,0,0,Different sub-problem (balanced parentheses vs multiplicative persistence); unrelated implementations.
+750074.py,721096.py,0,0,0,0,0,0,0,0,Different sub-problem (balanced parentheses vs multiplicative persistence); unrelated implementations.
+148148.py,775505.py,0,0,0,0,0,0,0,0,Different sub-problem (balanced parentheses vs multiplicative persistence); unrelated implementations.
+746871.py,775649.py,0,0,0,0,0,0,0,0,Different sub-problem (balanced parentheses vs multiplicative persistence); unrelated implementations.
+741211.py,722111.py,0,0,0,0,0,0,0,0,Different sub-problem (balanced parentheses vs multiplicative persistence); unrelated implementations.
+691020.py,131646.py,0,0,0,0,0,0,0,0,Different sub-problem (balanced parentheses vs multiplicative persistence); unrelated implementations.
+691311.py,694431.py,0,0,0,0,0,0,0,0,Different sub-problem (balanced parentheses vs multiplicative persistence); unrelated implementations.
+748799.py,721496.py,0,0,0,0,0,0,0,0,Different sub-problem (balanced parentheses vs multiplicative persistence); unrelated implementations.
+750237.py,131746.py,0,0,0,0,0,0,0,0,Different sub-problem (balanced parentheses vs multiplicative persistence); unrelated implementations.
+749023.py,138834.py,0,0,0,0,0,0,0,0,Different sub-problem (balanced parentheses vs multiplicative persistence); unrelated implementations.
+738482.py,721276.py,0,0,0,0,0,0,0,0,Different sub-problem (balanced parentheses vs multiplicative persistence); unrelated implementations.
+740299.py,775624.py,0,0,0,0,0,0,0,0,Different sub-problem (balanced parentheses vs multiplicative persistence); unrelated implementations.
+740507.py,775433.py,0,0,0,0,0,0,0,0,Different sub-problem (balanced parentheses vs multiplicative persistence); unrelated implementations.
+749040.py,775738.py,0,0,0,0,0,0,0,0,Different sub-problem (balanced parentheses vs multiplicative persistence); unrelated implementations.
+750605.py,723400.py,0,0,0,0,0,0,0,0,Different sub-problem (balanced parentheses vs multiplicative persistence); unrelated implementations.
+686982.py,131678.py,0,0,0,0,0,0,0,0,Different sub-problem (balanced parentheses vs multiplicative persistence); unrelated implementations.
+757068.py,775885.py,0,0,0,0,0,0,0,0,Different sub-problem (balanced parentheses vs multiplicative persistence); unrelated implementations.
+740551.py,720967.py,0,0,0,0,0,0,0,0,Different sub-problem (balanced parentheses vs multiplicative persistence); unrelated implementations.
+749138.py,721049.py,0,0,0,0,0,0,0,0,Different sub-problem (balanced parentheses vs multiplicative persistence); unrelated implementations.
+749576.py,775638.py,0,0,0,0,0,0,0,0,Different sub-problem (balanced parentheses vs multiplicative persistence); unrelated implementations.
+750704.py,721264.py,0,0,0,0,0,0,0,0,Different sub-problem (balanced parentheses vs multiplicative persistence); unrelated implementations.
+762371.py,136279.py,0,0,0,0,0,0,0,0,Different sub-problem (balanced parentheses vs multiplicative persistence); unrelated implementations.
+740197.py,775795.py,0,0,0,0,0,0,0,0,Different sub-problem (balanced parentheses vs multiplicative persistence); unrelated implementations.
+740131.py,775454.py,0,0,0,0,0,0,0,0,Different sub-problem (balanced parentheses vs multiplicative persistence); unrelated implementations.
+148204.py,131627.py,0,0,0,0,0,0,0,0,Different sub-problem (balanced parentheses vs multiplicative persistence); unrelated implementations.
+740769.py,722177.py,0,0,0,0,0,0,0,0,Different sub-problem (balanced parentheses vs multiplicative persistence); unrelated implementations.
+750149.py,721035.py,0,0,0,0,0,0,0,0,Different sub-problem (balanced parentheses vs multiplicative persistence); unrelated implementations.
+738978.py,721217.py,0,0,0,0,0,0,0,0,Different sub-problem (balanced parentheses vs multiplicative persistence); unrelated implementations.
+748799.py,723137.py,0,0,0,0,0,0,0,0,Different sub-problem (balanced parentheses vs multiplicative persistence); unrelated implementations.
+737407.py,131666.py,0,0,0,0,0,0,0,0,Different sub-problem (balanced parentheses vs multiplicative persistence); unrelated implementations.
+748786.py,131765.py,0,0,0,0,0,0,0,0,Different sub-problem (balanced parentheses vs multiplicative persistence); unrelated implementations.
+746871.py,723585.py,0,0,0,0,0,0,0,0,Different sub-problem (balanced parentheses vs multiplicative persistence); unrelated implementations.
+762371.py,723282.py,0,0,0,0,0,0,0,0,Different sub-problem (balanced parentheses vs multiplicative persistence); unrelated implementations.
+738247.py,723384.py,0,0,0,0,0,0,0,0,Different sub-problem (balanced parentheses vs multiplicative persistence); unrelated implementations.
+682980.py,775812.py,0,0,0,0,0,0,0,0,Different sub-problem (balanced parentheses vs multiplicative persistence); unrelated implementations.
+748749.py,775405.py,0,0,0,0,0,0,0,0,Different sub-problem (balanced parentheses vs multiplicative persistence); unrelated implementations.
+682980.py,131508.py,0,0,0,0,0,0,0,0,Different sub-problem (balanced parentheses vs multiplicative persistence); unrelated implementations.
+691098.py,723068.py,0,0,0,0,0,0,0,0,Different sub-problem (balanced parentheses vs multiplicative persistence); unrelated implementations.
+741467.py,721318.py,0,0,0,0,0,0,0,0,Different sub-problem (balanced parentheses vs multiplicative persistence); unrelated implementations.
+738211.py,131646.py,0,0,0,0,0,0,0,0,Different sub-problem (balanced parentheses vs multiplicative persistence); unrelated implementations.
+691098.py,722818.py,0,0,0,0,0,0,0,0,Different sub-problem (balanced parentheses vs multiplicative persistence); unrelated implementations.
+686574.py,775762.py,0,0,0,0,0,0,0,0,Different sub-problem (balanced parentheses vs multiplicative persistence); unrelated implementations.
+748385.py,721462.py,0,0,0,0,0,0,0,0,Different sub-problem (balanced parentheses vs multiplicative persistence); unrelated implementations.
+750409.py,775762.py,0,0,0,0,0,0,0,0,Different sub-problem (balanced parentheses vs multiplicative persistence); unrelated implementations.
