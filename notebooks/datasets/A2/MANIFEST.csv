@@ -1,0 +1,64 @@
+problem,file,level,edits
+p1,p1_intercambio_orig.py,orig,original program
+p1,p1_intercambio_L1.py,1,reword comments; add comment and blank lines; remove spaces around operators in index/range; wrap print; indent width 4->2
+p1,p1_intercambio_L2.py,2,"rename all functions, parameters and variables"
+p1,p1_intercambio_L3.py,3,swap order of n/intercambios init; numeros=list(); str(input()); int(0)
+p1,p1_intercambio_L4.py,4,extract swap into intercambiar(); extract min/max printing into mostrar_extremos()
+p1,p1_intercambio_L5.py,5,for->while nested loops; tuple swap; x=x+1; list += instead of append; int(len/2) instead of //
+p1,p1_intercambio_L6.py,6,negated swap condition; n-i-1 form; inverted if/else for empty list; datos[len(datos)-1]
+p2,p2_primos_orig.py,orig,original program
+p2,p2_primos_L1.py,1,reword and add comments; remove spaces around % and +; wrap print; indent 4->2; extra blank line
+p2,p2_primos_L2.py,2,"rename functions, parameters and variables"
+p2,p2_primos_L3.py,3,swap order of factores/divisor init; list(); split int(input()) in two statements
+p2,p2_primos_L4.py,4,extract exponent formatting into forma_factorizada(); extract main flow into mostrar_resultado(numero)
+p2,p2_primos_L5.py,5,for->while in es_primo; n //= divisor; divisor = divisor + 1; list += instead of append
+p2,p2_primos_L6.py,6,"negated comparisons (not n >= 2, not n % d, not n <= 1); 1 < numero"
+p3,p3_frecuencia_orig.py,orig,original program
+p3,p3_frecuencia_L1.py,1,reword comments; add blank line; remove spaces around + in print; wrap lambda; indent width 8
+p3,p3_frecuencia_L2.py,2,"rename function, parameters and variables"
+p3,p3_frecuencia_L3.py,3,list(); dict() declared first; str(input()); str()
+p3,p3_frecuencia_L4.py,4,extract counting into contar(); extract longest word search into mas_larga()
+p3,p3_frecuencia_L5.py,5,for->while in obtener_palabras; dict.get replaces if/else count; format() in print
+p3,p3_frecuencia_L6.py,6,inverted if/else branch order (not in); len(items) != 0; flipped comparison len(largo) < len(palabra)
+p4,p4_fibonacci_orig.py,orig,original program
+p4,p4_fibonacci_L1.py,1,reword comments; remove spaces around operators; wrap print; indent 4->2; extra blank line
+p4,p4_fibonacci_L2.py,2,"rename function, parameters and variables"
+p4,p4_fibonacci_L3.py,3,"merge a=0;b=1 into a, b = 0, 1; merge suma_pares/cantidad init; list(); split int(input())"
+p4,p4_fibonacci_L4.py,4,extract even-sum loop into sumar_pares(); extract ratio into mostrar_razon()
+p4,p4_fibonacci_L5.py,5,tuple swap -> three statements; for->while with index; x = x + 1 forms; str.format instead of %
+p4,p4_fibonacci_L6.py,6,"negated/flipped conditions: not a > limite, 0 > n, t%2 < 1, not len<3, De Morgan on ratio guard"
+p5,p5_matriz_orig.py,orig,original program
+p5,p5_matriz_L1.py,1,reword comments; remove spaces around operators; wrap statement; indent 4->2; extra blank line
+p5,p5_matriz_L2.py,2,rename function and all variables
+p5,p5_matriz_L3.py,3,split tuple read into three statements; list(); swap order of suma_filas/suma_cols init; s = int(0)
+p5,p5_matriz_L4.py,4,extract sums loop into calcular_sumas(); extract diagonal into obtener_diagonal()
+p5,p5_matriz_L5.py,5,s = s + ...; print for loops -> while; conditional expression -> if/else; list comprehension -> for/append
+p5,p5_matriz_L6.py,6,nf >= 1; De Morgan on total/nc guard; 1 + i and 1 + j
+p6,p6_conversion_orig.py,orig,original program
+p6,p6_conversion_L1.py,1,reword comments; remove spaces around % and *; wrap condition; indent 4->2; extra blank line
+p6,p6_conversion_L2.py,2,"rename functions, parameters and variables"
+p6,p6_conversion_L3.py,3,move resultado init before digitos; str(); int(); list(); split int(input())
+p6,p6_conversion_L4.py,4,extract grouping into agrupar_bits(); extract the three prints into mostrar()
+p6,p6_conversion_L5.py,5,numero //= base; for->while in verificar and grouping; conditional expression -> if statement
+p6,p6_conversion_L6.py,6,not numero; numero != 0; not n >= 0; ceil-by-negative-floor form; De Morgan on verification
+p7,p7_cesar_orig.py,orig,original program
+p7,p7_cesar_L1.py,1,reword comments; remove spaces around operators; wrap print; indent width 3; extra blank line
+p7,p7_cesar_L2.py,2,"rename functions, parameters and variables"
+p7,p7_cesar_L3.py,3,str(); merge may/minus init into tuple; int(str(input()))
+p7,p7_cesar_L4.py,4,add descifrar() wrapper; extract case counting into contar_casos()
+p7,p7_cesar_L5.py,5,swap lower/upper branches; for->while in cifrar; x = x + 1 forms
+p7,p7_cesar_L6.py,6,early exit for non-letters with ascii_letters; range comparisons for case; reordered arithmetic; not clave % 26
+p8,p8_parentesis_orig.py,orig,original program
+p8,p8_parentesis_L1.py,1,reword comments; remove spaces in dict and around +; wrap print; indent 4->2; extra blank line
+p8,p8_parentesis_L2.py,2,"rename global constant, function, parameter and variables"
+p8,p8_parentesis_L3.py,3,PARES built by item assignments; deque([]); swap correctos/casos init; str(input())
+p8,p8_parentesis_L4.py,4,pass PARES as parameter; extract case processing into procesar_caso() returning 1/0
+p8,p8_parentesis_L5.py,5,for->while (enumerate and range); pop()[0] instead of unpack; x = x + 1
+p8,p8_parentesis_L6.py,6,not pila; not a == b; error < 0; conditional-expression return replaces final if/return
+p9,p9_estadistica_orig.py,orig,original program
+p9,p9_estadistica_L1.py,1,reword comments; remove spaces around operators; wrap print; indent 4->2; extra blank line
+p9,p9_estadistica_L2.py,2,"rename functions, parameters and variables"
+p9,p9_estadistica_L3.py,3,merge conteo/modas init into tuple; suma_cuad = 0.0; str(input())
+p9,p9_estadistica_L4.py,4,extract mode computation into calcular_modas(); extract std dev into desviacion()
+p9,p9_estadistica_L5.py,5,list(map(float)) instead of comprehension; swap independent statements; for->while; x = x + y
+p9,p9_estadistica_L6.py,6,len < 1; inverted early-exit in mediana; De Morgan in mode filter; ordenados[len-1]
