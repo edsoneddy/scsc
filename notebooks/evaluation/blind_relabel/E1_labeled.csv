@@ -1,0 +1,235 @@
+File_1,File_2,Label,L0,L1,L2,L3,L4,L5,L6,Notes
+145061.py,683169.py,0,0,0,0,0,0,0,0,same assignment but generic index-accumulation dot product with unrelated naming
+750622.py,732093.py,0,0,0,0,0,0,0,0,different assignments
+685733.py,146838.py,0,0,0,0,0,0,0,0,different assignments
+758011.py,732093.py,0,0,0,0,0,0,0,0,different assignments
+757233.py,758312.py,0,0,0,0,0,0,0,0,different assignments
+758325.py,146392.py,0,0,0,0,0,0,0,0,different assignments
+138251.py,138253.py,1,0,1,1,1,1,1,0,"identical simulation body (isStack/isQueue/isHeap flags as 1/0, spaced print calls); only the input loop was swapped to a for-over-stdin"
+732564.py,732646.py,1,1,1,0,0,0,0,0,"identical program, whitespace only"
+758885.py,147962.py,0,0,0,0,0,0,0,0,different assignments
+757410.py,147204.py,0,0,0,0,0,0,0,0,different assignments
+753178.py,753342.py,1,0,1,0,0,0,0,0,identical program with all comments stripped
+758976.py,147962.py,0,0,0,0,0,0,0,0,different assignments
+758554.py,147559.py,0,0,0,0,0,0,0,0,different assignments
+757907.py,145403.py,0,0,0,0,0,0,0,0,different assignments
+748405.py,146385.py,0,0,0,0,0,0,0,0,different assignments
+759274.py,146416.py,0,0,0,0,0,0,0,0,different assignments
+682974.py,147921.py,0,0,0,0,0,0,0,0,different assignments
+756889.py,758287.py,1,1,1,0,0,0,0,0,"identical, whitespace only"
+747619.py,759070.py,1,0,1,0,0,0,0,0,"identical program, one adds a banner comment line"
+684919.py,684950.py,0,0,0,0,0,0,0,0,"only the minimal helper+zip skeleton in common, no shared comments or quirks"
+145033.py,146823.py,1,1,1,0,0,0,0,0,"identical, including the redundant trailing s=0 reset"
+686709.py,745598.py,1,0,1,1,0,0,0,0,"identical program with every identifier reduced to a single letter; same re.sub(r'[^\w-]', ' ') idiom"
+756586.py,732232.py,0,0,0,0,0,0,0,0,different assignments
+755259.py,754758.py,0,0,0,0,0,0,0,0,different assignments
+754669.py,146835.py,0,0,0,0,0,0,0,0,different assignments
+758539.py,759548.py,0,0,0,0,0,0,0,0,different assignments
+691323.py,685098.py,0,0,0,0,0,0,0,0,different assignments
+685580.py,749140.py,1,0,1,1,1,1,1,0,"same procesar_* design with boolean-sum verdict chain and resultados batching; renamed, deque swapped in and pop checks inlined"
+757122.py,757188.py,1,0,1,0,0,0,0,0,"identical program including comments, one extra comment added"
+758885.py,758927.py,1,0,1,0,0,0,0,0,"identical program, two explanatory comments added"
+756296.py,758540.py,1,1,1,0,0,0,0,0,"identical, whitespace only"
+145403.py,145412.py,0,0,0,0,0,0,0,0,"same standard loop, fully different naming; ordinary convergence"
+682653.py,684060.py,1,1,1,0,0,0,0,0,"identical function incl. bare ""return None"" guard and odd single-space blank lines"
+754883.py,146998.py,0,0,0,0,0,0,0,0,different assignments
+754698.py,755532.py,1,1,1,0,0,0,0,0,byte-identical
+147238.py,730903.py,0,0,0,0,0,0,0,0,different input handling and length check; independent
+749201.py,147941.py,0,0,0,0,0,0,0,0,different assignments
+754919.py,757841.py,1,0,1,0,0,0,0,0,identical program with comments stripped; both keep the same unused actual_outputs list
+145539.py,148179.py,0,0,0,0,0,0,0,0,similar beginner element-by-element conversion but unrelated naming; convergence
+758312.py,732009.py,0,0,0,0,0,0,0,0,different assignments
+752359.py,753128.py,0,0,0,0,0,0,0,0,different word extraction (split/rstrip vs regex) and structure; independent
+756889.py,147052.py,0,0,0,0,0,0,0,0,different assignments
+731504.py,732335.py,1,0,1,0,0,0,0,0,same Spanish step-by-step comment set and same sum(A[i]*B[i] for i in range(n)) form
+753220.py,146938.py,0,0,0,0,0,0,0,0,different assignments
+756109.py,758146.py,1,0,1,1,1,1,1,0,"identical check block and reader (datos/i/resultados), renamed function and join instead of print loop"
+750173.py,730903.py,0,0,0,0,0,0,0,0,different assignments
+752498.py,753274.py,1,0,1,1,0,0,0,0,"same palabras_unicas/palabra_continua names, same prepend-at-top-of-loop design and identical regex; only function name and comment wording differ"
+756108.py,732093.py,0,0,0,0,0,0,0,0,different assignments
+749480.py,758429.py,0,0,0,0,0,0,0,0,different assignments
+758053.py,686332.py,0,0,0,0,0,0,0,0,different assignments
+750763.py,732217.py,0,0,0,0,0,0,0,0,different assignments
+692972.py,785656.py,0,0,0,0,0,0,0,0,different assignments
+750612.py,758974.py,0,0,0,0,0,0,0,0,different assignments
+754919.py,732186.py,0,0,0,0,0,0,0,0,different assignments
+691274.py,146835.py,0,0,0,0,0,0,0,0,different assignments
+690878.py,759139.py,0,0,0,0,0,0,0,0,different assignments
+781925.py,782214.py,1,1,1,0,0,0,0,0,byte-identical
+754700.py,684482.py,0,0,0,0,0,0,0,0,different assignments
+683636.py,683640.py,1,1,1,0,0,0,0,0,identical apart from a blank line
+750313.py,732761.py,0,0,0,0,0,0,0,0,different assignments
+748736.py,685143.py,0,0,0,0,0,0,0,0,different assignments
+754669.py,755818.py,0,0,0,0,0,0,0,0,"the required hyphen-buffer skeleton only; names, regex and comments all differ"
+750612.py,147689.py,0,0,0,0,0,0,0,0,different assignments
+757065.py,759011.py,1,0,1,1,1,1,1,0,"same reader verbatim and same verdict chain; pop checks rewritten from if/else to ""not x or pop() !="" form"
+749003.py,758429.py,0,0,0,0,0,0,0,0,different assignments
+754919.py,684710.py,0,0,0,0,0,0,0,0,different assignments
+748787.py,758819.py,0,0,0,0,0,0,0,0,758819 uses list+max/remove for the priority queue and a different verdict formulation; independent
+756901.py,759082.py,1,0,1,0,0,0,0,0,identical program with a few comments removed
+758515.py,731965.py,0,0,0,0,0,0,0,0,different assignments
+684231.py,685186.py,1,0,1,1,1,1,1,0,"shared bare ""return None"" length guard and resultado accumulation; renamed and guard turned into if/else"
+146934.py,146938.py,1,1,1,0,0,0,0,0,"byte-identical, including the distinctive v1.insert(c, da) idiom"
+685201.py,731239.py,0,0,0,0,0,0,0,0,minimal zip one-liner with different names/comment; convergence
+759198.py,801680.py,0,0,0,0,0,0,0,0,different assignments
+138251.py,683640.py,0,0,0,0,0,0,0,0,different assignments
+759128.py,148184.py,0,0,0,0,0,0,0,0,different assignments
+750622.py,755002.py,0,0,0,0,0,0,0,0,different assignments
+691493.py,732677.py,0,0,0,0,0,0,0,0,different assignments
+757578.py,758011.py,1,0,1,1,1,1,0,0,"identical code and comments; one is wrapped in main(), the other inlined at module level"
+748389.py,146384.py,0,0,0,0,0,0,0,0,different assignments
+758904.py,147300.py,0,0,0,0,0,0,0,0,different assignments
+731764.py,785656.py,0,0,0,0,0,0,0,0,different accumulation and output strategies
+748389.py,754885.py,1,1,1,0,0,0,0,0,"identical, including the distinctive sort(reverse=True)/pop(0) priority queue"
+686561.py,759317.py,0,0,0,0,0,0,0,0,different assignments
+756413.py,756486.py,1,0,1,0,0,0,0,0,identical program with all comments stripped
+755066.py,145640.py,0,0,0,0,0,0,0,0,different assignments
+759235.py,147653.py,0,0,0,0,0,0,0,0,different assignments
+750288.py,750745.py,1,0,1,0,0,0,0,0,"identical program, one adds a trailing ""# O(nlogn)"" comment"
+756487.py,756507.py,1,1,1,0,0,0,0,0,byte-identical
+685145.py,730343.py,0,0,0,0,0,0,0,0,"generic 9-line accumulation, only names differ; convergence"
+750712.py,682653.py,0,0,0,0,0,0,0,0,different assignments
+686923.py,686928.py,1,0,1,0,0,0,0,0,"identical program, one adds a trailing complexity comment"
+759061.py,758541.py,0,0,0,0,0,0,0,0,standard buffer/regex skeleton with different names and regexes; convergence
+749003.py,749917.py,1,0,1,1,1,1,1,0,"same peek-then-pop checks, same ""# Lectura de entrada"" frame; renamed and count(True) vs sum()"
+686979.py,146389.py,0,0,0,0,0,0,0,0,different assignments
+757841.py,690977.py,0,0,0,0,0,0,0,0,different assignments
+147006.py,147210.py,1,1,1,0,0,0,0,0,"byte-identical, including the distinctive insert(c, da) idiom"
+683826.py,684022.py,0,0,0,0,0,0,0,0,different guards (assert vs message return); independent
+724852.py,147245.py,0,0,0,0,0,0,0,0,different assignments
+685770.py,145472.py,0,0,0,0,0,0,0,0,different assignments
+731937.py,732574.py,0,0,0,0,0,0,0,0,different I/O frames (stdin loop vs try/except)
+681850.py,749561.py,0,0,0,0,0,0,0,0,"one uses one-letter names with post-hoc comparisons, the other a list of matching structure names; no shared idiosyncrasy"
+691457.py,750763.py,1,0,1,1,1,1,0,0,both parse a flat token stream with index += 2 and use the same 5-branch verdict chain; renamed and wrapped in main()
+753422.py,693408.py,0,0,0,0,0,0,0,0,different assignments
+690977.py,693024.py,1,0,1,0,0,0,0,0,"identical program, extra blank lines and a trailing complexity comment"
+685580.py,754933.py,0,0,0,0,0,0,0,0,different assignments
+753274.py,732151.py,0,0,0,0,0,0,0,0,different assignments
+757908.py,758548.py,1,1,1,0,0,0,0,0,"identical program, whitespace only"
+758435.py,146965.py,0,0,0,0,0,0,0,0,different assignments
+757123.py,757186.py,1,0,1,0,0,0,0,0,identical program with comments translated/extended
+682021.py,732009.py,0,0,0,0,0,0,0,0,"same minimal solution, different I/O and naming; convergence"
+730973.py,732224.py,0,0,0,0,0,0,0,0,each has its own unshared quirk (leer_vector helper vs unused stdin import)
+686076.py,686078.py,1,0,1,0,0,0,0,0,"identical (both the single-letter-identifier variant), one adds ""#O(n)"""
+757579.py,684710.py,0,0,0,0,0,0,0,0,different assignments
+755118.py,759548.py,0,0,0,0,0,0,0,0,very different handling of the continuation hyphen; independent
+755675.py,756602.py,1,0,1,1,1,1,1,0,"same prepend-buffer-then-continue design with identical statement and blank-line layout; renamed to Spanish, regex changed and add-loop replaced by update()"
+757270.py,758325.py,1,0,1,1,1,1,1,0,"same skeleton line for line; checks rewritten into ""if ... == value: pass else:"" form and renamed"
+731388.py,799081.py,0,0,0,0,0,0,0,0,"generic accumulation loop, renamed only; convergence"
+755061.py,758515.py,1,0,1,0,0,0,0,0,identical program with comments stripped
+749028.py,749480.py,1,0,1,1,1,1,1,0,both use the unusual technique of recording per-structure output lists and comparing them to the real outputs; renamed and verdict restructured
+752585.py,145640.py,0,0,0,0,0,0,0,0,different assignments
+758311.py,732397.py,0,0,0,0,0,0,0,0,different assignments
+749539.py,755002.py,0,0,0,0,0,0,0,0,different assignments
+731139.py,731858.py,1,0,1,1,1,1,0,0,both wrap the whole task in producto_escalar(casos) building a resultados list printed at the end; input reading relocated
+683216.py,796914.py,0,0,0,0,0,0,0,0,distinct unshared quirks (multiplicador helper vs input() redefinition)
+681731.py,732335.py,0,0,0,0,0,0,0,0,different assignments
+750288.py,757410.py,0,0,0,0,0,0,0,0,different assignments
+695704.py,683640.py,0,0,0,0,0,0,0,0,different assignments
+691484.py,691493.py,1,0,1,1,0,0,0,0,"identical program, only the two function names renamed"
+758885.py,755061.py,0,0,0,0,0,0,0,0,different assignments
+750857.py,146392.py,0,0,0,0,0,0,0,0,different assignments
+758554.py,756398.py,0,0,0,0,0,0,0,0,different assignments
+756669.py,759274.py,0,0,0,0,0,0,0,0,regex-substitution over the whole text vs per-word accumulation; independent
+146387.py,146689.py,0,0,0,0,0,0,0,0,different structures (tuple() casts vs plain split); independent
+748805.py,799081.py,0,0,0,0,0,0,0,0,different assignments
+755066.py,748405.py,0,0,0,0,0,0,0,0,different verdict chains and parsing; only the common peek-compare idiom shared
+752527.py,684378.py,0,0,0,0,0,0,0,0,different assignments
+145472.py,147941.py,1,1,1,0,0,0,0,0,"identical, including the map-append loops and range(1,b+1) with z-1 indexing"
+755787.py,759268.py,0,0,0,0,0,0,0,0,different designs (per-line buffer vs join-then-normalize); independent
+685070.py,685132.py,0,0,0,0,0,0,0,0,minimal zip one-liner with renames; convergence
+753589.py,754883.py,1,1,1,0,0,0,0,0,"identical, whitespace only"
+731702.py,731950.py,0,0,0,0,0,0,0,0,main-guard pattern only; different naming language and output handling
+755002.py,752921.py,0,0,0,0,0,0,0,0,"only the enumerate/last-word hyphen check in common; splitting, cleanup and structure all differ"
+681731.py,685733.py,1,0,1,1,0,0,0,0,identical program with identifiers abbreviated (pro_inp/lns/wrds/cur_wrd) and comments stripped
+685770.py,691105.py,1,1,1,0,0,0,0,0,byte-identical
+145640.py,148185.py,1,1,1,0,0,0,0,0,"identical, including the bizarre for-loop-with-break input reads"
+682752.py,775278.py,0,0,0,0,0,0,0,0,different solutions (batched results vs generator with wrong index)
+757188.py,731401.py,0,0,0,0,0,0,0,0,different assignments
+147300.py,148446.py,1,1,1,0,0,0,0,0,"identical, including the odd list(tuple(map(...))) casts"
+758279.py,759139.py,0,0,0,0,0,0,0,0,different assignments
+761805.py,693024.py,0,0,0,0,0,0,0,0,different assignments
+757907.py,683814.py,0,0,0,0,0,0,0,0,different assignments
+757066.py,759014.py,0,0,0,0,0,0,0,0,different data flow (join text then extract vs extract per line) and different regexes
+758929.py,685356.py,0,0,0,0,0,0,0,0,different assignments
+747224.py,755153.py,1,1,1,0,0,0,0,0,"identical, whitespace only"
+755220.py,691324.py,1,0,1,1,1,1,1,0,same stack/queue/heap lineage with the peculiar verdict block of three independent ifs; flags changed to booleans and reader restructured into main()
+765728.py,781518.py,1,1,1,0,0,0,0,0,byte-identical
+146385.py,146389.py,1,1,1,0,0,0,0,0,"identical, including the pointless x = [0]*nn preallocation"
+750173.py,145635.py,0,0,0,0,0,0,0,0,different assignments
+759618.py,758974.py,0,0,0,0,0,0,0,0,different assignments
+146958.py,147559.py,0,0,0,0,0,0,0,0,"same ordinary loop, different names; convergence"
+147052.py,147207.py,1,0,1,0,0,0,0,0,"identical code, one adds the header comment ""#dado dos vectores X ,Y""; shares the pointless [0]*nn preallocation"
+753350.py,755069.py,1,1,1,0,0,0,0,0,byte-identical
+748882.py,750412.py,0,0,0,0,0,0,0,0,sorted-list priority queue vs three separate test functions; independent
+748800.py,753422.py,0,0,0,0,0,0,0,0,different assignments
+748736.py,759546.py,1,0,1,1,1,1,0,0,identical check block and reader naming (entrada/i/operaciones/posibles); reorganized to process a list of cases
+755969.py,732009.py,0,0,0,0,0,0,0,0,different assignments
+757257.py,732223.py,0,0,0,0,0,0,0,0,different assignments
+757506.py,757882.py,0,0,0,0,0,0,0,0,"757882 belongs to the guess_structure/could_be_* lineage; 757506 differs in naming, checks and verdict order"
+758546.py,146385.py,0,0,0,0,0,0,0,0,different assignments
+693890.py,693915.py,1,1,1,0,0,0,0,0,"identical including the ""#Producto Escalar"" header and reused loop variable"
+755030.py,753274.py,0,0,0,0,0,0,0,0,different assignments
+755272.py,145420.py,0,0,0,0,0,0,0,0,different assignments
+755001.py,683663.py,0,0,0,0,0,0,0,0,different assignments
+758539.py,758587.py,1,0,1,1,0,0,0,0,"identical program with every identifier swapped for a synonym (pila_simulada, es_tipo_pila, respuestas, indice)"
+754930.py,755033.py,1,0,1,1,0,0,0,0,"identical program with identifiers shortened (P, l, P_en_l) and the same regex"
+758587.py,145056.py,0,0,0,0,0,0,0,0,different assignments
+748863.py,690977.py,0,0,0,0,0,0,0,0,different assignments
+147204.py,147270.py,0,0,0,0,0,0,0,0,"same ordinary loop, different names; convergence"
+131238.py,732125.py,1,0,1,0,0,0,0,0,"identical code, only indentation width differs; shares the distinctive while len(A)<n refill loops"
+748800.py,757233.py,1,0,1,0,0,0,0,0,identical program with the docstring and all comments removed
+748439.py,146823.py,0,0,0,0,0,0,0,0,different assignments
+747087.py,750612.py,0,0,0,0,0,0,0,0,different verdict formulations and naming language; shared parts are the routine simulation
+750173.py,758468.py,1,0,1,1,1,0,0,0,"same function and verdict chain, renamed (process_operations/process_case, op/cmd) and sum([...]) changed to boolean addition"
+148296.py,799042.py,0,0,0,0,0,0,0,0,different structures (global counter g vs per-case loop)
+755003.py,732224.py,0,0,0,0,0,0,0,0,different assignments
+758801.py,692971.py,0,0,0,0,0,0,0,0,different assignments
+749201.py,693744.py,0,0,0,0,0,0,0,0,different assignments
+755189.py,754700.py,0,0,0,0,0,0,0,0,different assignments
+138252.py,753589.py,0,0,0,0,0,0,0,0,different assignments
+758669.py,758904.py,1,1,1,0,0,0,0,0,byte-identical
+688772.py,692260.py,1,0,1,0,0,0,0,0,"identical program, one adds a trailing complexity comment"
+749857.py,750194.py,1,0,1,0,0,0,0,0,"identical program, one adds a trailing ""# O(nlogn)"" comment"
+724852.py,685132.py,0,0,0,0,0,0,0,0,different assignments
+752766.py,146955.py,0,0,0,0,0,0,0,0,different assignments
+759618.py,146387.py,0,0,0,0,0,0,0,0,different assignments
+750367.py,752846.py,0,0,0,0,0,0,0,0,different assignments
+754700.py,757504.py,0,0,0,0,0,0,0,0,"both join lines then regex, but names, regex and comments differ; convergence on an obvious approach"
+759213.py,731139.py,0,0,0,0,0,0,0,0,different assignments
+756487.py,147378.py,0,0,0,0,0,0,0,0,different assignments
+690878.py,691021.py,0,0,0,0,0,0,0,0,queue.PriorityQueue with string parsing vs heapq/deque; independent
+688772.py,755986.py,0,0,0,0,0,0,0,0,different assignments
+683663.py,683814.py,0,0,0,0,0,0,0,0,minimal zip one-liner with different names; convergence
+758819.py,686076.py,0,0,0,0,0,0,0,0,different assignments
+686576.py,756669.py,0,0,0,0,0,0,0,0,different assignments
+756109.py,732232.py,0,0,0,0,0,0,0,0,different assignments
+731427.py,731803.py,1,1,1,0,0,0,0,0,identical including all comments
+686470.py,688414.py,1,1,1,0,0,0,0,0,"identical, one padded with trailing spaces"
+749561.py,147731.py,0,0,0,0,0,0,0,0,different assignments
+147326.py,147962.py,1,1,1,0,0,0,0,0,"identical, including the redundant trailing s=0"
+145027.py,147653.py,0,0,0,0,0,0,0,0,different (tuple casts and while-countdown vs for loop with unused lists)
+691457.py,753128.py,0,0,0,0,0,0,0,0,different assignments
+759618.py,775278.py,0,0,0,0,0,0,0,0,different assignments
+755004.py,731599.py,0,0,0,0,0,0,0,0,different assignments
+753505.py,757388.py,1,1,1,0,0,0,0,0,"identical, whitespace only"
+755986.py,756331.py,1,0,1,0,0,0,0,0,identical program with all comments stripped
+748439.py,684919.py,0,0,0,0,0,0,0,0,different assignments
+749003.py,731848.py,0,0,0,0,0,0,0,0,different assignments
+756368.py,145635.py,0,0,0,0,0,0,0,0,different assignments
+146405.py,147692.py,1,1,1,0,0,0,0,0,"identical, including the ""for k in range(k)"" shadowing quirk"
+145395.py,147689.py,1,1,1,0,0,0,0,0,"identical, including the comprehension shadowing x and 3-space body indent"
+756368.py,759317.py,0,0,0,0,0,0,0,0,different techniques (word-level accumulation vs char scanner); independent
+758669.py,756000.py,0,0,0,0,0,0,0,0,different assignments
+685925.py,695704.py,1,0,1,1,1,1,1,0,same flag-guarded insertions and identical 5-branch verdict chain; parsing switched to a flat token stream and checks inverted with pass
+686928.py,146387.py,0,0,0,0,0,0,0,0,different assignments
+686641.py,686643.py,1,0,1,0,0,0,0,0,identical program with comments blanked out and a complexity note added
+759213.py,758491.py,1,0,1,1,0,0,0,0,complete Spanish translation of the same program (principal/entrada/datos/indice/conteo_valido)
+148316.py,730649.py,0,0,0,0,0,0,0,0,zip-based vs index-based; independent
+756811.py,732186.py,0,0,0,0,0,0,0,0,different assignments
+748805.py,712605.py,0,0,0,0,0,0,0,0,different assignments
+759213.py,758011.py,0,0,0,0,0,0,0,0,different assignments
+681701.py,682653.py,0,0,0,0,0,0,0,0,different assignments
+695704.py,685186.py,0,0,0,0,0,0,0,0,different assignments
+692971.py,758166.py,0,0,0,0,0,0,0,0,"different regexes, naming and reading; only the common buffer skeleton shared"
+755001.py,686444.py,0,0,0,0,0,0,0,0,different assignments

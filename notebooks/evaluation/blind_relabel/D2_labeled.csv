@@ -1,0 +1,146 @@
+File_1,File_2,Label,L0,L1,L2,L3,L4,L5,L6,Notes
+684383.py,777328.py,0,0,0,0,0,0,0,0,Function-based isalpha/toggle solution vs the imperative sw-flag index loop; no shared naming or comments.
+683736.py,742593.py,0,0,0,0,0,0,0,0,Prints char-by-char with a boolean sw and Spanish comments vs the c1/c2 string-building template; independent.
+781392.py,793214.py,0,0,0,0,0,0,0,0,Counter with two separate ifs and .upper()/.lower() vs ord/chr +-32 arithmetic on a list; different techniques.
+684756.py,777299.py,0,0,0,0,0,0,0,0,Function with isalpha toggle vs the imperative cad/baile/sw index loop; nothing shared beyond the assignment.
+682489.py,683736.py,1,0,1,0,0,0,0,0,Byte-identical logic; the only difference is 683736 carrying explanatory Spanish comments on the space/case branches.
+143304.py,143386.py,1,1,0,0,0,0,0,0,"Files are byte-for-byte identical, including the idiosyncratic c=-1 / c=c*-1 sign-flip toggle."
+790343.py,792360.py,0,0,0,0,0,0,0,0,Pre-reads all lines into a list and uses min/max temporaries vs an ord-range solution; independent.
+684123.py,742577.py,0,0,0,0,0,0,0,0,Print-as-you-go boolean solution vs the c1/c2 accumulator template; no shared markers.
+682719.py,777348.py,0,0,0,0,0,0,0,0,Commented function solution vs the sw-flag index loop; different structure and naming.
+134501.py,134533.py,1,1,0,0,0,0,0,0,"Byte-for-byte identical, including the unusual 'int (input ())' spacing and 1-space indentation."
+682130.py,783732.py,0,0,0,0,0,0,0,0,Index loop printing with sw=0/continue vs 'for _ in range(int(input()))' with isalpha and a string accumulator.
+729214.py,742511.py,0,0,0,0,0,0,0,0,Function plus main() guard with list/join vs the flat c1/c2 template; independent.
+147710.py,134447.py,1,0,1,1,1,0,0,0,Both share the idiosyncratic (and buggy) twin-counter idiom 'if ch==space: n+=1;x+=1 else: n=0' with 'if x==0 or x%2==n'; identifiers renamed and the condition literal changed to x%2==0.
+134390.py,134402.py,1,1,0,0,0,0,0,0,"Byte-for-byte identical, including 'int (input ())' spacing and single-space indentation."
+134481.py,134497.py,1,1,0,0,0,0,0,0,"Byte-for-byte identical, same unusual spacing/indentation style."
+742517.py,777623.py,1,0,1,1,0,0,0,0,"Same cohort template: sw flag, 'for k/i in range(0,len(cad))', parenthesised space test, space appended verbatim; only identifiers (c1/c2 vs cad/baile) and minor spacing differ."
+777328.py,777337.py,1,0,1,0,0,0,0,0,Identical code; 777328 only adds the '#cadena bailarina / #inicio / #fin' comment banner.
+684366.py,684545.py,1,0,1,0,0,0,0,0,"Identical function es_bailarina with the same Spanish comments ('# Comenzamos con mayuscula', '# Conservamos caracteres no alfabeticos'); differs only in trailing whitespace on blank lines."
+133318.py,777353.py,0,0,0,0,0,0,0,0,Prints each character immediately using a %2 counter vs building a string with an sw flag; independent.
+134571.py,134595.py,1,1,0,0,0,0,0,0,Byte-for-byte identical.
+743037.py,744480.py,1,0,1,0,0,0,0,0,"Identical c1/c2/sw code; 743037 only adds '# Inicio', '# cadena vacia', '#swith' comments."
+684756.py,684883.py,0,0,0,0,0,0,0,0,"Both use the canonical isalpha+toggle function, but with entirely different identifiers and no shared comments - convergent, not derived."
+759951.py,789477.py,0,0,0,0,0,0,0,0,Function with list/join vs a while-loop with index and sw=0; only the obvious toggle idea is shared.
+777740.py,777758.py,1,0,1,0,0,0,0,0,"Identical cad/baile/sw code, differing only in a space inside 'range (0,len(cad))'."
+148427.py,132359.py,0,0,0,0,0,0,0,0,Immediate printing with a %2 counter vs lowercasing first and building a string with duplicated branches.
+134525.py,147209.py,1,1,0,0,0,0,0,0,"Byte-for-byte identical, including the stray blank line inside the space branch."
+681725.py,777339.py,0,0,0,0,0,0,0,0,isalpha-based function vs the imperative sw template; independent.
+133159.py,133870.py,0,0,0,0,0,0,0,0,Counter starting at 1 with a 'p' temporary and a stray empty-string break vs an increment/decrement counter on a lowercased line.
+783732.py,795642.py,0,0,0,0,0,0,0,0,"Both toggle on isalpha, but one uses 'not flag' and a for _ header, the other explicit True/False assignments and a 'times' loop; convergent."
+143848.py,691074.py,0,0,0,0,0,0,0,0,ord-range cascade vs a small isalpha function; different techniques.
+784817.py,787481.py,0,0,0,0,0,0,0,0,"Both compress the case choice into a ternary, but one tests isalpha while the other uppercases the whole line first and tests for space; names differ - convergent."
+143161.py,687148.py,0,0,0,0,0,0,0,0,sys.stdin with ord arithmetic and a list vs a short isalpha function; unrelated.
+777277.py,777299.py,1,0,1,0,0,0,0,0,Same code and same semicolon-packed 'cad=input();baile=empty;sw=0' line; only indentation width differs.
+682489.py,742574.py,0,0,0,0,0,0,0,0,Immediate printing with a boolean vs the c1/c2 accumulator template; independent.
+729214.py,744343.py,0,0,0,0,0,0,0,0,Different guards (char != space with comments vs isalpha with an empty-string early return) and no shared comments.
+685031.py,760008.py,0,0,0,0,0,0,0,0,"Both are commented isalpha functions but the comments, names and output strategy (immediate print vs collected list) all differ."
+777468.py,777298.py,1,0,1,1,0,0,0,0,Same template including the redundant parenthesised space literal; only the inner index variable and a stray semicolon differ.
+143804.py,744317.py,0,0,0,0,0,0,0,0,ord-range cascade vs a function using 'continue' on spaces; unrelated approaches.
+777309.py,777311.py,1,0,1,0,0,0,0,0,Identical code; 777311 only adds the '#cadena bailarina / #inicio / #fin' comments and the 'sw=0 #mayusculas / 1: minusculas' note.
+143545.py,684499.py,0,0,0,0,0,0,0,0,"Both pre-uppercase the line and use ord, but the letter tests, flag conventions (g=1/2 vs c=0/1) and structure differ substantially."
+684816.py,789477.py,0,0,0,0,0,0,0,0,Function with list/join vs a while-loop index solution; independent.
+684402.py,684816.py,1,0,1,1,0,0,0,0,"Function bodies are identical token-for-token, sharing the distinctive English names 's', 'result', 'capitalize' in an otherwise Spanish-named cohort; only the function name and driver comments differ."
+711015.py,781392.py,0,0,0,0,0,0,0,0,ord/chr arithmetic in a while loop vs .upper()/.lower() with a counter; different techniques.
+143699.py,143791.py,0,0,0,0,0,0,0,0,String accumulation with a z counter vs immediate printing using isspace() and contador=2; independent.
+143376.py,693100.py,0,0,0,0,0,0,0,0,Sign-flip (c=-1) toggle in a function vs a while loop with a boolean bandera; different.
+682139.py,786177.py,0,0,0,0,0,0,0,0,Both canonical isalpha functions but with unrelated identifiers (resultado/es_mayuscula vs s/a) and different drivers.
+682489.py,742593.py,0,0,0,0,0,0,0,0,Immediate printing vs the c1/c2 template with #INICIO/#FIN; independent.
+777504.py,777651.py,1,0,1,0,0,0,0,0,"Identical code, differing only in a space in 'len (cad)' and the '#inicio/#fin' comments."
+133937.py,801329.py,0,0,0,0,0,0,0,0,Twin-counter idiom vs a solve() function using abs(sw-1) and a length-1 space guard.
+742520.py,786177.py,0,0,0,0,0,0,0,0,c1/c2 template accumulating into one big string vs an isalpha function; unrelated.
+682543.py,683339.py,1,1,0,0,0,0,0,0,Byte-for-byte identical.
+134319.py,686746.py,0,0,0,0,0,0,0,0,Letter test via an explicit alphabet string vs a lowercased char-range comparison with a duplicated toggle; different.
+684816.py,742574.py,0,0,0,0,0,0,0,0,Function with list/join vs the c1/c2 template; independent.
+686801.py,759895.py,1,0,1,1,0,0,0,0,Both use the distinctive default-space temporary ('var = space' then overwrite) with identical statement order; only identifier names (X/C vs palFinal/cont) differ.
+684454.py,684682.py,1,0,1,1,0,0,0,0,Identical print-as-you-go structure including the inverted 'if sw: lower else: upper' ordering and trailing double space after the space test; pure identifier rename.
+133318.py,777349.py,0,0,0,0,0,0,0,0,Immediate printing with a counter vs string building with sw; independent.
+134310.py,777354.py,0,0,0,0,0,0,0,0,Immediate printing with a %2 counter vs the cad/baile/sw template; independent.
+782144.py,793214.py,0,0,0,0,0,0,0,0,s=(s+1)%2 toggle with .upper()/.lower() vs ord/chr arithmetic with semicolon-terminated lines; different.
+684402.py,777234.py,0,0,0,0,0,0,0,0,English-named function with list/join vs the imperative sw template; independent.
+785894.py,794243.py,0,0,0,0,0,0,0,0,Boolean toggle on a plain string vs the odd concatenation temporary with blank lines between every statement.
+133937.py,134072.py,1,0,1,1,0,0,0,0,Identical twin-counter code including the same tab indentation and 'y=str(i.upper())' intermediate; only the outer loop variable is renamed.
+692262.py,743010.py,0,0,0,0,0,0,0,0,Commented isalpha function vs the lowercase-first counter template; unrelated.
+684989.py,685096.py,1,0,1,1,0,0,0,0,Identical inline print structure with the same sw=False toggle and branch order; only identifiers renamed (frase/char vs t/c) plus an added '#enteros' header.
+134279.py,134286.py,1,1,0,0,0,0,0,0,"Byte-for-byte identical, including the 'c' accumulator declared outside the loop and reset after printing."
+134159.py,777273.py,0,0,0,0,0,0,0,0,Twin-counter (n/x) idiom vs the cad/baile/sw template; different families.
+759949.py,799085.py,0,0,0,0,0,0,0,0,Explicit alphabet-string membership test vs ord arithmetic with a t=1-t toggle; independent.
+147206.py,682351.py,0,0,0,0,0,0,0,0,Lowercase-first counter loop vs a function with isalpha toggle; unrelated approaches.
+759933.py,782005.py,0,0,0,0,0,0,0,0,Function with char-range test vs sys.stdin.read with ascii_val arithmetic; unrelated.
+134640.py,143112.py,1,1,0,0,0,0,0,0,Identical apart from a trailing newline; same unusual 'int (input ())' spacing and 1-space indent.
+147213.py,783667.py,0,0,0,0,0,0,0,0,Unusual 'int (input ())' 1-space-indent style vs a conventional 4-space aux/c accumulator; no shared markers.
+791117.py,796747.py,1,1,0,0,0,0,0,0,"Byte-for-byte identical, including the pointless 'i=i+1' inside the loop."
+683276.py,791558.py,0,0,0,0,0,0,0,0,"Both canonical isalpha toggles, but abbreviations (ns/m) vs commented res/mayus with .strip(); convergent."
+134377.py,134512.py,1,1,0,0,0,0,0,0,Identical apart from a trailing blank line.
+132456.py,147206.py,1,1,0,0,0,0,0,0,"Byte-for-byte identical, including the shared 'range(n + 1)' off-by-one and lowercase-first technique."
+143835.py,143848.py,1,1,0,0,0,0,0,0,Identical apart from a trailing blank line; same ord()/32-offset four-branch cascade.
+777300.py,777303.py,1,0,1,0,0,0,0,0,Identical cad/baile/sw code including the semicolon-packed declaration line; differs only in incidental spacing.
+143839.py,787481.py,0,0,0,0,0,0,0,0,while-loop with a y flag vs a ternary over a pre-uppercased line; independent.
+684556.py,684568.py,1,1,0,0,0,0,0,0,Byte-for-byte identical.
+782005.py,782006.py,1,0,1,1,1,1,1,0,"Both are the same sys.stdin/ascii_val program with identical variable names; 782006 replaces the 'continue' space-guard with a 'y=y-1' decrement, changing only the control flow."
+766470.py,777286.py,0,0,0,0,0,0,0,0,Function using the default-space temporary trick vs the imperative sw template; different families.
+143207.py,143208.py,1,1,0,0,0,0,0,0,"Byte-for-byte identical, including the same 'cad[0].upper()' seeding and trailing spaces after print(s)."
+134408.py,134410.py,1,1,0,0,0,0,0,0,Byte-for-byte identical.
+134206.py,759933.py,0,0,0,0,0,0,0,0,Idiosyncratic dual upper/lower copies with a growing length counter vs a clean char-range function; unrelated.
+134369.py,143376.py,0,0,0,0,0,0,0,0,Immediate printing with c%2 vs a cambio() function with the c=-1 sign-flip; different.
+743010.py,760031.py,1,0,1,1,0,0,0,0,"Same distinctive approach: lowercase the whole line first, then only uppercase on even counter, with the same 'range(n + 1)' off-by-one; differs only by upper/lower-case identifiers."
+147247.py,794243.py,0,0,0,0,0,0,0,0,Twin-counter idiom vs the concatenation-temporary style; independent.
+685184.py,777309.py,0,0,0,0,0,0,0,0,isalpha function vs the imperative sw template; independent.
+682351.py,694470.py,0,0,0,0,0,0,0,0,isalpha function vs the unusual strip-spaces/step-2/re-insert-spaces approach; clearly unrelated.
+683319.py,777277.py,0,0,0,0,0,0,0,0,isalpha function vs the cad/baile/sw template; independent.
+684545.py,760031.py,0,0,0,0,0,0,0,0,Commented es_bailarina function vs the lowercase-first counter template; unrelated.
+694707.py,777601.py,0,0,0,0,0,0,0,0,cont=2 with an ord(car)==32 test vs a results-list template with sw; independent.
+787345.py,759924.py,0,0,0,0,0,0,0,0,The default-space temporary trick vs a plain if/else appending a space in the else branch; different loop bodies.
+134544.py,134549.py,1,1,0,0,0,0,0,0,Byte-for-byte identical.
+743037.py,743318.py,0,0,0,0,0,0,0,0,c1/c2 imperative template vs an isalpha function; unrelated.
+143425.py,685362.py,0,0,0,0,0,0,0,0,ord-range cascade vs a function with sys.stdin.read and a __main__ guard; different.
+682130.py,682522.py,1,1,0,0,0,0,0,0,"Byte-for-byte identical, including the 'continue' in the space branch."
+682522.py,796995.py,0,0,0,0,0,0,0,0,Immediate printing with sw=0 vs a string accumulator with explicit char-range tests; independent.
+751402.py,742593.py,1,0,1,1,1,0,0,0,"Same c1/c2/sw template with the '#inicio'/'#fin' banner comments; identifiers and the loop bound (range(1,T+1) vs range(0,x+1)) changed."
+681552.py,777356.py,0,0,0,0,0,0,0,0,Function with enumerate and a special i==0 case vs the imperative sw template; unrelated.
+143831.py,143839.py,1,1,0,0,0,0,0,0,"Byte-for-byte identical, including the pointless index/accumulator reset after the print."
+133318.py,134294.py,1,1,0,0,0,0,0,0,"Byte-for-byte identical, including the stray blank line before the space print."
+700451.py,799085.py,0,0,0,0,0,0,0,0,"Both use ord arithmetic and a 1-x toggle, but differ in test style (char vs code comparisons), accumulation (list vs string) and comments; convergent use of a known trick."
+684604.py,147901.py,0,0,0,0,0,0,0,0,Index loop with sw=0/continue vs a while-countdown with sw=1; independent.
+682130.py,785894.py,0,0,0,0,0,0,0,0,Immediate printing with an int flag vs string building with a boolean; independent.
+134226.py,777320.py,0,0,0,0,0,0,0,0,Twin-counter (n/x) idiom vs the cad/baile/sw template; different families.
+142889.py,761902.py,0,0,0,0,0,0,0,0,Distinctive two-flag (s1/s2) solution vs a single cont flag with a results list; unrelated.
+777451.py,777511.py,1,0,1,1,0,0,0,0,Same cohort template line-for-line; only the accumulator name (baile vs bailarina) and small indentation differences.
+766470.py,777459.py,0,0,0,0,0,0,0,0,Function using the default-space temporary trick vs the imperative sw template; independent.
+143831.py,787481.py,0,0,0,0,0,0,0,0,while loop with y flag vs a ternary over a pre-uppercased line; independent.
+143848.py,744343.py,0,0,0,0,0,0,0,0,ord-range cascade vs an isalpha function with an early empty-string return; unrelated.
+743318.py,777339.py,0,0,0,0,0,0,0,0,isalpha function vs the imperative cad/baile/sw template; independent.
+134617.py,134626.py,1,1,0,0,0,0,0,0,Byte-for-byte identical.
+143804.py,143807.py,1,1,0,0,0,0,0,0,"Byte-for-byte identical, including the same four-branch ord() cascade with sw."
+682460.py,759951.py,0,0,0,0,0,0,0,0,"Both isalpha functions with list/join, but all identifiers differ (uppercase/resultado vs mayus/r); convergent."
+777734.py,777749.py,1,0,1,0,0,0,0,0,Identical cad/baile/sw code; differs only in spacing and the '# mayuscula' comment.
+682460.py,782006.py,0,0,0,0,0,0,0,0,isalpha function vs sys.stdin with ascii_val arithmetic; unrelated.
+759949.py,793214.py,0,0,0,0,0,0,0,0,Alphabet-string membership test vs ord/chr arithmetic with semicolons; independent.
+134397.py,777371.py,0,0,0,0,0,0,0,0,Immediate printing with a %2 counter vs the sw string-building template; independent.
+684545.py,777277.py,0,0,0,0,0,0,0,0,Commented isalpha function vs the imperative sw template; independent.
+761518.py,788716.py,0,0,0,0,0,0,0,0,cont 0/1 with a space test vs a boolean with an ord()!=32 test; different details and naming.
+134105.py,759951.py,0,0,0,0,0,0,0,0,Idiosyncratic aux=2/aux=1 reassignment logic vs a clean isalpha function; unrelated.
+682525.py,799085.py,0,0,0,0,0,0,0,0,List-mutating bailarin() that prints in place vs ord arithmetic with a t=1-t toggle; different.
+147899.py,787890.py,0,0,0,0,0,0,0,0,Counter incremented only on letters but applied to every character vs an explicit True/False boolean; different logic.
+684366.py,743010.py,0,0,0,0,0,0,0,0,Commented isalpha function vs the lowercase-first counter template; unrelated.
+143376.py,782144.py,0,0,0,0,0,0,0,0,c=-1 sign-flip toggle vs s=(s+1)%2; different techniques despite both using a helper function.
+143835.py,691074.py,0,0,0,0,0,0,0,0,ord-range cascade vs a short isalpha function; unrelated.
+685184.py,777303.py,0,0,0,0,0,0,0,0,isalpha function vs the imperative sw template; independent.
+685184.py,692262.py,0,0,0,0,0,0,0,0,"Both isalpha toggle functions, but different names, parameter names and comments; convergent."
+143425.py,681835.py,0,0,0,0,0,0,0,0,ord-range cascade vs an isalpha function with blank lines between statements; unrelated.
+132456.py,681679.py,0,0,0,0,0,0,0,0,Lowercase-first counter template vs a commented isalpha function; independent.
+777795.py,777811.py,1,1,0,0,0,0,0,0,"Byte-for-byte identical, including the semicolon-packed declaration line."
+684272.py,761518.py,0,0,0,0,0,0,0,0,Heavily commented function with list/join vs a terse inline cont 0/1 loop; unrelated.
+777253.py,777257.py,1,0,1,1,0,0,0,0,Same template line-for-line including the sw annotation idea; accumulator renamed and '#INICIO/#FIN' comments added.
+143807.py,687148.py,0,0,0,0,0,0,0,0,ord-range cascade vs a short isalpha function; unrelated.
+147367.py,777281.py,0,0,0,0,0,0,0,0,Converts to a list and appends into a new list with join vs direct string concatenation with sw; different.
+134322.py,777371.py,0,0,0,0,0,0,0,0,Immediate printing with a %2 counter vs the sw string-building template; independent.
+143425.py,143797.py,1,1,0,0,0,0,0,0,"Byte-for-byte identical, including the identical ord-range four-branch cascade."
+711015.py,778654.py,0,0,0,0,0,0,0,0,ord/chr arithmetic in a while loop vs a simple contador with continue; unrelated.
+777839.py,777882.py,1,0,1,1,1,0,0,0,"Same cad/baile/sw template with identical identifiers; differs in formatting, the '#inicio/#fin' comments and the loop bound range(0,n+1) vs range(1,n+1)."
+744343.py,777234.py,0,0,0,0,0,0,0,0,isalpha function with an early return vs the imperative sw template; independent.
+134397.py,777440.py,0,0,0,0,0,0,0,0,Immediate printing with a counter vs the sw string-building template; independent.
+777320.py,777321.py,1,1,0,0,0,0,0,0,"Byte-for-byte identical, including the '#inicio'/'#fin' comments."
+682525.py,801329.py,0,0,0,0,0,0,0,0,List-mutating print-in-place function vs solve() with abs(sw-1) and a special-case guard; different.
+143839.py,792290.py,0,0,0,0,0,0,0,0,"while loop with index and y flag vs a for loop with a list, continue and join; different."
+147214.py,762232.py,0,0,0,0,0,0,0,0,Immediate printing with c%2 and three branches vs a function building a string with sw and continue; independent.

@@ -1,0 +1,146 @@
+File_1,File_2,Label,L0,L1,L2,L3,L4,L5,L6,Notes
+682351.py,683319.py,1,0,1,1,0,0,0,0,Line-for-line identical isalpha/toggle function; only function and variable names differ (hacer_bailarina/usar_mayuscula vs convertir_a_bailarina/mayuscula).
+694470.py,697252.py,0,0,0,0,0,0,0,0,Completely different techniques: space-stripping plus list insert with ord arithmetic vs counter-mod helper function.
+773117.py,777661.py,1,0,1,1,0,0,0,0,Same inline statement sequence with isalpha and boolean flag; differs only in names and the comment block.
+147247.py,147694.py,1,0,1,1,0,0,0,0,Shares the idiosyncratic n/x counter test 'if x==0 or x%2==n'; only the outer loop variable differs.
+760008.py,782006.py,0,0,0,0,0,0,0,0,isalpha/join helper reading via input() vs sys.stdin with ord arithmetic; no shared markers.
+682522.py,796996.py,0,0,0,0,0,0,0,0,Print-per-character with continue vs string accumulation with explicit 'a'<=c<='z' range test.
+134322.py,777355.py,0,0,0,0,0,0,0,0,Different families: print-per-char counter-mod vs cad/baile/sw accumulation.
+744348.py,762155.py,0,0,0,0,0,0,0,0,isalpha helper with sys.stdin vs inline ord arithmetic with switch/mayus/minu constants.
+685362.py,762155.py,0,0,0,0,0,0,0,0,Function plus main() with isalpha vs inline ord arithmetic; nothing shared beyond the task.
+777317.py,777404.py,1,1,0,0,0,0,0,0,Byte-for-byte identical.
+134072.py,794243.py,0,0,0,0,0,0,0,0,Idiosyncratic n/x counter trick vs blank-line-padded t=True toggle; unrelated.
+133900.py,143199.py,0,0,0,0,0,0,0,0,Accumulator with d=2 counter vs print-per-char using chr(ord()-32); different approaches.
+777271.py,777289.py,1,0,1,0,0,0,0,0,Same code; differs only in the #inicio/#fin comments and trailing whitespace.
+777309.py,783625.py,0,0,0,0,0,0,0,0,cad/baile/sw inline family vs isalpha helper function; no shared idiosyncrasies.
+134514.py,134518.py,1,1,0,0,0,0,0,0,Byte-for-byte identical.
+681941.py,755549.py,1,0,1,1,0,0,0,0,Same compact solution including the distinctive ternary 'r+=x.upper() if m else x.lower()'; only indentation width and one loop name differ.
+682646.py,777328.py,0,0,0,0,0,0,0,0,isalpha helper vs cad/baile/sw inline template; unrelated.
+133870.py,761758.py,0,0,0,0,0,0,0,0,Pre-lowercasing with parity index vs helper function with sw flag and continue; independent.
+133870.py,762232.py,0,0,0,0,0,0,0,0,Pre-lowercasing with parity index vs helper function with sw flag and continue; independent.
+143835.py,687594.py,0,0,0,0,0,0,0,0,ASCII-range arithmetic with sw vs nov_bai helper using isalpha; different techniques.
+682139.py,777349.py,0,0,0,0,0,0,0,0,Helper plus main() with isalpha vs cad/bailarina/sw inline template; unrelated.
+689979.py,797058.py,0,0,0,0,0,0,0,0,Both use a space-continue plus boolean flag but that is the obvious solution; toggle written differently and no shared naming.
+777315.py,777316.py,1,0,1,0,0,0,0,0,Identical statements; only spacing style and #Inicio/#Fin comments differ.
+134397.py,134506.py,1,1,0,0,0,0,0,0,Byte-for-byte identical including the stray blank line inside the elif.
+143807.py,744317.py,0,0,0,0,0,0,0,0,ASCII-range arithmetic vs isalpha-free helper with guard clause; independent.
+684383.py,687509.py,1,0,1,1,0,1,0,0,Same helper body statement for statement; renamed and one version wraps the loop in enumerate() with an unused index.
+777640.py,789477.py,0,0,0,0,0,0,0,0,isalpha for-loop accumulation vs while-countdown with '!= space' test; only the generic sw flag is shared.
+777286.py,777459.py,1,0,1,0,0,0,0,0,Identical code including the unusual redundant parentheses in 'cad[i]==( )'; differs only in comments/whitespace.
+684756.py,777300.py,0,0,0,0,0,0,0,0,isalpha helper vs cad/baile/sw inline template; unrelated.
+134368.py,134388.py,1,1,0,0,0,0,0,0,Byte-for-byte identical including the one-space indentation.
+134159.py,134226.py,1,0,1,1,0,0,0,0,Shares the idiosyncratic 'if x==0 or x%2==n' space-counter test; only identifiers renamed.
+147206.py,692262.py,0,0,0,0,0,0,0,0,Pre-lowercased cont%2 loop with range(n+1) bug vs isalpha helper; independent.
+147781.py,147927.py,1,1,0,0,0,0,0,0,Byte-for-byte identical.
+134310.py,134322.py,1,1,0,0,0,0,0,0,Byte-for-byte identical.
+685362.py,744348.py,1,0,1,1,0,1,0,0,Both use the same list-append isalpha helper with matching Spanish comments and the unusual sys.stdin.read() splitlines driver; driver reorganized (main()/__main__ vs inline results list).
+143797.py,787865.py,0,0,0,0,0,0,0,0,ASCII-range arithmetic with sw vs simple upper/lower helper; different techniques.
+777340.py,777341.py,1,1,0,0,0,0,0,0,Byte-for-byte identical including the trailing semicolon after sw=0.
+699134.py,742709.py,0,0,0,0,0,0,0,0,Inline pre-lowercased toggle vs solve(list) with ord arithmetic and T=1-T; independent.
+147901.py,697252.py,0,0,0,0,0,0,0,0,while-countdown printing per char vs explorer() accumulating with i%2; independent.
+782144.py,796995.py,0,0,0,0,0,0,0,0,Helper with s=(s+1)%2 arithmetic vs inline explicit letter-range test; independent.
+684883.py,777300.py,0,0,0,0,0,0,0,0,English-named isalpha helper vs cad/baile/sw template; unrelated.
+684272.py,777340.py,0,0,0,0,0,0,0,0,Commented isalpha helper vs cad/baile/sw template; unrelated.
+134105.py,134206.py,0,0,0,0,0,0,0,0,Two different odd approaches (aux=2/aux=1 reset vs parallel upper/lower copies with slicing); no shared origin.
+682525.py,695038.py,0,0,0,0,0,0,0,0,list(cad) helper printing per char vs inline count%2 elif chain; independent.
+134206.py,681835.py,0,0,0,0,0,0,0,0,Parallel-case slicing hack vs canonical isalpha helper; unrelated.
+133937.py,777321.py,0,0,0,0,0,0,0,0,n/x counter family vs cad/baile/sw family; unrelated.
+134294.py,777354.py,0,0,0,0,0,0,0,0,Print-per-char counter family vs cad/baile/sw accumulation family; unrelated.
+685031.py,777270.py,0,0,0,0,0,0,0,0,make_dancing_string helper vs cad/baile/sw template; unrelated.
+687509.py,695038.py,0,0,0,0,0,0,0,0,enumerate isalpha helper vs terse inline loop over list(input()); independent.
+143161.py,687594.py,0,0,0,0,0,0,0,0,stdin/stdout with ord comparisons vs nov_bai isalpha helper; independent.
+777371.py,777440.py,1,0,1,0,0,0,0,0,Same code; only a trailing '# mayuscula' comment and trailing space differ.
+147710.py,777273.py,0,0,0,0,0,0,0,0,n/x counter family vs cad/baile/sw family; unrelated.
+134226.py,777356.py,0,0,0,0,0,0,0,0,n/x counter family vs cad/baile/sw family; unrelated.
+742516.py,742520.py,1,1,0,0,0,0,0,0,Byte-for-byte identical including the buffered output built in f.
+134369.py,147214.py,1,1,0,0,0,0,0,0,Byte-for-byte identical.
+761758.py,762232.py,1,1,0,0,0,0,0,0,Byte-for-byte identical including the unused variable q.
+742516.py,786177.py,0,0,0,0,0,0,0,0,c1/c2 buffered inline solution vs isalpha helper; unrelated.
+684402.py,777341.py,0,0,0,0,0,0,0,0,make_dancing_string helper vs cad/baile/sw template; unrelated.
+683736.py,742577.py,0,0,0,0,0,0,0,0,frase print-per-char family vs c1/c2 accumulation family; unrelated.
+681679.py,685310.py,1,0,1,0,0,0,0,0,Identical helper and driver including the distinctive empty-prompt calls input(""); one version just adds comments/blank lines.
+777354.py,777355.py,1,1,0,0,0,0,0,0,Identical apart from one space after a semicolon.
+742627.py,777281.py,1,0,1,1,0,0,0,0,Same template statement for statement (range(1 n+1) loop; sw=0 flag; space passthrough); identifiers renamed and comments added.
+147214.py,681552.py,0,0,0,0,0,0,0,0,Terse print-per-char loop vs enumerate helper with an i==0 special case; independent.
+143831.py,792290.py,0,0,0,0,0,0,0,0,while-loop index accumulation vs list-based for loop with continue; independent.
+777293.py,777310.py,1,1,0,0,0,0,0,0,Byte-for-byte identical.
+781288.py,798958.py,1,0,1,1,0,1,0,0,Same statement sequence and contador%2 pattern with increment after the branch; counter renamed and its declaration moved above/below the accumulator.
+777736.py,799313.py,0,0,0,0,0,0,0,0,sw flip-flop template vs independent counter-mod accumulation; toggle mechanism differs.
+691074.py,785878.py,0,0,0,0,0,0,0,0,nov_bai isalpha helper vs bailarin using ord(letra)!=32; independent.
+134429.py,134463.py,1,0,1,1,0,0,0,0,Identical one-space-indented 'letra' solution; a single variable renamed (x vs a).
+777287.py,777332.py,1,0,1,1,0,0,0,0,Identical template; accumulator renamed bailarina vs baile only.
+777273.py,777356.py,1,0,1,0,0,0,0,0,Same elif-variant of the template; differs only in indentation width and += vs concatenation.
+742511.py,742558.py,1,1,0,0,0,0,0,0,Identical apart from insignificant spacing.
+777234.py,777270.py,1,0,1,1,0,0,0,0,Identical template; accumulator renamed bail vs baile plus spacing and a comment.
+681979.py,761518.py,0,0,0,0,0,0,0,0,isalpha list helper vs terse inline cont flag; independent.
+149231.py,684499.py,0,0,0,0,0,0,0,0,One-line ternary with isspace vs vc() building an uppercased copy with ord checks; independent.
+781392.py,792360.py,0,0,0,0,0,0,0,0,Helper with counter-decrement trick vs inline ord arithmetic; independent.
+685273.py,685347.py,1,1,0,0,0,0,0,0,Identical apart from trailing whitespace.
+777792.py,777794.py,1,1,0,0,0,0,0,0,Byte-for-byte identical.
+134072.py,777321.py,0,0,0,0,0,0,0,0,n/x counter family vs cad/baile/sw family; unrelated.
+684883.py,777299.py,0,0,0,0,0,0,0,0,isalpha helper vs cad/baile/sw template; unrelated.
+693100.py,711015.py,0,0,0,0,0,0,0,0,Verbose Spanish while-loop with bandera vs convierte() using ord comparisons; independent.
+143804.py,787865.py,0,0,0,0,0,0,0,0,ASCII-range arithmetic vs simple upper/lower helper; independent.
+718122.py,143394.py,1,0,1,1,1,1,0,0,Shares the distinctive c=-1 / c=c*-1 sign-flip toggle and identical loop shape; the flip statement is duplicated into both branches in one version.
+134425.py,134427.py,1,1,0,0,0,0,0,0,Byte-for-byte identical.
+681979.py,777340.py,0,0,0,0,0,0,0,0,make_dancing_string helper vs cad/baile/sw template; unrelated.
+685031.py,777341.py,0,0,0,0,0,0,0,0,make_dancing_string helper vs cad/baile/sw template; unrelated.
+777349.py,777353.py,1,0,1,1,0,0,0,0,Identical template; accumulator renamed and spacing normalized.
+134128.py,134364.py,1,1,0,0,0,0,0,0,Byte-for-byte identical including the one-space indentation.
+143791.py,783732.py,0,0,0,0,0,0,0,0,isspace print-per-char with contador=2 vs isalpha accumulation; independent.
+699134.py,777255.py,0,0,0,0,0,0,0,0,Pre-lowercased toggle vs continue-based accumulation; independent.
+682719.py,777337.py,0,0,0,0,0,0,0,0,Commented isalpha helper vs cad/baile/sw template; unrelated.
+685310.py,700451.py,0,0,0,0,0,0,0,0,isalpha helper vs list/ord arithmetic with ban=1-ban; independent.
+134310.py,777355.py,0,0,0,0,0,0,0,0,Print-per-char counter family vs cad/baile/sw family; unrelated.
+695038.py,778654.py,0,0,0,0,0,0,0,0,elif chain over count%2 vs continue with increment-before-test; independent.
+134369.py,761758.py,0,0,0,0,0,0,0,0,Terse print-per-char loop vs bailarina() helper; independent.
+762155.py,792360.py,0,0,0,0,0,0,0,0,Both do ord arithmetic but with quite different structure and the switch/mayus/minu idiom appears in only one.
+744317.py,792290.py,0,0,0,0,0,0,0,0,Helper with empty-string guard vs inline list loop; only the generic continue-on-space idiom is shared.
+684499.py,759949.py,0,0,0,0,0,0,0,0,vc() with an uppercased copy vs alphabet-membership check on a lowercased line; independent.
+147958.py,148393.py,1,1,0,0,0,0,0,0,Byte-for-byte identical.
+682646.py,682719.py,1,0,1,1,0,0,0,0,Same helper body and driver shape; renamed (res/mayus vs nueva_cadena/es_mayuscula) with comments added.
+681725.py,681835.py,1,0,1,0,0,0,0,0,Same code with identical identifiers; one version merely has blank lines inserted between every statement.
+143113.py,143126.py,1,1,0,0,0,0,0,0,Byte-for-byte identical.
+777304.py,777350.py,1,0,1,1,0,0,0,0,Same template; accumulator renamed (bl vs ba) with minor statement-joining and paren style changes.
+683715.py,683718.py,1,0,1,1,0,0,0,0,Identical inline isalpha/toggle block statement for statement; only identifiers differ.
+681552.py,787865.py,0,0,0,0,0,0,0,0,enumerate helper with an i==0 special case vs simple conv() on '!= space'; independent.
+143791.py,778654.py,0,0,0,0,0,0,0,0,isspace print-per-char vs continue-based accumulation; independent.
+134105.py,682460.py,0,0,0,0,0,0,0,0,aux=2/aux=1 reset hack vs canonical isalpha list helper; unrelated.
+777241.py,777247.py,1,0,1,1,0,0,0,0,Identical template; accumulator renamed baile vs bailarina plus comment and spacing changes.
+147598.py,147947.py,1,1,0,0,0,0,0,0,Byte-for-byte identical.
+682646.py,777311.py,0,0,0,0,0,0,0,0,isalpha helper vs cad/baile/sw template; unrelated.
+682139.py,777348.py,0,0,0,0,0,0,0,0,Helper plus main() vs cad/bailarina/sw template; unrelated.
+712316.py,759999.py,1,0,1,1,0,0,0,0,Identical inline isalpha/flag block line for line; only identifiers differ (verif vs is_upper etc.).
+687509.py,777337.py,0,0,0,0,0,0,0,0,enumerate isalpha helper vs cad/baile/sw template; unrelated.
+742709.py,790343.py,0,0,0,0,0,0,0,0,ord arithmetic over a collected list vs counter-decrement with min/max variables; independent.
+687148.py,687594.py,1,1,0,0,0,0,0,0,Identical apart from one trailing whitespace character.
+681979.py,684272.py,1,0,1,1,0,0,0,0,Same list-append helper and driver with matching non-generic comments (Leer la cadena de texto / Imprimir el resultado); function and variable names differ.
+147390.py,147393.py,1,1,0,0,0,0,0,0,Byte-for-byte identical.
+143545.py,149231.py,0,0,0,0,0,0,0,0,please() with ord ranges and g=1/2 vs a one-line ternary; independent.
+684383.py,777311.py,0,0,0,0,0,0,0,0,isalpha helper vs cad/baile/sw template; unrelated.
+681679.py,700451.py,0,0,0,0,0,0,0,0,isalpha helper vs list/ord arithmetic with ban=1-ban; independent.
+681725.py,743037.py,0,0,0,0,0,0,0,0,isalpha helper vs c1/c2 inline template; unrelated.
+143698.py,145285.py,1,1,0,0,0,0,0,0,Identical apart from trailing blank lines.
+132244.py,143199.py,0,0,0,0,0,0,0,0,upper()/lower() print with sw=True vs chr(ord()-32) on a lowercased line; different techniques.
+147367.py,694470.py,0,0,0,0,0,0,0,0,List-append with c%2 vs space-stripping and re-insertion; independent.
+147367.py,777320.py,0,0,0,0,0,0,0,0,List-append helperless loop vs cad/baile/sw template; unrelated.
+742574.py,742577.py,1,1,0,0,0,0,0,0,Byte-for-byte identical.
+143545.py,785894.py,0,0,0,0,0,0,0,0,please() with ord ranges vs plain inline boolean toggle; independent.
+684366.py,760031.py,0,0,0,0,0,0,0,0,isalpha helper vs pre-lowercased cont%2 loop with range(n+1); independent.
+683319.py,777270.py,0,0,0,0,0,0,0,0,isalpha helper vs cad/baile/sw template; unrelated.
+777286.py,785878.py,0,0,0,0,0,0,0,0,cad/baile/sw template vs bailarin() using ord(letra)!=32; unrelated.
+777339.py,777348.py,1,0,1,1,0,0,0,0,Identical template; accumulator renamed baile vs bailarina only.
+743318.py,783625.py,1,0,1,1,0,0,0,0,Same helper body and driver statement for statement; identifiers renamed (resultado/es_mayuscula vs s/May).
+684123.py,684176.py,1,1,0,0,0,0,0,0,Byte-for-byte identical.
+147901.py,785878.py,0,0,0,0,0,0,0,0,while-countdown printing per char vs helper using ord()!=32; independent.
+134294.py,777353.py,0,0,0,0,0,0,0,0,Print-per-char counter family vs cad/baile/sw family; unrelated.
+133900.py,143211.py,0,0,0,0,0,0,0,0,Accumulator with d=2 counter vs print-per-char with counter decrement on spaces; independent.
+777303.py,783625.py,0,0,0,0,0,0,0,0,cad/baile/sw inline template vs isalpha helper function; unrelated.
+699134.py,729214.py,0,0,0,0,0,0,0,0,Terse inline pre-lowercased loop vs commented helper with main(); independent.
+132456.py,685310.py,0,0,0,0,0,0,0,0,Pre-lowercased cont%2 loop with range(n+1) bug vs isalpha helper; independent.
+134159.py,801329.py,0,0,0,0,0,0,0,0,n/x counter family vs solve() with abs(sw-1) and an empty-line special case; independent.
+760008.py,782005.py,0,0,0,0,0,0,0,0,isalpha helper collecting results vs sys.stdin ord arithmetic; independent.
+796995.py,796996.py,1,1,0,0,0,0,0,0,Byte-for-byte identical.
+143797.py,744348.py,0,0,0,0,0,0,0,0,ASCII-range arithmetic vs isalpha helper with sys.stdin; unrelated.
+697252.py,766470.py,0,0,0,0,0,0,0,0,explorer() printing inside the helper with i=-1 pre-increment vs volverCadenaBailarina with a var=' ' default; independent.
+682543.py,796996.py,0,0,0,0,0,0,0,0,Print-per-char with continue vs accumulation with explicit letter-range test; independent.

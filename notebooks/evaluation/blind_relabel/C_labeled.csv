@@ -1,0 +1,141 @@
+File_1,File_2,Label,L0,L1,L2,L3,L4,L5,L6,Notes
+770656.py,792062.py,0,0,0,0,0,0,0,0,One uses a single boolean expression and the other a nested if/else cascade; no shared idiosyncrasies.
+150163.py,770668.py,0,0,0,0,0,0,0,0,Lambda one-liner vs a tab-indented nested-if function; entirely different styles.
+693835.py,770198.py,0,0,0,0,0,0,0,0,Nested-if 'anio' version vs the canonical single-expression version with variable 'xd'; independent.
+770607.py,770622.py,0,0,0,0,0,0,0,0,Both are the textbook single-boolean solution with different variable names; expected convergence.
+770567.py,770853.py,1,0,1,0,0,0,0,0,Same three-level nested cascade with identical variable 'a' and matching stray trailing-double-space artifacts after the inner if colons.
+773307.py,802351.py,0,0,0,0,0,0,0,0,One-space-indented %100-first cascade vs a range-guarded flag variable; unrelated.
+770668.py,770688.py,1,0,1,1,0,0,0,0,Identical four-level True/False nested-if function body; only the function name (año_bisiesto/es_bisiesto) and tab-vs-space indentation differ.
+694043.py,694110.py,1,1,1,0,0,0,0,0,"Byte-identical including the distinctive '#Años Bisiesto' comment and the 'print (""si"")' space-before-paren quirk; differ only in trailing blank lines."
+693083.py,773307.py,0,0,0,0,0,0,0,0,Integer-division trick vs one-space-indented %100-first cascade; no shared traits.
+773564.py,773593.py,0,0,0,0,0,0,0,0,Both canonical single-expression solutions; one collapses bodies onto the if line. Independent convergence.
+773501.py,773526.py,0,0,0,0,0,0,0,0,Identical but only because both are the exact canonical textbook form shared by ~25 submissions; no distinguishing marker.
+130230.py,784709.py,0,0,0,0,0,0,0,0,Same else-containing-nested-if shape but different variables and tab-vs-space indentation; a common beginner structure.
+693791.py,770198.py,0,0,0,0,0,0,0,0,Nested 'anio' cascade vs canonical one-expression solution; independent.
+773402.py,773553.py,0,0,0,0,0,0,0,0,Flag-variable approach vs a string-returning helper function; different designs.
+693732.py,711087.py,0,0,0,0,0,0,0,0,Nested cascade with comment vs a five-line canonical solution; independent.
+788409.py,791936.py,0,0,0,0,0,0,0,0,One has Spanish step comments and .strip(); the other uses reversed operand order and no comments.
+773102.py,797286.py,0,0,0,0,0,0,0,0,Helper function returning strings vs a range-guarded elif chain; unrelated.
+150163.py,781593.py,0,0,0,0,0,0,0,0,Lambda with the arithmetic formula vs a string-slicing approach on the year text; genuinely different techniques.
+791981.py,773255.py,0,0,0,0,0,0,0,0,"Both use the refactored '%4 and (%100 or %400)' grouping but with different names, spacing and parenthesization; that grouping is common here."
+770668.py,773593.py,0,0,0,0,0,0,0,0,Nested-if function vs a two-line canonical solution; independent.
+700505.py,772814.py,0,0,0,0,0,0,0,0,Hardcoded 1800/1900 special case vs a tab-indented %4-first cascade; unrelated.
+770632.py,770861.py,0,0,0,0,0,0,0,0,Both canonical single-expression solutions with different variable names; expected convergence.
+145335.py,773034.py,0,0,0,0,0,0,0,0,One-space-indented %100-first cascade vs canonical expression with .strip(); no shared traits.
+693660.py,693732.py,1,0,1,0,0,0,0,0,"Identical nested cascade with the 'print (""si"")' spacing quirk; the only difference is the added '#Años Bisiesto' header comment."
+693861.py,693862.py,1,1,1,0,0,0,0,0,Byte-identical nested 'anio' cascade including the print-space quirk and trailing blank lines.
+693406.py,711087.py,0,0,0,0,0,0,0,0,Both canonical single-expression; names and a stray blank line differ. Independent.
+773553.py,792059.py,0,0,0,0,0,0,0,0,Compact string-returning function vs a verbose flag-variable cascade; unrelated.
+773231.py,773241.py,0,0,0,0,0,0,0,0,Both canonical; the distinctive '#type(tipo)' comment appears in only one of them.
+770307.py,770505.py,0,0,0,0,0,0,0,0,Canonical body shared by many submissions; one adds '#type(tipo)' but the other has no distinguishing marker to tie it to that cluster.
+783785.py,797286.py,0,0,0,0,0,0,0,0,Boolean-returning helper vs a range-guarded elif chain; different designs.
+770840.py,773298.py,0,0,0,0,0,0,0,0,Three-branch elif chain vs a string-returning function; unrelated.
+770568.py,771190.py,0,0,0,0,0,0,0,0,Both use an elif chain with two 'si' branches and single quotes but with the branch order swapped and different names/spacing; plausibly independent.
+134018.py,772683.py,0,0,0,0,0,0,0,0,Unparenthesized single expression vs a one-space-indented %100-first cascade; unrelated.
+772939.py,773322.py,1,0,1,1,0,0,0,0,Both use the non-canonical reversed form '(X % 400 == 0) or (X % 4 == 0 and X % 100 != 0)' with identical parenthesization and spacing; only the variable name differs.
+694043.py,770594.py,0,0,0,0,0,0,0,0,Nested 'anio' cascade with comment vs a range-guarded canonical expression; unrelated.
+770032.py,772683.py,0,0,0,0,0,0,0,0,Positive-guard canonical expression vs a one-space-indented cascade; unrelated.
+770568.py,770688.py,0,0,0,0,0,0,0,0,Elif chain vs a nested-if boolean function; different designs.
+693775.py,693791.py,1,0,1,0,0,0,0,0,"Same nested 'anio' cascade with the 'print (""si"")' spacing quirk; differ only by the '#Años Bisiesto' comment and a trailing blank line."
+693083.py,797132.py,1,0,1,0,1,0,1,0,Both replace the %400 test with the unusual integer-division trick (n//100 % 4 == 0) - an idiosyncratic shared technique - though restructured from one flat expression into a nested if.
+694120.py,770941.py,1,1,1,0,0,0,0,0,Byte-identical nested 'anio' cascade with the print-space quirk; differ only in trailing whitespace.
+770323.py,771377.py,1,0,1,0,0,0,0,0,Identical tab-indented body with the idiosyncratic 'if a%100==0 and a%400==0' followed by 'elif a%100!=0'; only a blank-line/stray-space difference.
+145335.py,772847.py,0,0,0,0,0,0,0,0,One-space-indented cascade vs canonical expression with .strip(); unrelated.
+693861.py,770538.py,0,0,0,0,0,0,0,0,Nested cascade vs a compact canonical expression; independent.
+773323.py,802351.py,0,0,0,0,0,0,0,0,Hardcoded 1800/1900 hack vs a range-guarded flag variable; unrelated.
+145335.py,149217.py,1,1,1,0,0,0,0,0,"Byte-identical, including the unusual one-space indentation, single quotes and %100-tested-first inverted cascade."
+771377.py,771668.py,0,0,0,0,0,0,0,0,Tab-indented cascade vs a one-line ternary print; unrelated.
+771668.py,797132.py,0,0,0,0,0,0,0,0,Ternary print vs a nested if using the //100 trick; unrelated.
+770076.py,797132.py,0,0,0,0,0,0,0,0,Boolean helper with if/elif vs an inline nested if using integer division; unrelated.
+770835.py,771661.py,0,0,0,0,0,0,0,0,Ternary print with an extracted boolean vs a nested-if helper function; different designs.
+770032.py,770594.py,0,0,0,0,0,0,0,0,"Both wrap the canonical expression in a guard, but the guards (N > 0 vs a range check) and names/indentation differ."
+771513.py,771636.py,0,0,0,0,0,0,0,0,Both canonical single-expression solutions with different names and blank-line placement; expected convergence.
+693823.py,773322.py,0,0,0,0,0,0,0,0,Nested 'anio' cascade vs reversed-order single expression; unrelated.
+773402.py,779722.py,0,0,0,0,0,0,0,0,Flag-variable cascade vs a range-guarded function assigning a 'frase' string; different designs.
+761526.py,783785.py,0,0,0,0,0,0,0,0,"Both use a boolean helper plus if/else at top level, but the names differ and only one uses the odd 'not a%100==0'; independent."
+770005.py,770051.py,0,0,0,0,0,0,0,0,"Both canonical; only one carries the '#type(tipo)' comment, and the other has no marker tying it to that cluster."
+770062.py,772815.py,1,1,1,0,0,0,0,0,"Byte-identical, sharing the distinctive compact style with no spaces around operators and asymmetric parentheses (last term unparenthesized)."
+693406.py,693732.py,0,0,0,0,0,0,0,0,Canonical single expression vs a nested cascade; unrelated.
+770835.py,771668.py,0,0,0,0,0,0,0,0,"Both print via a ternary, but the boolean formulas are grouped differently and one extracts a variable; a natural Pythonic convergence."
+771077.py,771124.py,0,0,0,0,0,0,0,0,Both canonical single-expression solutions with different names and spacing; expected convergence.
+770510.py,770513.py,0,0,0,0,0,0,0,0,Both the exact canonical textbook form shared across many submissions; no distinguishing marker.
+791916.py,791919.py,1,0,1,0,0,0,0,0,"Same refactored '%4 and (%100 or %400)' expression, identical structure, differing only in spacing around operators."
+693406.py,694043.py,0,0,0,0,0,0,0,0,Canonical expression vs a nested cascade with comment; unrelated.
+761526.py,770323.py,0,0,0,0,0,0,0,0,Helper function vs a tab-indented inline cascade; unrelated.
+773298.py,788270.py,1,0,1,1,0,0,0,0,"Identical design of a helper returning the literal strings 'si'/'no' then print(es_bisiesto(x)), same body line for line; only the parameter name differs."
+791922.py,791932.py,1,0,1,0,1,0,0,0,Otherwise byte-identical compact refactored expression; the only change is the output literal 'si ' with a trailing space plus extra blank lines.
+693083.py,773497.py,0,0,0,0,0,0,0,0,Integer-division trick vs a one-space-indented cascade; unrelated.
+693823.py,693835.py,1,0,1,0,0,0,0,0,Same nested 'anio' cascade with the print-space quirk; differ only by the '#Años Bisiesto' comment and a blank line.
+770509.py,770586.py,0,0,0,0,0,0,0,0,"Both use the refactored grouping but with different names, indent widths and inconsistent spacing quirks unique to each."
+770840.py,779722.py,0,0,0,0,0,0,0,0,Elif chain vs a range-guarded function returning a string variable; unrelated.
+791946.py,791980.py,1,1,1,0,0,0,0,0,Byte-identical compact refactored expression; no differences at all.
+770987.py,771047.py,0,0,0,0,0,0,0,0,"Both the canonical textbook form; only trailing whitespace differs, and that form is shared by many submissions."
+773298.py,792059.py,0,0,0,0,0,0,0,0,String-returning helper vs a verbose commented flag-variable cascade; unrelated.
+773177.py,773462.py,0,0,0,0,0,0,0,0,One reads all of stdin in a loop; the other is a nested-if helper. Completely different.
+693919.py,694040.py,1,1,1,0,0,0,0,0,"Byte-identical nested 'anio' cascade including the 'print (""si"")' spacing quirk."
+770606.py,770669.py,0,0,0,0,0,0,0,0,Tab-indented %100-first cascade vs a range-guarded single expression; unrelated.
+693535.py,797286.py,0,0,0,0,0,0,0,0,Nested function definition inside a range check vs a flat elif chain; unrelated.
+771292.py,771342.py,0,0,0,0,0,0,0,0,Both canonical single-expression solutions with different variable names; expected convergence.
+770076.py,771661.py,0,0,0,0,0,0,0,0,"Share only the very common Spanish helper name es_bisiesto; one uses if/elif returning booleans, the other a nested if returning a comparison."
+770853.py,788409.py,0,0,0,0,0,0,0,0,Nested cascade vs a commented canonical expression with .strip(); unrelated.
+770323.py,783785.py,0,0,0,0,0,0,0,0,Inline tab-indented cascade vs a boolean helper function; unrelated.
+773070.py,781593.py,0,0,0,0,0,0,0,0,Canonical arithmetic expression vs a string-slicing approach; genuinely different techniques.
+770637.py,770840.py,0,0,0,0,0,0,0,0,Nested else-if structure vs a flat three-branch elif chain; unrelated.
+770634.py,773102.py,0,0,0,0,0,0,0,0,Inline cascade using (a/100)%4 vs a helper with the refactored boolean; unrelated.
+693791.py,711087.py,0,0,0,0,0,0,0,0,Nested cascade with comment vs the canonical single expression; unrelated.
+770051.py,772916.py,0,0,0,0,0,0,0,0,Canonical single expression vs a messy three-level nested cascade; unrelated.
+770606.py,791936.py,0,0,0,0,0,0,0,0,Tab-indented %100-first cascade vs a reversed-order single expression; unrelated.
+770198.py,770222.py,0,0,0,0,0,0,0,0,Both canonical with different names and spacing conventions; expected convergence.
+773013.py,773070.py,0,0,0,0,0,0,0,0,"Both canonical; differ in quote style, spacing and the input("""") argument. Independent."
+134018.py,771243.py,1,0,1,0,0,0,0,0,"Shared typographic fingerprint in the condition: double space after 'if', double space before 'and', and the odd '%100 !=0' spacing, all identical."
+770076.py,773487.py,0,0,0,0,0,0,0,0,Boolean helper function vs an inline range-guarded expression; unrelated.
+771465.py,773013.py,0,0,0,0,0,0,0,0,Nested cascade vs a canonical single expression; unrelated.
+773402.py,792059.py,1,0,1,0,0,1,0,0,Both use the same distinctive 'es_bisiesto = False' flag-variable design with nested ifs mutating the flag before a final if; one reorganizes the assignments into explicit else branches.
+772847.py,773034.py,1,0,1,0,0,0,0,0,Both add an unnecessary int(input().strip()) to the same canonical body and are otherwise identical apart from trailing whitespace.
+770060.py,770130.py,0,0,0,0,0,0,0,0,Both the exact canonical textbook form differing only by a blank line; that form is shared by many submissions.
+693861.py,770515.py,0,0,0,0,0,0,0,0,Nested cascade vs the canonical single expression; unrelated.
+770606.py,770634.py,0,0,0,0,0,0,0,0,"Both test %100 first, but one uses a nested if/else pair and the other (a/100)%4 with an elif; different enough."
+772991.py,772998.py,0,0,0,0,0,0,0,0,Both canonical; differ in variable name and 2-vs-4-space indentation. Independent.
+761526.py,771190.py,0,0,0,0,0,0,0,0,Boolean helper function vs an inline elif chain; unrelated.
+771465.py,773459.py,0,0,0,0,0,0,0,0,Nested three-level cascade vs the canonical single expression; unrelated.
+770669.py,773487.py,1,0,1,1,1,0,0,0,Both combine an unusual 1800..9999 range guard with the non-obvious second disjunct '%100==0 and %400==0' instead of a plain %400 test; only names and parenthesization differ.
+770567.py,788409.py,0,0,0,0,0,0,0,0,Nested cascade vs a commented canonical expression; unrelated.
+770594.py,773462.py,0,0,0,0,0,0,0,0,Range-guarded inline expression vs a string-returning nested-if helper; unrelated.
+773441.py,773459.py,0,0,0,0,0,0,0,0,Both canonical with different names and blank-line placement; expected convergence.
+772916.py,773459.py,0,0,0,0,0,0,0,0,Messy nested cascade vs the canonical single expression; unrelated.
+772897.py,772906.py,0,0,0,0,0,0,0,0,Both the exact canonical textbook form differing only by a trailing blank line; no distinguishing marker.
+770853.py,773013.py,0,0,0,0,0,0,0,0,Nested cascade vs a canonical single expression; unrelated.
+770895.py,773170.py,1,0,1,0,0,0,0,0,Both share the refactored grouping wrapped in redundant outer parentheses - 'if (año % 4 == 0 and (...)):' - identical character for character apart from blank lines.
+772814.py,773497.py,0,0,0,0,0,0,0,0,Tab-indented %4-first cascade vs a one-space-indented %100-first cascade; unrelated.
+693823.py,791936.py,0,0,0,0,0,0,0,0,Nested cascade vs a reversed-order single expression; unrelated.
+700505.py,773323.py,1,0,1,0,0,0,0,0,"Both use the same incorrect hardcoded special case 'if(n==1800 or n==1900): print(""no"")' followed by a bare %4 test; identical apart from inserted blank lines."
+693862.py,770538.py,0,0,0,0,0,0,0,0,Nested cascade vs a compact canonical expression; unrelated.
+693835.py,770515.py,0,0,0,0,0,0,0,0,Nested cascade with comment vs the canonical single expression; unrelated.
+770637.py,770669.py,0,0,0,0,0,0,0,0,Nested else-if structure vs a range-guarded single expression; unrelated.
+773307.py,773497.py,1,1,1,0,0,0,0,0,"Byte-identical, sharing the unusual one-space indentation, single quotes and the inverted %100-first cascade."
+773323.py,773487.py,0,0,0,0,0,0,0,0,Hardcoded 1800/1900 hack vs a range-guarded boolean expression; unrelated.
+770634.py,788270.py,0,0,0,0,0,0,0,0,Inline cascade using (a/100)%4 vs a string-returning helper; unrelated.
+700505.py,771377.py,0,0,0,0,0,0,0,0,Hardcoded special case vs a tab-indented %4-first cascade; unrelated.
+773144.py,773229.py,0,0,0,0,0,0,0,0,Both the exact canonical textbook form differing only by a blank line; shared by many submissions.
+772840.py,790617.py,0,0,0,0,0,0,0,0,Both use the unparenthesized 'and ... or ...' condition but with different names and none of the other's double-space spacing quirks.
+773462.py,779722.py,0,0,0,0,0,0,0,0,Nested-if string-returning helper vs a range-guarded function assigning 'frase'; unrelated.
+770549.py,775971.py,1,0,1,1,0,0,0,0,"Both use the same reordered elif chain testing %400 first with two separate 'si' branches, line for line; only the variable name and spacing differ."
+773177.py,802351.py,0,0,0,0,0,0,0,0,stdin loop vs a range-guarded flag variable; completely different.
+693535.py,770835.py,0,0,0,0,0,0,0,0,Nested function inside a range check vs a two-line ternary print; unrelated.
+770538.py,770541.py,0,0,0,0,0,0,0,0,Both canonical; differ in name and spacing conventions. Independent.
+770688.py,773177.py,0,0,0,0,0,0,0,0,Nested-if helper vs an stdin-reading loop; unrelated.
+134018.py,771366.py,0,0,0,0,0,0,0,0,Single expression vs a one-space-indented %100-first cascade; unrelated.
+149217.py,772847.py,0,0,0,0,0,0,0,0,One-space-indented cascade vs canonical expression with .strip(); unrelated.
+773339.py,773377.py,0,0,0,0,0,0,0,0,Both the exact canonical textbook form differing only in trailing whitespace; shared by many submissions.
+773102.py,773553.py,0,0,0,0,0,0,0,0,"Both use a string-returning helper, but the boolean grouping and the else-vs-fallthrough return differ; a natural design convergence."
+693535.py,771190.py,0,0,0,0,0,0,0,0,Nested function inside a range check vs an inline elif chain; unrelated.
+771366.py,772683.py,1,0,1,1,0,0,0,0,"Identical apart from the variable name, sharing the unusual one-space indentation, single quotes and inverted %100-first cascade."
+772928.py,772985.py,0,0,0,0,0,0,0,0,Both canonical with different names and a blank-line difference; expected convergence.
+770032.py,771366.py,0,0,0,0,0,0,0,0,Guarded canonical expression vs a one-space-indented cascade; unrelated.
+771465.py,772916.py,0,0,0,0,0,0,0,0,"Same nested three-level cascade shape, but the other file's distinctive broken indentation and trailing spaces are absent here; the cascade itself is one of two obvious structures."
+770515.py,770519.py,0,0,0,0,0,0,0,0,Both canonical with different names; expected convergence.
+771661.py,773070.py,0,0,0,0,0,0,0,0,Nested-if helper function vs an inline canonical expression; unrelated.
+149217.py,773034.py,0,0,0,0,0,0,0,0,One-space-indented cascade vs canonical expression with .strip(); unrelated.
+770568.py,788270.py,0,0,0,0,0,0,0,0,Inline elif chain vs a string-returning helper; unrelated.
+770555.py,770569.py,0,0,0,0,0,0,0,0,Both canonical; differ in name and whether spaces surround the parenthesized groups. Independent.
+770567.py,773593.py,0,0,0,0,0,0,0,0,Nested cascade vs a two-line canonical solution; unrelated.
