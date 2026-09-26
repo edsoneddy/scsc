@@ -199,6 +199,40 @@ File_1,File_2,Label,L0,L1,L2,L3,L4,L5,L6,Notes,Human_Label
 148316.py,730649.py,1,0,1,1,0,1,1,0,"Same underlying algorithm but implemented with a different technique or control construct (e.g. different parsing/accumulation approach, loop vs library call).",1
 756108.py,758502.py,1,0,1,1,0,1,1,0,"Same underlying algorithm but implemented with a different technique or control construct (e.g. different parsing/accumulation approach, loop vs library call).",1
 692972.py,757686.py,1,0,1,1,0,1,1,0,"Same underlying algorithm but implemented with a different technique or control construct (e.g. different parsing/accumulation approach, loop vs library call).",1
+755220.py,691324.py,1,0,1,1,0,1,1,0,Same underlying algorithm but implemented with a different technique or control construct (found in extended leftover search).,1
+681452.py,758311.py,1,0,1,1,0,1,1,0,Same underlying algorithm but implemented with a different technique or control construct (found in extended leftover search).,1
+755066.py,748405.py,1,0,1,1,0,1,1,0,Same underlying algorithm but implemented with a different technique or control construct (found in extended leftover search).,1
+757506.py,757882.py,1,0,1,1,0,1,1,0,Same underlying algorithm but implemented with a different technique or control construct (found in extended leftover search).,1
+748736.py,759546.py,1,0,1,1,0,1,1,0,Same underlying algorithm but implemented with a different technique or control construct (found in extended leftover search).,1
+681701.py,759404.py,1,0,1,1,0,1,1,0,Same underlying algorithm but implemented with a different technique or control construct (found in extended leftover search).,1
+758554.py,758801.py,1,0,1,1,0,1,1,0,Same underlying algorithm but implemented with a different technique or control construct (found in extended leftover search).,1
+755001.py,755189.py,1,0,1,1,0,1,1,0,Same underlying algorithm but implemented with a different technique or control construct (found in extended leftover search).,1
+681850.py,749561.py,1,0,1,1,0,1,1,0,Same underlying algorithm but implemented with a different technique or control construct (found in extended leftover search).,1
+690878.py,691021.py,1,0,1,1,0,1,1,0,Same underlying algorithm but implemented with a different technique or control construct (found in extended leftover search).,1
+750358.py,757257.py,1,0,1,1,0,1,1,0,Same underlying algorithm but implemented with a different technique or control construct (found in extended leftover search).,1
+749028.py,749480.py,1,0,1,1,0,1,1,0,Same underlying algorithm but implemented with a different technique or control construct (found in extended leftover search).,1
+750367.py,759235.py,1,0,1,1,0,1,1,0,Same underlying algorithm but implemented with a different technique or control construct (found in extended leftover search).,1
+686979.py,758279.py,1,0,1,1,0,1,1,0,Same underlying algorithm but implemented with a different technique or control construct (found in extended leftover search).,1
+748787.py,758819.py,1,0,1,1,0,1,1,0,Same underlying algorithm but implemented with a different technique or control construct (found in extended leftover search).,1
+691303.py,757390.py,1,0,1,1,0,1,1,0,Same underlying algorithm but implemented with a different technique or control construct (found in extended leftover search).,1
+681686.py,750701.py,1,0,1,1,0,1,1,0,Same underlying algorithm but implemented with a different technique or control construct (found in extended leftover search).,1
+748882.py,750412.py,1,0,1,1,0,1,1,0,Same underlying algorithm but implemented with a different technique or control construct (found in extended leftover search).,1
+759136.py,759294.py,1,0,1,1,0,1,1,0,Same underlying algorithm but implemented with a different technique or control construct (found in extended leftover search).,1
+758054.py,758312.py,1,0,1,1,0,1,1,0,Same underlying algorithm but implemented with a different technique or control construct (found in extended leftover search).,1
+755787.py,759268.py,1,0,1,1,0,1,1,0,Same underlying algorithm but implemented with a different technique or control construct (found in extended leftover search).,1
+755002.py,752921.py,1,0,1,1,0,1,1,0,Same underlying algorithm but implemented with a different technique or control construct (found in extended leftover search).,1
+758998.py,758321.py,1,0,1,1,0,1,1,0,Same underlying algorithm but implemented with a different technique or control construct (found in extended leftover search).,1
+756669.py,759274.py,1,0,1,1,0,1,1,0,Same underlying algorithm but implemented with a different technique or control construct (found in extended leftover search).,1
+754608.py,755969.py,1,0,1,1,0,1,1,0,Same underlying algorithm but implemented with a different technique or control construct (found in extended leftover search).,1
+752585.py,756398.py,1,0,1,1,0,1,1,0,Same underlying algorithm but implemented with a different technique or control construct (found in extended leftover search).,1
+756368.py,759317.py,1,0,1,1,0,1,1,0,Same underlying algorithm but implemented with a different technique or control construct (found in extended leftover search).,1
+752359.py,753128.py,1,0,1,1,0,1,1,0,Same underlying algorithm but implemented with a different technique or control construct (found in extended leftover search).,1
+755118.py,759548.py,1,0,1,1,0,1,1,0,Same underlying algorithm but implemented with a different technique or control construct (found in extended leftover search).,1
+732098.py,732768.py,1,0,1,1,0,1,1,0,Same underlying algorithm but implemented with a different technique or control construct (found in extended leftover search).,1
+682752.py,775278.py,1,0,1,1,0,1,1,0,Same underlying algorithm but implemented with a different technique or control construct (found in extended leftover search).,1
+147238.py,730903.py,1,0,1,1,0,1,1,0,Same underlying algorithm but implemented with a different technique or control construct (found in extended leftover search).,1
+146384.py,147564.py,1,0,1,1,0,1,1,0,Same underlying algorithm but implemented with a different technique or control construct (found in extended leftover search).,1
+731937.py,732574.py,1,0,1,1,0,1,1,0,Same underlying algorithm but implemented with a different technique or control construct (found in extended leftover search).,1
 749201.py,147941.py,0,0,0,0,0,0,0,0,Different sub-problem (dot-product / identify-structure / word-extraction); unrelated implementations.,0
 691274.py,146835.py,0,0,0,0,0,0,0,0,Different sub-problem (dot-product / identify-structure / word-extraction); unrelated implementations.,0
 759274.py,146416.py,0,0,0,0,0,0,0,0,Different sub-problem (dot-product / identify-structure / word-extraction); unrelated implementations.,0
@@ -399,3 +433,37 @@ File_1,File_2,Label,L0,L1,L2,L3,L4,L5,L6,Notes,Human_Label
 757841.py,148103.py,0,0,0,0,0,0,0,0,Different sub-problem (dot-product / identify-structure / word-extraction); unrelated implementations.,0
 691457.py,753128.py,0,0,0,0,0,0,0,0,Different sub-problem (dot-product / identify-structure / word-extraction); unrelated implementations.,0
 750030.py,146838.py,0,0,0,0,0,0,0,0,Different sub-problem (dot-product / identify-structure / word-extraction); unrelated implementations.,0
+691323.py,685098.py,0,0,0,0,0,0,0,0,Different sub-problem (dot-product / identify-structure / word-extraction); unrelated implementations.,0
+686928.py,146387.py,0,0,0,0,0,0,0,0,Different sub-problem (dot-product / identify-structure / word-extraction); unrelated implementations.,0
+752527.py,684378.py,0,0,0,0,0,0,0,0,Different sub-problem (dot-product / identify-structure / word-extraction); unrelated implementations.,0
+691484.py,731594.py,0,0,0,0,0,0,0,0,Different sub-problem (dot-product / identify-structure / word-extraction); unrelated implementations.,0
+681686.py,752359.py,0,0,0,0,0,0,0,0,Different sub-problem (dot-product / identify-structure / word-extraction); unrelated implementations.,0
+755272.py,146385.py,0,0,0,0,0,0,0,0,Different sub-problem (dot-product / identify-structure / word-extraction); unrelated implementations.,0
+686561.py,759317.py,0,0,0,0,0,0,0,0,Different sub-problem (dot-product / identify-structure / word-extraction); unrelated implementations.,0
+685580.py,732098.py,0,0,0,0,0,0,0,0,Different sub-problem (dot-product / identify-structure / word-extraction); unrelated implementations.,0
+748389.py,691493.py,0,0,0,0,0,0,0,0,Different sub-problem (dot-product / identify-structure / word-extraction); unrelated implementations.,0
+757379.py,145529.py,0,0,0,0,0,0,0,0,Different sub-problem (dot-product / identify-structure / word-extraction); unrelated implementations.,0
+681850.py,759415.py,0,0,0,0,0,0,0,0,Different sub-problem (dot-product / identify-structure / word-extraction); unrelated implementations.,0
+749622.py,757686.py,0,0,0,0,0,0,0,0,Different sub-problem (dot-product / identify-structure / word-extraction); unrelated implementations.,0
+758587.py,753178.py,0,0,0,0,0,0,0,0,Different sub-problem (dot-product / identify-structure / word-extraction); unrelated implementations.,0
+756108.py,732093.py,0,0,0,0,0,0,0,0,Different sub-problem (dot-product / identify-structure / word-extraction); unrelated implementations.,0
+754669.py,146835.py,0,0,0,0,0,0,0,0,Different sub-problem (dot-product / identify-structure / word-extraction); unrelated implementations.,0
+754700.py,684482.py,0,0,0,0,0,0,0,0,Different sub-problem (dot-product / identify-structure / word-extraction); unrelated implementations.,0
+758801.py,692971.py,0,0,0,0,0,0,0,0,Different sub-problem (dot-product / identify-structure / word-extraction); unrelated implementations.,0
+691493.py,732677.py,0,0,0,0,0,0,0,0,Different sub-problem (dot-product / identify-structure / word-extraction); unrelated implementations.,0
+758279.py,759139.py,0,0,0,0,0,0,0,0,Different sub-problem (dot-product / identify-structure / word-extraction); unrelated implementations.,0
+750173.py,730903.py,0,0,0,0,0,0,0,0,Different sub-problem (dot-product / identify-structure / word-extraction); unrelated implementations.,0
+758429.py,684231.py,0,0,0,0,0,0,0,0,Different sub-problem (dot-product / identify-structure / word-extraction); unrelated implementations.,0
+748805.py,147219.py,0,0,0,0,0,0,0,0,Different sub-problem (dot-product / identify-structure / word-extraction); unrelated implementations.,0
+755218.py,146392.py,0,0,0,0,0,0,0,0,Different sub-problem (dot-product / identify-structure / word-extraction); unrelated implementations.,0
+755986.py,731803.py,0,0,0,0,0,0,0,0,Different sub-problem (dot-product / identify-structure / word-extraction); unrelated implementations.,0
+750412.py,693915.py,0,0,0,0,0,0,0,0,Different sub-problem (dot-product / identify-structure / word-extraction); unrelated implementations.,0
+759618.py,146387.py,0,0,0,0,0,0,0,0,Different sub-problem (dot-product / identify-structure / word-extraction); unrelated implementations.,0
+758426.py,757686.py,0,0,0,0,0,0,0,0,Different sub-problem (dot-product / identify-structure / word-extraction); unrelated implementations.,0
+750412.py,753431.py,0,0,0,0,0,0,0,0,Different sub-problem (dot-product / identify-structure / word-extraction); unrelated implementations.,0
+755272.py,145420.py,0,0,0,0,0,0,0,0,Different sub-problem (dot-product / identify-structure / word-extraction); unrelated implementations.,0
+712605.py,732051.py,0,0,0,0,0,0,0,0,Different sub-problem (dot-product / identify-structure / word-extraction); unrelated implementations.,0
+756299.py,683814.py,0,0,0,0,0,0,0,0,Different sub-problem (dot-product / identify-structure / word-extraction); unrelated implementations.,0
+756586.py,732232.py,0,0,0,0,0,0,0,0,Different sub-problem (dot-product / identify-structure / word-extraction); unrelated implementations.,0
+759128.py,730343.py,0,0,0,0,0,0,0,0,Different sub-problem (dot-product / identify-structure / word-extraction); unrelated implementations.,0
+686561.py,755675.py,0,0,0,0,0,0,0,0,Different sub-problem (dot-product / identify-structure / word-extraction); unrelated implementations.,0
