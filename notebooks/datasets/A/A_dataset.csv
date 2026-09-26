@@ -1,73 +1,202 @@
 File_1,File_2,Label,L0,L1,L2,L3,L4,L5,L6,Notes
-base2_L4.py,base3_original.py,0,0,0,0,0,0,0,0,"Solves a completely different task (happy-number classification printing Feliz/Triste vs counting swaps/inversions while sorting an array); no shared identifiers, comments or technique - independent."
-base1_L5a.py,base2_L1.py,0,0,0,0,0,0,0,0,"Solves a completely different task (a fixed 10-iteration parity accumulation loop vs happy-number classification printing Feliz/Triste); no shared identifiers, comments or technique - independent."
-base2_L3.py,base3_L3.py,0,0,0,0,0,0,0,0,"Solves a completely different task (happy-number classification printing Feliz/Triste vs counting swaps/inversions while sorting an array); no shared identifiers, comments or technique - independent."
 base1_L3a.py,base1_L6a.py,1,0,1,1,1,0,0,0,"Same 10-line skeleton, same 'foo 1'/'foo 2' comments and same res/b/a/i variable lineage; differs only by the two initialisations swapped, parenthesised expressions and += instead of res = res + a; max divergence L3."
 base1_L1b.py,base1_L3b.py,1,0,1,1,1,0,0,0,"Same 10-line skeleton, same 'foo 1'/'foo 2' comments and same res/b/a/i variable lineage; differs only by comment/whitespace edits, the two initialisations swapped, one extra unused assignment inserted; max divergence L3."
-base1_L1b.py,base2_L3.py,0,0,0,0,0,0,0,0,"Solves a completely different task (a fixed 10-iteration parity accumulation loop vs happy-number classification printing Feliz/Triste); no shared identifiers, comments or technique - independent."
-base1_L3a.py,base2_L5.py,0,0,0,0,0,0,0,0,"Solves a completely different task (a fixed 10-iteration parity accumulation loop vs happy-number classification printing Feliz/Triste); no shared identifiers, comments or technique - independent."
 base1_L2a.py,base1_L4a.py,1,0,1,1,1,1,0,0,"Same 10-line skeleton, same 'foo 1'/'foo 2' comments and same res/b/a/i variable lineage; differs only by systematic identifier renaming (res/b/a/i -> x/e/c/j), the loop body extracted into / inlined out of a function; max divergence L4."
-base2_original.py,base3_L5.py,0,0,0,0,0,0,0,0,"Solves a completely different task (happy-number classification printing Feliz/Triste vs counting swaps/inversions while sorting an array); no shared identifiers, comments or technique - independent."
 base1_original.py,base1_L6a.py,1,0,1,0,0,0,0,0,"Same 10-line skeleton, same 'foo 1'/'foo 2' comments and same res/b/a/i variable lineage; differs only by comment/whitespace edits, parenthesised expressions and += instead of res = res + a; max divergence L1."
-base2_L4.py,base3_L2.py,0,0,0,0,0,0,0,0,"Solves a completely different task (happy-number classification printing Feliz/Triste vs counting swaps/inversions while sorting an array); no shared identifiers, comments or technique - independent."
-base1_L1a.py,base3_L3.py,0,0,0,0,0,0,0,0,"Solves a completely different task (a fixed 10-iteration parity accumulation loop vs counting swaps/inversions while sorting an array); no shared identifiers, comments or technique - independent."
 base1_L1a.py,base1_L6a.py,1,0,1,0,0,0,0,0,"Same 10-line skeleton, same 'foo 1'/'foo 2' comments and same res/b/a/i variable lineage; differs only by comment/whitespace edits, parenthesised expressions and += instead of res = res + a; max divergence L1."
-base1_original.py,base2_original.py,0,0,0,0,0,0,0,0,"Solves a completely different task (a fixed 10-iteration parity accumulation loop vs happy-number classification printing Feliz/Triste); no shared identifiers, comments or technique - independent."
 base1_L2a.py,base1_L3b.py,1,0,1,1,1,0,0,0,"Same 10-line skeleton, same 'foo 1'/'foo 2' comments and same res/b/a/i variable lineage; differs only by systematic identifier renaming (res/b/a/i -> x/e/c/j), the two initialisations swapped, one extra unused assignment inserted; max divergence L3."
-base2_L5.py,base3_L1.py,0,0,0,0,0,0,0,0,"Solves a completely different task (happy-number classification printing Feliz/Triste vs counting swaps/inversions while sorting an array); no shared identifiers, comments or technique - independent."
 base1_L1a.py,base1_L4a.py,1,0,1,1,1,1,0,0,"Same 10-line skeleton, same 'foo 1'/'foo 2' comments and same res/b/a/i variable lineage; differs only by comment/whitespace edits, the loop body extracted into / inlined out of a function; max divergence L4."
-base2_original.py,base3_L4.py,0,0,0,0,0,0,0,0,"Solves a completely different task (happy-number classification printing Feliz/Triste vs counting swaps/inversions while sorting an array); no shared identifiers, comments or technique - independent."
 base1_L3b.py,base1_L5a.py,1,0,1,1,1,1,1,0,"Same 10-line skeleton, same 'foo 1'/'foo 2' comments and same res/b/a/i variable lineage; differs only by the two initialisations swapped, one extra unused assignment inserted, the counting for-loop rewritten as an equivalent while-loop; max divergence L5."
-base1_L3a.py,base3_L4.py,0,0,0,0,0,0,0,0,"Solves a completely different task (a fixed 10-iteration parity accumulation loop vs counting swaps/inversions while sorting an array); no shared identifiers, comments or technique - independent."
 base1_L2a.py,base1_L6a.py,1,0,1,1,0,0,0,0,"Same 10-line skeleton, same 'foo 1'/'foo 2' comments and same res/b/a/i variable lineage; differs only by systematic identifier renaming (res/b/a/i -> x/e/c/j), parenthesised expressions and += instead of res = res + a; max divergence L2."
-base1_L4a.py,base2_original.py,0,0,0,0,0,0,0,0,"Solves a completely different task (a fixed 10-iteration parity accumulation loop vs happy-number classification printing Feliz/Triste); no shared identifiers, comments or technique - independent."
 base1_L1b.py,base1_L5a.py,1,0,1,1,1,1,1,0,"Same 10-line skeleton, same 'foo 1'/'foo 2' comments and same res/b/a/i variable lineage; differs only by comment/whitespace edits, the counting for-loop rewritten as an equivalent while-loop; max divergence L5."
-base1_L1b.py,base2_L6.py,0,0,0,0,0,0,0,0,"Solves a completely different task (a fixed 10-iteration parity accumulation loop vs happy-number classification printing Feliz/Triste); no shared identifiers, comments or technique - independent."
-base1_L1b.py,base3_L2.py,0,0,0,0,0,0,0,0,"Solves a completely different task (a fixed 10-iteration parity accumulation loop vs counting swaps/inversions while sorting an array); no shared identifiers, comments or technique - independent."
 base1_L3b.py,base1_L6a.py,1,0,1,1,1,0,0,0,"Same 10-line skeleton, same 'foo 1'/'foo 2' comments and same res/b/a/i variable lineage; differs only by the two initialisations swapped, one extra unused assignment inserted, parenthesised expressions and += instead of res = res + a; max divergence L3."
-base2_L1.py,base3_L6.py,0,0,0,0,0,0,0,0,"Solves a completely different task (happy-number classification printing Feliz/Triste vs counting swaps/inversions while sorting an array); no shared identifiers, comments or technique - independent."
-base1_L4a.py,base2_L5.py,0,0,0,0,0,0,0,0,"Solves a completely different task (a fixed 10-iteration parity accumulation loop vs happy-number classification printing Feliz/Triste); no shared identifiers, comments or technique - independent."
-base1_original.py,base2_L1.py,0,0,0,0,0,0,0,0,"Solves a completely different task (a fixed 10-iteration parity accumulation loop vs happy-number classification printing Feliz/Triste); no shared identifiers, comments or technique - independent."
-base1_L2a.py,base2_L1.py,0,0,0,0,0,0,0,0,"Solves a completely different task (a fixed 10-iteration parity accumulation loop vs happy-number classification printing Feliz/Triste); no shared identifiers, comments or technique - independent."
 base1_L3a.py,base1_L3b.py,1,0,1,1,1,0,0,0,"Same 10-line skeleton, same 'foo 1'/'foo 2' comments and same res/b/a/i variable lineage; differs only by one extra unused assignment inserted; max divergence L3."
 base1_L4a.py,base1_L5a.py,1,0,1,1,1,1,1,0,"Same 10-line skeleton, same 'foo 1'/'foo 2' comments and same res/b/a/i variable lineage; differs only by the counting for-loop rewritten as an equivalent while-loop; max divergence L5."
 base1_L1b.py,base1_L3a.py,1,0,1,1,1,0,0,0,"Same 10-line skeleton, same 'foo 1'/'foo 2' comments and same res/b/a/i variable lineage; differs only by comment/whitespace edits, the two initialisations swapped; max divergence L3."
 base1_L3b.py,base1_L4a.py,1,0,1,1,1,1,0,0,"Same 10-line skeleton, same 'foo 1'/'foo 2' comments and same res/b/a/i variable lineage; differs only by the two initialisations swapped, one extra unused assignment inserted, the loop body extracted into / inlined out of a function; max divergence L4."
-base1_original.py,base3_original.py,0,0,0,0,0,0,0,0,"Solves a completely different task (a fixed 10-iteration parity accumulation loop vs counting swaps/inversions while sorting an array); no shared identifiers, comments or technique - independent."
 base1_L1b.py,base1_L4a.py,1,0,1,1,1,1,0,0,"Same 10-line skeleton, same 'foo 1'/'foo 2' comments and same res/b/a/i variable lineage; differs only by comment/whitespace edits, the loop body extracted into / inlined out of a function; max divergence L4."
 base1_original.py,base1_L1b.py,1,0,1,0,0,0,0,0,"Same 10-line skeleton, same 'foo 1'/'foo 2' comments and same res/b/a/i variable lineage; differs only by comment/whitespace edits; max divergence L1."
-base1_L6a.py,base3_original.py,0,0,0,0,0,0,0,0,"Solves a completely different task (a fixed 10-iteration parity accumulation loop vs counting swaps/inversions while sorting an array); no shared identifiers, comments or technique - independent."
 base1_L1a.py,base1_L2a.py,1,0,1,1,0,0,0,0,"Same 10-line skeleton, same 'foo 1'/'foo 2' comments and same res/b/a/i variable lineage; differs only by comment/whitespace edits, systematic identifier renaming (res/b/a/i -> x/e/c/j); max divergence L2."
-base2_original.py,base3_L2.py,0,0,0,0,0,0,0,0,"Solves a completely different task (happy-number classification printing Feliz/Triste vs counting swaps/inversions while sorting an array); no shared identifiers, comments or technique - independent."
 base1_original.py,base1_L2a.py,1,0,1,1,0,0,0,0,"Same 10-line skeleton, same 'foo 1'/'foo 2' comments and same res/b/a/i variable lineage; differs only by systematic identifier renaming (res/b/a/i -> x/e/c/j); max divergence L2."
-base2_L5.py,base3_L6.py,0,0,0,0,0,0,0,0,"Solves a completely different task (happy-number classification printing Feliz/Triste vs counting swaps/inversions while sorting an array); no shared identifiers, comments or technique - independent."
 base1_L3a.py,base1_L5a.py,1,0,1,1,1,1,1,0,"Same 10-line skeleton, same 'foo 1'/'foo 2' comments and same res/b/a/i variable lineage; differs only by the two initialisations swapped, the counting for-loop rewritten as an equivalent while-loop; max divergence L5."
 base1_L1b.py,base1_L6a.py,1,0,1,0,0,0,0,0,"Same 10-line skeleton, same 'foo 1'/'foo 2' comments and same res/b/a/i variable lineage; differs only by comment/whitespace edits, parenthesised expressions and += instead of res = res + a; max divergence L1."
-base1_L2a.py,base3_L5.py,0,0,0,0,0,0,0,0,"Solves a completely different task (a fixed 10-iteration parity accumulation loop vs counting swaps/inversions while sorting an array); no shared identifiers, comments or technique - independent."
-base2_L5.py,base3_L5.py,0,0,0,0,0,0,0,0,"Solves a completely different task (happy-number classification printing Feliz/Triste vs counting swaps/inversions while sorting an array); no shared identifiers, comments or technique - independent."
 base1_L2a.py,base1_L5a.py,1,0,1,1,1,1,1,0,"Same 10-line skeleton, same 'foo 1'/'foo 2' comments and same res/b/a/i variable lineage; differs only by systematic identifier renaming (res/b/a/i -> x/e/c/j), the counting for-loop rewritten as an equivalent while-loop; max divergence L5."
-base1_L3b.py,base2_L4.py,0,0,0,0,0,0,0,0,"Solves a completely different task (a fixed 10-iteration parity accumulation loop vs happy-number classification printing Feliz/Triste); no shared identifiers, comments or technique - independent."
 base1_original.py,base1_L4a.py,1,0,1,1,1,1,0,0,"Same 10-line skeleton, same 'foo 1'/'foo 2' comments and same res/b/a/i variable lineage; differs only by the loop body extracted into / inlined out of a function; max divergence L4."
-base1_L5a.py,base3_L4.py,0,0,0,0,0,0,0,0,"Solves a completely different task (a fixed 10-iteration parity accumulation loop vs counting swaps/inversions while sorting an array); no shared identifiers, comments or technique - independent."
 base1_L3a.py,base1_L4a.py,1,0,1,1,1,1,0,0,"Same 10-line skeleton, same 'foo 1'/'foo 2' comments and same res/b/a/i variable lineage; differs only by the two initialisations swapped, the loop body extracted into / inlined out of a function; max divergence L4."
 base1_original.py,base1_L1a.py,1,0,1,0,0,0,0,0,"Same 10-line skeleton, same 'foo 1'/'foo 2' comments and same res/b/a/i variable lineage; differs only by comment/whitespace edits; max divergence L1."
-base1_L5a.py,base3_L6.py,0,0,0,0,0,0,0,0,"Solves a completely different task (a fixed 10-iteration parity accumulation loop vs counting swaps/inversions while sorting an array); no shared identifiers, comments or technique - independent."
 base1_L1b.py,base1_L2a.py,1,0,1,1,0,0,0,0,"Same 10-line skeleton, same 'foo 1'/'foo 2' comments and same res/b/a/i variable lineage; differs only by comment/whitespace edits, systematic identifier renaming (res/b/a/i -> x/e/c/j); max divergence L2."
-base1_L5a.py,base2_L6.py,0,0,0,0,0,0,0,0,"Solves a completely different task (a fixed 10-iteration parity accumulation loop vs happy-number classification printing Feliz/Triste); no shared identifiers, comments or technique - independent."
-base1_L1a.py,base3_L6.py,0,0,0,0,0,0,0,0,"Solves a completely different task (a fixed 10-iteration parity accumulation loop vs counting swaps/inversions while sorting an array); no shared identifiers, comments or technique - independent."
 base1_L5a.py,base1_L6a.py,1,0,1,1,1,1,1,0,"Same 10-line skeleton, same 'foo 1'/'foo 2' comments and same res/b/a/i variable lineage; differs only by parenthesised expressions and += instead of res = res + a, the counting for-loop rewritten as an equivalent while-loop; max divergence L5."
-base2_L6.py,base3_L3.py,0,0,0,0,0,0,0,0,"Solves a completely different task (happy-number classification printing Feliz/Triste vs counting swaps/inversions while sorting an array); no shared identifiers, comments or technique - independent."
 base1_L1a.py,base1_L1b.py,1,0,1,0,0,0,0,0,"Same 10-line skeleton, same 'foo 1'/'foo 2' comments and same res/b/a/i variable lineage; differs only by comment/whitespace edits; max divergence L1."
 base1_L1a.py,base1_L3a.py,1,0,1,1,1,0,0,0,"Same 10-line skeleton, same 'foo 1'/'foo 2' comments and same res/b/a/i variable lineage; differs only by comment/whitespace edits, the two initialisations swapped; max divergence L3."
 base1_original.py,base1_L3a.py,1,0,1,1,1,0,0,0,"Same 10-line skeleton, same 'foo 1'/'foo 2' comments and same res/b/a/i variable lineage; differs only by the two initialisations swapped; max divergence L3."
-base1_L1a.py,base3_L4.py,0,0,0,0,0,0,0,0,"Solves a completely different task (a fixed 10-iteration parity accumulation loop vs counting swaps/inversions while sorting an array); no shared identifiers, comments or technique - independent."
 base1_L2a.py,base1_L3a.py,1,0,1,1,1,0,0,0,"Same 10-line skeleton, same 'foo 1'/'foo 2' comments and same res/b/a/i variable lineage; differs only by systematic identifier renaming (res/b/a/i -> x/e/c/j), the two initialisations swapped; max divergence L3."
-base1_L5a.py,base2_L3.py,0,0,0,0,0,0,0,0,"Solves a completely different task (a fixed 10-iteration parity accumulation loop vs happy-number classification printing Feliz/Triste); no shared identifiers, comments or technique - independent."
-base1_L2a.py,base3_L2.py,0,0,0,0,0,0,0,0,"Solves a completely different task (a fixed 10-iteration parity accumulation loop vs counting swaps/inversions while sorting an array); no shared identifiers, comments or technique - independent."
 base1_original.py,base1_L3b.py,1,0,1,1,1,0,0,0,"Same 10-line skeleton, same 'foo 1'/'foo 2' comments and same res/b/a/i variable lineage; differs only by the two initialisations swapped, one extra unused assignment inserted; max divergence L3."
 base1_L1a.py,base1_L5a.py,1,0,1,1,1,1,1,0,"Same 10-line skeleton, same 'foo 1'/'foo 2' comments and same res/b/a/i variable lineage; differs only by comment/whitespace edits, the counting for-loop rewritten as an equivalent while-loop; max divergence L5."
-base2_L2.py,base3_L1.py,0,0,0,0,0,0,0,0,"Solves a completely different task (happy-number classification printing Feliz/Triste vs counting swaps/inversions while sorting an array); no shared identifiers, comments or technique - independent."
-base1_L6a.py,base3_L3.py,0,0,0,0,0,0,0,0,"Solves a completely different task (a fixed 10-iteration parity accumulation loop vs counting swaps/inversions while sorting an array); no shared identifiers, comments or technique - independent."
 base1_L1a.py,base1_L3b.py,1,0,1,1,1,0,0,0,"Same 10-line skeleton, same 'foo 1'/'foo 2' comments and same res/b/a/i variable lineage; differs only by comment/whitespace edits, the two initialisations swapped, one extra unused assignment inserted; max divergence L3."
 base1_L4a.py,base1_L6a.py,1,0,1,1,1,1,0,0,"Same 10-line skeleton, same 'foo 1'/'foo 2' comments and same res/b/a/i variable lineage; differs only by parenthesised expressions and += instead of res = res + a, the loop body extracted into / inlined out of a function; max divergence L4."
 base1_original.py,base1_L5a.py,1,0,1,1,1,1,1,0,"Same 10-line skeleton, same 'foo 1'/'foo 2' comments and same res/b/a/i variable lineage; differs only by the counting for-loop rewritten as an equivalent while-loop; max divergence L5."
+base2_original.py,base2_L1.py,1,0,1,0,0,0,0,0,Identical logic; only comments and spacing added.
+base2_original.py,base2_L2.py,1,0,1,1,0,0,0,0,Same structure line-for-line with variables renamed to Spanish words.
+base2_original.py,base2_L3.py,1,0,1,1,1,0,0,0,Same loop shape; exponent 2 hoisted into POTENCIA constant and init lines swapped.
+base2_original.py,base2_L4.py,1,0,1,1,1,1,0,0,"Digit-square summation extracted into a helper function, same overall approach."
+base2_original.py,base2_L5.py,1,0,1,1,1,1,1,0,Termination while-flag loop replaced by bounded for-loop with break.
+base2_original.py,base2_L6.py,1,0,1,1,1,1,1,1,Switches from string-indexing to arithmetic digit extraction plus seen-set cycle detection.
+base2_L1.py,base2_L2.py,1,0,1,1,0,0,0,0,"Identical formatting and comments, identifiers renamed."
+base2_L1.py,base2_L3.py,1,0,1,1,1,0,0,0,Renames plus POTENCIA constant and reordered initialization.
+base2_L1.py,base2_L4.py,1,0,1,1,1,1,0,0,Inner summation loop pulled out into a function.
+base2_L1.py,base2_L5.py,1,0,1,1,1,1,1,0,Helper extraction plus flag-while replaced by for/break.
+base2_L1.py,base2_L6.py,1,0,1,1,1,1,1,1,Different technique: numeric digit peeling with visited-set cycle detection.
+base2_L2.py,base2_L3.py,1,0,1,1,1,0,0,0,Only a hoisted constant and reordered declarations.
+base2_L2.py,base2_L4.py,1,0,1,1,1,1,0,0,Summation reorganized into a helper function.
+base2_L2.py,base2_L5.py,1,0,1,1,1,1,1,0,Helper extraction and loop-construct substitution.
+base2_L2.py,base2_L6.py,1,0,1,1,1,1,1,1,Same task solved with modular arithmetic and a cycle set instead of string digits.
+base2_L3.py,base2_L4.py,1,0,1,1,1,1,0,0,Identical code with the digit-square loop extracted into a function.
+base2_L3.py,base2_L5.py,1,0,1,1,1,1,1,0,Function extraction plus while-flag replaced by for/break.
+base2_L3.py,base2_L6.py,1,0,1,1,1,1,1,1,Algorithmic change to arithmetic digits and cycle detection.
+base2_L4.py,base2_L5.py,1,0,1,1,1,1,1,0,Same helper; driver while-flag loop rewritten as bounded for with break.
+base2_L4.py,base2_L6.py,1,0,1,1,1,1,1,1,Helper rewritten arithmetically and termination handled by a seen set.
+base2_L5.py,base2_L6.py,1,0,1,1,1,1,1,1,Bounded-iteration string approach replaced by cycle-detecting arithmetic version.
+base3_original.py,base3_L1.py,1,0,1,0,0,0,0,0,Same bubble-swap counter; only spacing and comments differ.
+base3_original.py,base3_L2.py,1,0,1,1,0,0,0,0,Line-for-line identical with all identifiers renamed.
+base3_original.py,base3_L3.py,1,0,1,1,1,0,0,0,Counter initialized from an INICIO constant and moved above the reads.
+base3_original.py,base3_L4.py,1,0,1,1,1,1,0,0,Swap-counting loops extracted into contar_intercambios.
+base3_original.py,base3_L5.py,1,0,1,1,1,1,1,0,Outer for-loop converted to an equivalent while-loop inside the helper.
+base3_original.py,base3_L6.py,1,0,1,1,1,1,1,1,Counts inversions via merge sort instead of the quadratic swap loop.
+base3_L1.py,base3_L2.py,1,0,1,1,0,0,0,0,Identifier renaming only.
+base3_L1.py,base3_L3.py,1,0,1,1,1,0,0,0,Renames plus a hoisted initialization constant.
+base3_L1.py,base3_L4.py,1,0,1,1,1,1,0,0,Same nested comparison logic moved into a function.
+base3_L1.py,base3_L5.py,1,0,1,1,1,1,1,0,Function extraction plus for-to-while substitution.
+base3_L1.py,base3_L6.py,1,0,1,1,1,1,1,1,Different algorithm (divide-and-conquer inversion count) for the same output.
+base3_L2.py,base3_L3.py,1,0,1,1,1,0,0,0,Only constant introduction and reordered declarations.
+base3_L2.py,base3_L4.py,1,0,1,1,1,1,0,0,Counting loops reorganized into a helper function.
+base3_L2.py,base3_L5.py,1,0,1,1,1,1,1,0,Helper extraction and loop-construct substitution.
+base3_L2.py,base3_L6.py,1,0,1,1,1,1,1,1,Merge-sort inversion counting replaces the direct swap loop.
+base3_L3.py,base3_L4.py,1,0,1,1,1,1,0,0,Identical body extracted into contar_intercambios.
+base3_L3.py,base3_L5.py,1,0,1,1,1,1,1,0,Extraction plus outer for replaced by while.
+base3_L3.py,base3_L6.py,1,0,1,1,1,1,1,1,Substantively different counting algorithm.
+base3_L4.py,base3_L5.py,1,0,1,1,1,1,1,0,Same helper with the outer for-loop rewritten as a while-loop.
+base3_L4.py,base3_L6.py,1,0,1,1,1,1,1,1,Quadratic swap counting replaced by merge-sort inversion counting.
+base3_L5.py,base3_L6.py,1,0,1,1,1,1,1,1,While-based swap counting replaced by recursive merge-sort inversion counting.
+base4_original.py,base4_L1.py,1,0,1,0,0,0,0,0,Identical digital-root code with comments added.
+base4_original.py,base4_L2.py,1,0,1,1,0,0,0,0,Same nested-while structure with function and variables renamed.
+base4_original.py,base4_L3.py,1,0,1,1,1,0,0,0,Literal 10 replaced by a `limite` variable and an explicit digit temporary.
+base4_original.py,base4_L4.py,1,0,1,1,1,1,0,0,"Digit summation split out into sumar_digitos, same approach."
+base4_original.py,base4_L5.py,1,0,1,1,1,1,1,0,Digit loop replaced by a string-based generator expression with sum().
+base4_original.py,base4_L6.py,1,0,1,1,1,1,1,1,Iterative digit summing replaced by the closed-form mod-9 trick.
+base4_L1.py,base4_L2.py,1,0,1,1,0,0,0,0,Renaming only.
+base4_L1.py,base4_L3.py,1,0,1,1,1,0,0,0,Renames plus base literal hoisted into a variable.
+base4_L1.py,base4_L4.py,1,0,1,1,1,1,0,0,Inner summation extracted into its own function.
+base4_L1.py,base4_L5.py,1,0,1,1,1,1,1,0,Extraction plus while-loop replaced by a comprehension.
+base4_L1.py,base4_L6.py,1,0,1,1,1,1,1,1,Closed-form mod-9 formula replaces the digit-summation loops.
+base4_L2.py,base4_L3.py,1,0,1,1,1,0,0,0,Only a hoisted base constant and an extra digit variable.
+base4_L2.py,base4_L4.py,1,0,1,1,1,1,0,0,Summation logic reorganized into a helper.
+base4_L2.py,base4_L5.py,1,0,1,1,1,1,1,0,Helper extraction plus loop-to-comprehension substitution.
+base4_L2.py,base4_L6.py,1,0,1,1,1,1,1,1,Different technique: arithmetic congruence instead of repeated summation.
+base4_L3.py,base4_L4.py,1,0,1,1,1,1,0,0,Identical code with digit summing moved into sumar_digitos.
+base4_L3.py,base4_L5.py,1,0,1,1,1,1,1,0,Extraction plus digit loop rewritten as sum over str().
+base4_L3.py,base4_L6.py,1,0,1,1,1,1,1,1,Repeated summation replaced by the mod-9 closed form.
+base4_L4.py,base4_L5.py,1,0,1,1,1,1,1,0,Same two-function shape; the digit while-loop becomes a generator expression.
+base4_L4.py,base4_L6.py,1,0,1,1,1,1,1,1,Both helpers collapsed into a closed-form mod-9 computation.
+base4_L5.py,base4_L6.py,1,0,1,1,1,1,1,1,Comprehension-based summation replaced by the mod-9 arithmetic identity.
+base1_L6a.py,base2_original.py,0,0,0,0,0,0,0,0,Different synthetic problem family; unrelated algorithms.
+base1_L6a.py,base2_L1.py,0,0,0,0,0,0,0,0,Different synthetic problem family; unrelated algorithms.
+base1_L5a.py,base2_L3.py,0,0,0,0,0,0,0,0,Different synthetic problem family; unrelated algorithms.
+base1_L3b.py,base2_original.py,0,0,0,0,0,0,0,0,Different synthetic problem family; unrelated algorithms.
+base1_L5a.py,base2_L2.py,0,0,0,0,0,0,0,0,Different synthetic problem family; unrelated algorithms.
+base1_L3a.py,base2_L4.py,0,0,0,0,0,0,0,0,Different synthetic problem family; unrelated algorithms.
+base1_L4a.py,base2_L3.py,0,0,0,0,0,0,0,0,Different synthetic problem family; unrelated algorithms.
+base1_L1a.py,base2_L2.py,0,0,0,0,0,0,0,0,Different synthetic problem family; unrelated algorithms.
+base1_L2a.py,base2_L6.py,0,0,0,0,0,0,0,0,Different synthetic problem family; unrelated algorithms.
+base1_L1a.py,base2_L5.py,0,0,0,0,0,0,0,0,Different synthetic problem family; unrelated algorithms.
+base1_L4a.py,base2_L4.py,0,0,0,0,0,0,0,0,Different synthetic problem family; unrelated algorithms.
+base1_L1a.py,base2_L1.py,0,0,0,0,0,0,0,0,Different synthetic problem family; unrelated algorithms.
+base1_L5a.py,base2_L6.py,0,0,0,0,0,0,0,0,Different synthetic problem family; unrelated algorithms.
+base1_L3b.py,base2_L2.py,0,0,0,0,0,0,0,0,Different synthetic problem family; unrelated algorithms.
+base1_L2a.py,base2_original.py,0,0,0,0,0,0,0,0,Different synthetic problem family; unrelated algorithms.
+base1_L6a.py,base2_L5.py,0,0,0,0,0,0,0,0,Different synthetic problem family; unrelated algorithms.
+base1_L4a.py,base2_L1.py,0,0,0,0,0,0,0,0,Different synthetic problem family; unrelated algorithms.
+base1_L1b.py,base3_L1.py,0,0,0,0,0,0,0,0,Different synthetic problem family; unrelated algorithms.
+base1_original.py,base3_L2.py,0,0,0,0,0,0,0,0,Different synthetic problem family; unrelated algorithms.
+base1_L1a.py,base3_L6.py,0,0,0,0,0,0,0,0,Different synthetic problem family; unrelated algorithms.
+base1_L1a.py,base3_L3.py,0,0,0,0,0,0,0,0,Different synthetic problem family; unrelated algorithms.
+base1_L5a.py,base3_original.py,0,0,0,0,0,0,0,0,Different synthetic problem family; unrelated algorithms.
+base1_L5a.py,base3_L2.py,0,0,0,0,0,0,0,0,Different synthetic problem family; unrelated algorithms.
+base1_L2a.py,base3_L6.py,0,0,0,0,0,0,0,0,Different synthetic problem family; unrelated algorithms.
+base1_L3b.py,base3_L5.py,0,0,0,0,0,0,0,0,Different synthetic problem family; unrelated algorithms.
+base1_L3a.py,base3_L3.py,0,0,0,0,0,0,0,0,Different synthetic problem family; unrelated algorithms.
+base1_L6a.py,base3_L5.py,0,0,0,0,0,0,0,0,Different synthetic problem family; unrelated algorithms.
+base1_L3a.py,base3_L6.py,0,0,0,0,0,0,0,0,Different synthetic problem family; unrelated algorithms.
+base1_L2a.py,base3_L3.py,0,0,0,0,0,0,0,0,Different synthetic problem family; unrelated algorithms.
+base1_L4a.py,base3_L6.py,0,0,0,0,0,0,0,0,Different synthetic problem family; unrelated algorithms.
+base1_L1a.py,base3_L1.py,0,0,0,0,0,0,0,0,Different synthetic problem family; unrelated algorithms.
+base1_L3a.py,base3_L1.py,0,0,0,0,0,0,0,0,Different synthetic problem family; unrelated algorithms.
+base1_L1b.py,base3_L3.py,0,0,0,0,0,0,0,0,Different synthetic problem family; unrelated algorithms.
+base1_L5a.py,base3_L5.py,0,0,0,0,0,0,0,0,Different synthetic problem family; unrelated algorithms.
+base1_L3b.py,base4_L4.py,0,0,0,0,0,0,0,0,Different synthetic problem family; unrelated algorithms.
+base1_L3a.py,base4_L4.py,0,0,0,0,0,0,0,0,Different synthetic problem family; unrelated algorithms.
+base1_L2a.py,base4_L6.py,0,0,0,0,0,0,0,0,Different synthetic problem family; unrelated algorithms.
+base1_L1a.py,base4_L5.py,0,0,0,0,0,0,0,0,Different synthetic problem family; unrelated algorithms.
+base1_L1a.py,base4_L1.py,0,0,0,0,0,0,0,0,Different synthetic problem family; unrelated algorithms.
+base1_L6a.py,base4_L3.py,0,0,0,0,0,0,0,0,Different synthetic problem family; unrelated algorithms.
+base1_L6a.py,base4_L4.py,0,0,0,0,0,0,0,0,Different synthetic problem family; unrelated algorithms.
+base1_L3a.py,base4_L3.py,0,0,0,0,0,0,0,0,Different synthetic problem family; unrelated algorithms.
+base1_L2a.py,base4_L3.py,0,0,0,0,0,0,0,0,Different synthetic problem family; unrelated algorithms.
+base1_L1a.py,base4_original.py,0,0,0,0,0,0,0,0,Different synthetic problem family; unrelated algorithms.
+base1_L1b.py,base4_original.py,0,0,0,0,0,0,0,0,Different synthetic problem family; unrelated algorithms.
+base1_L3a.py,base4_original.py,0,0,0,0,0,0,0,0,Different synthetic problem family; unrelated algorithms.
+base1_L2a.py,base4_L2.py,0,0,0,0,0,0,0,0,Different synthetic problem family; unrelated algorithms.
+base1_original.py,base4_original.py,0,0,0,0,0,0,0,0,Different synthetic problem family; unrelated algorithms.
+base1_L3b.py,base4_L2.py,0,0,0,0,0,0,0,0,Different synthetic problem family; unrelated algorithms.
+base1_L5a.py,base4_L2.py,0,0,0,0,0,0,0,0,Different synthetic problem family; unrelated algorithms.
+base1_L4a.py,base4_L3.py,0,0,0,0,0,0,0,0,Different synthetic problem family; unrelated algorithms.
+base2_L4.py,base3_original.py,0,0,0,0,0,0,0,0,Different synthetic problem family; unrelated algorithms.
+base2_L4.py,base3_L5.py,0,0,0,0,0,0,0,0,Different synthetic problem family; unrelated algorithms.
+base2_L1.py,base3_L5.py,0,0,0,0,0,0,0,0,Different synthetic problem family; unrelated algorithms.
+base2_original.py,base3_L6.py,0,0,0,0,0,0,0,0,Different synthetic problem family; unrelated algorithms.
+base2_original.py,base3_L3.py,0,0,0,0,0,0,0,0,Different synthetic problem family; unrelated algorithms.
+base2_L1.py,base3_L6.py,0,0,0,0,0,0,0,0,Different synthetic problem family; unrelated algorithms.
+base2_L2.py,base3_original.py,0,0,0,0,0,0,0,0,Different synthetic problem family; unrelated algorithms.
+base2_L5.py,base3_L2.py,0,0,0,0,0,0,0,0,Different synthetic problem family; unrelated algorithms.
+base2_L5.py,base3_L1.py,0,0,0,0,0,0,0,0,Different synthetic problem family; unrelated algorithms.
+base2_L2.py,base3_L6.py,0,0,0,0,0,0,0,0,Different synthetic problem family; unrelated algorithms.
+base2_L6.py,base3_L3.py,0,0,0,0,0,0,0,0,Different synthetic problem family; unrelated algorithms.
+base2_original.py,base3_original.py,0,0,0,0,0,0,0,0,Different synthetic problem family; unrelated algorithms.
+base2_L2.py,base3_L2.py,0,0,0,0,0,0,0,0,Different synthetic problem family; unrelated algorithms.
+base2_original.py,base3_L2.py,0,0,0,0,0,0,0,0,Different synthetic problem family; unrelated algorithms.
+base2_L4.py,base3_L1.py,0,0,0,0,0,0,0,0,Different synthetic problem family; unrelated algorithms.
+base2_L1.py,base3_L3.py,0,0,0,0,0,0,0,0,Different synthetic problem family; unrelated algorithms.
+base2_L3.py,base3_L5.py,0,0,0,0,0,0,0,0,Different synthetic problem family; unrelated algorithms.
+base2_original.py,base4_L1.py,0,0,0,0,0,0,0,0,Different synthetic problem family; unrelated algorithms.
+base2_L4.py,base4_L6.py,0,0,0,0,0,0,0,0,Different synthetic problem family; unrelated algorithms.
+base2_original.py,base4_L4.py,0,0,0,0,0,0,0,0,Different synthetic problem family; unrelated algorithms.
+base2_L4.py,base4_L4.py,0,0,0,0,0,0,0,0,Different synthetic problem family; unrelated algorithms.
+base2_L3.py,base4_L6.py,0,0,0,0,0,0,0,0,Different synthetic problem family; unrelated algorithms.
+base2_L2.py,base4_L1.py,0,0,0,0,0,0,0,0,Different synthetic problem family; unrelated algorithms.
+base2_L3.py,base4_L3.py,0,0,0,0,0,0,0,0,Different synthetic problem family; unrelated algorithms.
+base2_L6.py,base4_original.py,0,0,0,0,0,0,0,0,Different synthetic problem family; unrelated algorithms.
+base2_original.py,base4_L3.py,0,0,0,0,0,0,0,0,Different synthetic problem family; unrelated algorithms.
+base2_L2.py,base4_original.py,0,0,0,0,0,0,0,0,Different synthetic problem family; unrelated algorithms.
+base2_L5.py,base4_original.py,0,0,0,0,0,0,0,0,Different synthetic problem family; unrelated algorithms.
+base2_L2.py,base4_L6.py,0,0,0,0,0,0,0,0,Different synthetic problem family; unrelated algorithms.
+base2_L1.py,base4_original.py,0,0,0,0,0,0,0,0,Different synthetic problem family; unrelated algorithms.
+base2_L6.py,base4_L2.py,0,0,0,0,0,0,0,0,Different synthetic problem family; unrelated algorithms.
+base2_L4.py,base4_L1.py,0,0,0,0,0,0,0,0,Different synthetic problem family; unrelated algorithms.
+base2_original.py,base4_L6.py,0,0,0,0,0,0,0,0,Different synthetic problem family; unrelated algorithms.
+base2_original.py,base4_original.py,0,0,0,0,0,0,0,0,Different synthetic problem family; unrelated algorithms.
+base3_L4.py,base4_L3.py,0,0,0,0,0,0,0,0,Different synthetic problem family; unrelated algorithms.
+base3_L5.py,base4_L4.py,0,0,0,0,0,0,0,0,Different synthetic problem family; unrelated algorithms.
+base3_L5.py,base4_L1.py,0,0,0,0,0,0,0,0,Different synthetic problem family; unrelated algorithms.
+base3_L2.py,base4_original.py,0,0,0,0,0,0,0,0,Different synthetic problem family; unrelated algorithms.
+base3_L6.py,base4_L4.py,0,0,0,0,0,0,0,0,Different synthetic problem family; unrelated algorithms.
+base3_L3.py,base4_original.py,0,0,0,0,0,0,0,0,Different synthetic problem family; unrelated algorithms.
+base3_L6.py,base4_L3.py,0,0,0,0,0,0,0,0,Different synthetic problem family; unrelated algorithms.
+base3_L5.py,base4_L3.py,0,0,0,0,0,0,0,0,Different synthetic problem family; unrelated algorithms.
+base3_L4.py,base4_original.py,0,0,0,0,0,0,0,0,Different synthetic problem family; unrelated algorithms.
+base3_L4.py,base4_L5.py,0,0,0,0,0,0,0,0,Different synthetic problem family; unrelated algorithms.
+base3_original.py,base4_L6.py,0,0,0,0,0,0,0,0,Different synthetic problem family; unrelated algorithms.
+base3_L5.py,base4_L5.py,0,0,0,0,0,0,0,0,Different synthetic problem family; unrelated algorithms.
+base3_original.py,base4_L5.py,0,0,0,0,0,0,0,0,Different synthetic problem family; unrelated algorithms.
+base3_L5.py,base4_L6.py,0,0,0,0,0,0,0,0,Different synthetic problem family; unrelated algorithms.
+base3_L2.py,base4_L2.py,0,0,0,0,0,0,0,0,Different synthetic problem family; unrelated algorithms.
+base3_L1.py,base4_L3.py,0,0,0,0,0,0,0,0,Different synthetic problem family; unrelated algorithms.
+base3_L2.py,base4_L4.py,0,0,0,0,0,0,0,0,Different synthetic problem family; unrelated algorithms.
