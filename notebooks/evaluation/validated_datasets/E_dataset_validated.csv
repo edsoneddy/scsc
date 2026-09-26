@@ -1,0 +1,401 @@
+File_1,File_2,Label,L0,L1,L2,L3,L4,L5,L6,Notes,Human_Label
+686025.py,686046.py,1,0,1,1,0,0,0,0,"Same algorithm and control-flow structure; differs only in identifier names, formatting, comments, or I/O wrapper.",1
+724852.py,747880.py,1,1,0,0,0,0,0,0,Byte-identical files (verbatim copy).,1
+748439.py,749622.py,1,0,1,1,0,0,0,0,"Same algorithm and control-flow structure; differs only in identifier names, formatting, comments, or I/O wrapper.",1
+749857.py,750194.py,1,0,1,1,0,0,0,0,"Same algorithm and control-flow structure; differs only in identifier names, formatting, comments, or I/O wrapper.",1
+750288.py,750745.py,1,0,1,1,0,0,0,0,"Same algorithm and control-flow structure; differs only in identifier names, formatting, comments, or I/O wrapper.",1
+757123.py,757186.py,1,0,1,1,0,0,0,0,"Same algorithm and control-flow structure; differs only in identifier names, formatting, comments, or I/O wrapper.",1
+757908.py,758548.py,1,0,1,1,0,0,0,0,"Same algorithm and control-flow structure; differs only in identifier names, formatting, comments, or I/O wrapper.",1
+758885.py,758927.py,1,0,1,1,0,0,0,0,"Same algorithm and control-flow structure; differs only in identifier names, formatting, comments, or I/O wrapper.",1
+758539.py,758587.py,1,0,1,1,0,0,0,0,"Same algorithm and control-flow structure; differs only in identifier names, formatting, comments, or I/O wrapper.",1
+758669.py,758904.py,1,1,0,0,0,0,0,0,Byte-identical files (verbatim copy).,1
+704266.py,704273.py,1,0,1,1,0,0,0,0,"Same algorithm and control-flow structure; differs only in identifier names, formatting, comments, or I/O wrapper.",1
+761805.py,762332.py,1,1,0,0,0,0,0,0,Byte-identical files (verbatim copy).,1
+746691.py,750313.py,1,0,1,1,0,0,0,0,"Same algorithm and control-flow structure; differs only in identifier names, formatting, comments, or I/O wrapper.",1
+750816.py,750857.py,1,0,1,1,0,0,0,0,"Same algorithm and control-flow structure; differs only in identifier names, formatting, comments, or I/O wrapper.",1
+754919.py,757841.py,1,0,1,1,0,0,0,0,"Same algorithm and control-flow structure; differs only in identifier names, formatting, comments, or I/O wrapper.",1
+758042.py,759618.py,1,0,1,1,0,0,0,0,"Same algorithm and control-flow structure; differs only in identifier names, formatting, comments, or I/O wrapper.",1
+685770.py,691105.py,1,1,0,0,0,0,0,0,Byte-identical files (verbatim copy).,1
+686470.py,688414.py,1,0,1,1,0,0,0,0,"Same algorithm and control-flow structure; differs only in identifier names, formatting, comments, or I/O wrapper.",1
+711222.py,746676.py,1,0,1,1,0,0,0,0,"Same algorithm and control-flow structure; differs only in identifier names, formatting, comments, or I/O wrapper.",1
+748389.py,754885.py,1,0,1,1,0,0,0,0,"Same algorithm and control-flow structure; differs only in identifier names, formatting, comments, or I/O wrapper.",1
+748863.py,750030.py,1,0,1,1,0,0,0,0,"Same algorithm and control-flow structure; differs only in identifier names, formatting, comments, or I/O wrapper.",1
+138252.py,144819.py,1,0,1,1,0,0,0,0,"Same algorithm and control-flow structure; differs only in identifier names, formatting, comments, or I/O wrapper.",1
+138402.py,146485.py,1,1,0,0,0,0,0,0,Byte-identical files (verbatim copy).,1
+682974.py,745569.py,1,0,1,1,0,0,0,0,"Same algorithm and control-flow structure; differs only in identifier names, formatting, comments, or I/O wrapper.",1
+685774.py,693029.py,1,0,1,1,0,0,0,0,"Same algorithm and control-flow structure; differs only in identifier names, formatting, comments, or I/O wrapper.",1
+686561.py,686606.py,1,0,1,1,0,0,0,0,"Same algorithm and control-flow structure; differs only in identifier names, formatting, comments, or I/O wrapper.",1
+686663.py,686667.py,1,0,1,1,0,0,0,0,"Same algorithm and control-flow structure; differs only in identifier names, formatting, comments, or I/O wrapper.",1
+688364.py,691312.py,1,0,1,1,0,0,0,0,"Same algorithm and control-flow structure; differs only in identifier names, formatting, comments, or I/O wrapper.",1
+688772.py,692260.py,1,0,1,1,0,0,0,0,"Same algorithm and control-flow structure; differs only in identifier names, formatting, comments, or I/O wrapper.",1
+691323.py,691348.py,1,1,0,0,0,0,0,0,Byte-identical files (verbatim copy).,1
+747224.py,755153.py,1,0,1,1,0,0,0,0,"Same algorithm and control-flow structure; differs only in identifier names, formatting, comments, or I/O wrapper.",1
+747619.py,759070.py,1,0,1,1,0,0,0,0,"Same algorithm and control-flow structure; differs only in identifier names, formatting, comments, or I/O wrapper.",1
+748805.py,755272.py,1,1,0,0,0,0,0,0,Byte-identical files (verbatim copy).,1
+750029.py,750496.py,1,0,1,1,0,0,0,0,"Same algorithm and control-flow structure; differs only in identifier names, formatting, comments, or I/O wrapper.",1
+753178.py,753342.py,1,0,1,1,0,0,0,0,"Same algorithm and control-flow structure; differs only in identifier names, formatting, comments, or I/O wrapper.",1
+753368.py,754190.py,1,0,1,1,0,0,0,0,"Same algorithm and control-flow structure; differs only in identifier names, formatting, comments, or I/O wrapper.",1
+754198.py,754758.py,1,0,1,1,0,0,0,0,"Same algorithm and control-flow structure; differs only in identifier names, formatting, comments, or I/O wrapper.",1
+755199.py,755210.py,1,1,0,0,0,0,0,0,Byte-identical files (verbatim copy).,1
+755516.py,755911.py,1,0,1,1,0,0,0,0,"Same algorithm and control-flow structure; differs only in identifier names, formatting, comments, or I/O wrapper.",1
+755986.py,756331.py,1,0,1,1,0,0,0,0,"Same algorithm and control-flow structure; differs only in identifier names, formatting, comments, or I/O wrapper.",1
+756413.py,756486.py,1,0,1,1,0,0,0,0,"Same algorithm and control-flow structure; differs only in identifier names, formatting, comments, or I/O wrapper.",1
+756487.py,756507.py,1,1,0,0,0,0,0,0,Byte-identical files (verbatim copy).,1
+756811.py,757410.py,1,0,1,1,0,0,0,0,"Same algorithm and control-flow structure; differs only in identifier names, formatting, comments, or I/O wrapper.",1
+757122.py,757188.py,1,0,1,1,0,0,0,0,"Same algorithm and control-flow structure; differs only in identifier names, formatting, comments, or I/O wrapper.",1
+757907.py,758435.py,1,0,1,1,0,0,0,0,"Same algorithm and control-flow structure; differs only in identifier names, formatting, comments, or I/O wrapper.",1
+758492.py,758546.py,1,0,1,1,0,0,0,0,"Same algorithm and control-flow structure; differs only in identifier names, formatting, comments, or I/O wrapper.",1
+758884.py,758929.py,1,0,1,1,0,0,0,0,"Same algorithm and control-flow structure; differs only in identifier names, formatting, comments, or I/O wrapper.",1
+759139.py,759198.py,1,0,1,1,0,0,0,0,"Same algorithm and control-flow structure; differs only in identifier names, formatting, comments, or I/O wrapper.",1
+681731.py,685733.py,1,0,1,1,0,0,0,0,"Same algorithm and control-flow structure; differs only in identifier names, formatting, comments, or I/O wrapper.",1
+686332.py,686444.py,1,0,1,1,0,0,0,0,"Same algorithm and control-flow structure; differs only in identifier names, formatting, comments, or I/O wrapper.",1
+686552.py,686597.py,1,0,1,1,0,0,0,0,"Same algorithm and control-flow structure; differs only in identifier names, formatting, comments, or I/O wrapper.",1
+712605.py,713199.py,1,0,1,1,0,0,0,0,"Same algorithm and control-flow structure; differs only in identifier names, formatting, comments, or I/O wrapper.",1
+765728.py,781518.py,1,0,1,1,0,0,0,0,"Same algorithm and control-flow structure; differs only in identifier names, formatting, comments, or I/O wrapper.",1
+754151.py,754933.py,1,0,1,1,0,0,0,0,"Same algorithm and control-flow structure; differs only in identifier names, formatting, comments, or I/O wrapper.",1
+755061.py,758515.py,1,0,1,1,0,0,0,0,"Same algorithm and control-flow structure; differs only in identifier names, formatting, comments, or I/O wrapper.",1
+686076.py,686078.py,1,0,1,1,0,0,0,0,"Same algorithm and control-flow structure; differs only in identifier names, formatting, comments, or I/O wrapper.",1
+686923.py,686928.py,1,0,1,1,0,0,0,0,"Same algorithm and control-flow structure; differs only in identifier names, formatting, comments, or I/O wrapper.",1
+753422.py,755261.py,1,0,1,1,0,0,0,0,"Same algorithm and control-flow structure; differs only in identifier names, formatting, comments, or I/O wrapper.",1
+753589.py,754883.py,1,0,1,1,0,0,0,0,"Same algorithm and control-flow structure; differs only in identifier names, formatting, comments, or I/O wrapper.",1
+754930.py,755033.py,1,0,1,1,0,0,0,0,"Same algorithm and control-flow structure; differs only in identifier names, formatting, comments, or I/O wrapper.",1
+755004.py,758501.py,1,0,1,1,0,0,0,0,"Same algorithm and control-flow structure; differs only in identifier names, formatting, comments, or I/O wrapper.",1
+755449.py,755545.py,1,0,1,1,0,0,0,0,"Same algorithm and control-flow structure; differs only in identifier names, formatting, comments, or I/O wrapper.",1
+756000.py,757379.py,1,0,1,1,0,0,0,0,"Same algorithm and control-flow structure; differs only in identifier names, formatting, comments, or I/O wrapper.",1
+686641.py,686643.py,1,0,1,1,0,0,0,0,"Same algorithm and control-flow structure; differs only in identifier names, formatting, comments, or I/O wrapper.",1
+690977.py,693024.py,1,0,1,1,0,0,0,0,"Same algorithm and control-flow structure; differs only in identifier names, formatting, comments, or I/O wrapper.",1
+691484.py,691493.py,1,0,1,1,0,0,0,0,"Same algorithm and control-flow structure; differs only in identifier names, formatting, comments, or I/O wrapper.",1
+752527.py,755275.py,1,1,0,0,0,0,0,0,Byte-identical files (verbatim copy).,1
+752766.py,755151.py,1,0,1,1,0,0,0,0,"Same algorithm and control-flow structure; differs only in identifier names, formatting, comments, or I/O wrapper.",1
+753350.py,755069.py,1,1,0,0,0,0,0,0,Byte-identical files (verbatim copy).,1
+753431.py,755218.py,1,1,0,0,0,0,0,0,Byte-identical files (verbatim copy).,1
+753505.py,757388.py,1,0,1,1,0,0,0,0,"Same algorithm and control-flow structure; differs only in identifier names, formatting, comments, or I/O wrapper.",1
+754698.py,755532.py,1,1,0,0,0,0,0,0,Byte-identical files (verbatim copy).,1
+756296.py,758540.py,1,0,1,1,0,0,0,0,"Same algorithm and control-flow structure; differs only in identifier names, formatting, comments, or I/O wrapper.",1
+756299.py,756586.py,1,0,1,1,0,0,0,0,"Same algorithm and control-flow structure; differs only in identifier names, formatting, comments, or I/O wrapper.",1
+756300.py,757236.py,1,0,1,1,0,0,0,0,"Same algorithm and control-flow structure; differs only in identifier names, formatting, comments, or I/O wrapper.",1
+756889.py,758287.py,1,0,1,1,0,0,0,0,"Same algorithm and control-flow structure; differs only in identifier names, formatting, comments, or I/O wrapper.",1
+756901.py,759082.py,1,0,1,1,0,0,0,0,"Same algorithm and control-flow structure; differs only in identifier names, formatting, comments, or I/O wrapper.",1
+758429.py,758814.py,1,0,1,1,0,0,0,0,"Same algorithm and control-flow structure; differs only in identifier names, formatting, comments, or I/O wrapper.",1
+681393.py,681667.py,1,0,1,1,0,0,0,0,"Same algorithm and control-flow structure; differs only in identifier names, formatting, comments, or I/O wrapper.",1
+681910.py,683364.py,1,0,1,1,0,0,0,0,"Same algorithm and control-flow structure; differs only in identifier names, formatting, comments, or I/O wrapper.",1
+683636.py,683640.py,1,0,1,1,0,0,0,0,"Same algorithm and control-flow structure; differs only in identifier names, formatting, comments, or I/O wrapper.",1
+683663.py,683814.py,1,0,1,1,0,0,0,0,"Same algorithm and control-flow structure; differs only in identifier names, formatting, comments, or I/O wrapper.",1
+684378.py,684424.py,1,0,1,1,0,0,0,0,"Same algorithm and control-flow structure; differs only in identifier names, formatting, comments, or I/O wrapper.",1
+684482.py,684514.py,1,0,1,1,0,0,0,0,"Same algorithm and control-flow structure; differs only in identifier names, formatting, comments, or I/O wrapper.",1
+685070.py,685132.py,1,0,1,1,0,0,0,0,"Same algorithm and control-flow structure; differs only in identifier names, formatting, comments, or I/O wrapper.",1
+685201.py,731239.py,1,0,1,1,0,0,0,0,"Same algorithm and control-flow structure; differs only in identifier names, formatting, comments, or I/O wrapper.",1
+732051.py,732151.py,1,0,1,1,0,0,0,0,"Same algorithm and control-flow structure; differs only in identifier names, formatting, comments, or I/O wrapper.",1
+732761.py,798947.py,1,0,1,1,0,0,0,0,"Same algorithm and control-flow structure; differs only in identifier names, formatting, comments, or I/O wrapper.",1
+146385.py,146389.py,1,1,0,0,0,0,0,0,Byte-identical files (verbatim copy).,1
+146392.py,146416.py,1,1,0,0,0,0,0,0,Byte-identical files (verbatim copy).,1
+146424.py,146835.py,1,0,1,1,0,0,0,0,"Same algorithm and control-flow structure; differs only in identifier names, formatting, comments, or I/O wrapper.",1
+147052.py,147207.py,1,0,1,1,0,0,0,0,"Same algorithm and control-flow structure; differs only in identifier names, formatting, comments, or I/O wrapper.",1
+147718.py,147731.py,1,1,0,0,0,0,0,0,Byte-identical files (verbatim copy).,1
+147921.py,147975.py,1,0,1,1,0,0,0,0,"Same algorithm and control-flow structure; differs only in identifier names, formatting, comments, or I/O wrapper.",1
+146838.py,146931.py,1,1,0,0,0,0,0,0,Byte-identical files (verbatim copy).,1
+146934.py,146938.py,1,1,0,0,0,0,0,0,Byte-identical files (verbatim copy).,1
+146945.py,146955.py,1,1,0,0,0,0,0,0,Byte-identical files (verbatim copy).,1
+146965.py,146987.py,1,1,0,0,0,0,0,0,Byte-identical files (verbatim copy).,1
+146994.py,146998.py,1,1,0,0,0,0,0,0,Byte-identical files (verbatim copy).,1
+147006.py,147210.py,1,1,0,0,0,0,0,0,Byte-identical files (verbatim copy).,1
+145061.py,683169.py,1,0,1,1,0,0,0,0,"Same algorithm and control-flow structure; differs only in identifier names, formatting, comments, or I/O wrapper.",1
+684124.py,684710.py,1,0,1,1,0,0,0,0,"Same algorithm and control-flow structure; differs only in identifier names, formatting, comments, or I/O wrapper.",1
+685098.py,685143.py,1,1,0,0,0,0,0,0,Byte-identical files (verbatim copy).,1
+685145.py,730343.py,1,0,1,1,0,0,0,0,"Same algorithm and control-flow structure; differs only in identifier names, formatting, comments, or I/O wrapper.",1
+731388.py,799081.py,1,0,1,1,0,0,0,0,"Same algorithm and control-flow structure; differs only in identifier names, formatting, comments, or I/O wrapper.",1
+684919.py,684950.py,1,0,1,1,0,0,0,0,"Same algorithm and control-flow structure; differs only in identifier names, formatting, comments, or I/O wrapper.",1
+685221.py,685356.py,1,1,0,0,0,0,0,0,Byte-identical files (verbatim copy).,1
+731848.py,732677.py,1,0,1,1,0,0,0,0,"Same algorithm and control-flow structure; differs only in identifier names, formatting, comments, or I/O wrapper.",1
+685209.py,731087.py,1,0,1,1,0,0,0,0,"Same algorithm and control-flow structure; differs only in identifier names, formatting, comments, or I/O wrapper.",1
+731427.py,731803.py,1,0,1,1,0,0,0,0,"Same algorithm and control-flow structure; differs only in identifier names, formatting, comments, or I/O wrapper.",1
+732186.py,732232.py,1,0,1,1,0,0,0,0,"Same algorithm and control-flow structure; differs only in identifier names, formatting, comments, or I/O wrapper.",1
+145033.py,146823.py,1,0,1,1,0,0,0,0,"Same algorithm and control-flow structure; differs only in identifier names, formatting, comments, or I/O wrapper.",1
+147326.py,147962.py,1,0,1,1,0,0,0,0,"Same algorithm and control-flow structure; differs only in identifier names, formatting, comments, or I/O wrapper.",1
+693713.py,693744.py,1,0,1,1,0,0,0,0,"Same algorithm and control-flow structure; differs only in identifier names, formatting, comments, or I/O wrapper.",1
+693890.py,693915.py,1,0,1,1,0,0,0,0,"Same algorithm and control-flow structure; differs only in identifier names, formatting, comments, or I/O wrapper.",1
+731504.py,732335.py,1,0,1,1,0,0,0,0,"Same algorithm and control-flow structure; differs only in identifier names, formatting, comments, or I/O wrapper.",1
+732564.py,732646.py,1,0,1,1,0,0,0,0,"Same algorithm and control-flow structure; differs only in identifier names, formatting, comments, or I/O wrapper.",1
+145403.py,145412.py,1,0,1,1,0,0,0,0,"Same algorithm and control-flow structure; differs only in identifier names, formatting, comments, or I/O wrapper.",1
+145420.py,731329.py,1,0,1,1,0,0,0,0,"Same algorithm and control-flow structure; differs only in identifier names, formatting, comments, or I/O wrapper.",1
+682653.py,684060.py,1,0,1,1,0,0,0,0,"Same algorithm and control-flow structure; differs only in identifier names, formatting, comments, or I/O wrapper.",1
+693408.py,731939.py,1,0,1,1,0,0,0,0,"Same algorithm and control-flow structure; differs only in identifier names, formatting, comments, or I/O wrapper.",1
+131238.py,732125.py,1,0,1,1,0,0,0,0,"Same algorithm and control-flow structure; differs only in identifier names, formatting, comments, or I/O wrapper.",1
+145056.py,147219.py,1,1,0,0,0,0,0,0,Byte-identical files (verbatim copy).,1
+145082.py,147245.py,1,0,1,1,0,0,0,0,"Same algorithm and control-flow structure; differs only in identifier names, formatting, comments, or I/O wrapper.",1
+145395.py,147689.py,1,1,0,0,0,0,0,0,Byte-identical files (verbatim copy).,1
+145472.py,147941.py,1,0,1,1,0,0,0,0,"Same algorithm and control-flow structure; differs only in identifier names, formatting, comments, or I/O wrapper.",1
+145635.py,148103.py,1,1,0,0,0,0,0,0,Byte-identical files (verbatim copy).,1
+145640.py,148185.py,1,0,1,1,0,0,0,0,"Same algorithm and control-flow structure; differs only in identifier names, formatting, comments, or I/O wrapper.",1
+146405.py,147692.py,1,1,0,0,0,0,0,0,Byte-identical files (verbatim copy).,1
+146842.py,147388.py,1,1,0,0,0,0,0,0,Byte-identical files (verbatim copy).,1
+146881.py,147215.py,1,0,1,1,0,0,0,0,"Same algorithm and control-flow structure; differs only in identifier names, formatting, comments, or I/O wrapper.",1
+147300.py,148446.py,1,1,0,0,0,0,0,0,Byte-identical files (verbatim copy).,1
+731401.py,731965.py,1,0,1,1,0,0,0,0,"Same algorithm and control-flow structure; differs only in identifier names, formatting, comments, or I/O wrapper.",1
+731599.py,731660.py,1,0,1,1,0,0,0,0,"Same algorithm and control-flow structure; differs only in identifier names, formatting, comments, or I/O wrapper.",1
+732223.py,732397.py,1,1,0,0,0,0,0,0,Byte-identical files (verbatim copy).,1
+781925.py,782214.py,1,1,0,0,0,0,0,0,Byte-identical files (verbatim copy).,1
+782216.py,145081.py,1,0,1,1,0,0,0,0,"Same algorithm and control-flow structure; differs only in identifier names, formatting, comments, or I/O wrapper.",1
+752498.py,753274.py,1,0,1,1,0,0,0,0,"Same algorithm and control-flow structure; differs only in identifier names, formatting, comments, or I/O wrapper.",1
+757579.py,758013.py,1,0,1,1,0,0,0,0,"Same algorithm and control-flow structure; differs only in identifier names, formatting, comments, or I/O wrapper.",1
+146958.py,147559.py,1,0,1,1,0,0,0,0,"Same algorithm and control-flow structure; differs only in identifier names, formatting, comments, or I/O wrapper.",1
+750173.py,758468.py,1,0,1,1,0,0,0,0,"Same algorithm and control-flow structure; differs only in identifier names, formatting, comments, or I/O wrapper.",1
+757578.py,758011.py,1,0,1,1,0,0,0,0,"Same algorithm and control-flow structure; differs only in identifier names, formatting, comments, or I/O wrapper.",1
+759213.py,758491.py,1,0,1,1,0,0,0,0,"Same algorithm and control-flow structure; differs only in identifier names, formatting, comments, or I/O wrapper.",1
+748800.py,757233.py,1,0,1,1,0,0,0,0,"Same algorithm and control-flow structure; differs only in identifier names, formatting, comments, or I/O wrapper.",1
+756109.py,758146.py,1,0,1,1,0,0,0,0,"Same algorithm and control-flow structure; differs only in identifier names, formatting, comments, or I/O wrapper.",1
+758899.py,758974.py,1,0,1,1,0,0,0,0,"Same algorithm and control-flow structure; differs only in identifier names, formatting, comments, or I/O wrapper.",1
+758426.py,759128.py,1,0,1,1,0,0,0,0,"Same algorithm and control-flow structure; differs only in identifier names, formatting, comments, or I/O wrapper.",1
+145539.py,148179.py,1,0,1,1,0,0,0,0,"Same algorithm and control-flow structure; differs only in identifier names, formatting, comments, or I/O wrapper.",1
+749003.py,749917.py,1,0,1,1,0,0,0,0,"Same algorithm and control-flow structure; differs only in identifier names, formatting, comments, or I/O wrapper.",1
+686709.py,745598.py,1,0,1,1,0,0,0,0,"Same algorithm and control-flow structure; differs only in identifier names, formatting, comments, or I/O wrapper.",1
+147204.py,147270.py,1,0,1,1,0,0,0,0,"Same algorithm and control-flow structure; differs only in identifier names, formatting, comments, or I/O wrapper.",1
+752846.py,753895.py,1,0,1,1,0,0,0,0,"Same algorithm and control-flow structure; differs only in identifier names, formatting, comments, or I/O wrapper.",1
+691457.py,750763.py,1,0,1,1,0,0,0,0,"Same algorithm and control-flow structure; differs only in identifier names, formatting, comments, or I/O wrapper.",1
+684231.py,685186.py,1,0,1,1,0,0,0,0,"Same algorithm and control-flow structure; differs only in identifier names, formatting, comments, or I/O wrapper.",1
+759310.py,758976.py,1,0,1,1,0,0,0,0,"Same algorithm and control-flow structure; differs only in identifier names, formatting, comments, or I/O wrapper.",1
+138251.py,138253.py,1,0,1,1,0,0,0,0,"Same algorithm and control-flow structure; differs only in identifier names, formatting, comments, or I/O wrapper.",1
+145529.py,148184.py,1,0,1,1,0,0,0,0,"Same algorithm and control-flow structure; differs only in identifier names, formatting, comments, or I/O wrapper.",1
+750712.py,749539.py,1,0,1,1,0,0,0,0,"Same algorithm and control-flow structure; differs only in identifier names, formatting, comments, or I/O wrapper.",1
+683405.py,732187.py,1,0,1,1,0,0,0,0,"Same algorithm and control-flow structure; differs only in identifier names, formatting, comments, or I/O wrapper.",1
+150054.py,766770.py,1,0,1,1,0,0,0,0,"Same algorithm and control-flow structure; differs only in identifier names, formatting, comments, or I/O wrapper.",1
+146387.py,146689.py,1,0,1,1,0,0,0,0,"Same algorithm and control-flow structure; differs only in identifier names, formatting, comments, or I/O wrapper.",1
+732093.py,801680.py,1,0,1,1,0,0,0,0,"Same algorithm and control-flow structure; differs only in identifier names, formatting, comments, or I/O wrapper.",1
+757066.py,759014.py,1,0,1,1,0,0,0,0,"Same algorithm and control-flow structure; differs only in identifier names, formatting, comments, or I/O wrapper.",1
+145027.py,147653.py,1,0,1,1,0,0,0,0,"Same algorithm and control-flow structure; differs only in identifier names, formatting, comments, or I/O wrapper.",1
+759061.py,758541.py,1,0,1,1,0,0,0,0,"Same algorithm and control-flow structure; differs only in identifier names, formatting, comments, or I/O wrapper.",1
+731702.py,731950.py,1,0,1,1,0,0,0,0,"Same algorithm and control-flow structure; differs only in identifier names, formatting, comments, or I/O wrapper.",1
+681518.py,757032.py,1,0,1,1,0,0,0,0,"Same algorithm and control-flow structure; differs only in identifier names, formatting, comments, or I/O wrapper.",1
+685925.py,695704.py,1,0,1,1,0,0,0,0,"Same algorithm and control-flow structure; differs only in identifier names, formatting, comments, or I/O wrapper.",1
+749201.py,749966.py,1,0,1,1,0,1,1,0,"Same underlying algorithm but implemented with a different technique or control construct (e.g. different parsing/accumulation approach, loop vs library call).",1
+731764.py,785656.py,1,0,1,1,0,1,1,0,"Same underlying algorithm but implemented with a different technique or control construct (e.g. different parsing/accumulation approach, loop vs library call).",1
+755952.py,759415.py,1,0,1,1,0,1,1,0,"Same underlying algorithm but implemented with a different technique or control construct (e.g. different parsing/accumulation approach, loop vs library call).",1
+755773.py,758318.py,1,0,1,1,0,1,1,0,"Same underlying algorithm but implemented with a different technique or control construct (e.g. different parsing/accumulation approach, loop vs library call).",1
+753220.py,756953.py,1,0,1,1,0,1,1,0,"Same underlying algorithm but implemented with a different technique or control construct (e.g. different parsing/accumulation approach, loop vs library call).",1
+758053.py,759250.py,1,0,1,1,0,1,1,0,"Same underlying algorithm but implemented with a different technique or control construct (e.g. different parsing/accumulation approach, loop vs library call).",1
+757065.py,759011.py,1,0,1,1,0,1,1,0,"Same underlying algorithm but implemented with a different technique or control construct (e.g. different parsing/accumulation approach, loop vs library call).",1
+692971.py,758166.py,1,0,1,1,0,1,1,0,"Same underlying algorithm but implemented with a different technique or control construct (e.g. different parsing/accumulation approach, loop vs library call).",1
+691274.py,748880.py,1,0,1,1,0,1,1,0,"Same underlying algorithm but implemented with a different technique or control construct (e.g. different parsing/accumulation approach, loop vs library call).",1
+747087.py,750612.py,1,0,1,1,0,1,1,0,"Same underlying algorithm but implemented with a different technique or control construct (e.g. different parsing/accumulation approach, loop vs library call).",1
+754700.py,757504.py,1,0,1,1,0,1,1,0,"Same underlying algorithm but implemented with a different technique or control construct (e.g. different parsing/accumulation approach, loop vs library call).",1
+148296.py,799042.py,1,0,1,1,0,1,1,0,"Same underlying algorithm but implemented with a different technique or control construct (e.g. different parsing/accumulation approach, loop vs library call).",1
+683216.py,796914.py,1,0,1,1,0,1,1,0,"Same underlying algorithm but implemented with a different technique or control construct (e.g. different parsing/accumulation approach, loop vs library call).",1
+682021.py,732009.py,1,0,1,1,0,1,1,0,"Same underlying algorithm but implemented with a different technique or control construct (e.g. different parsing/accumulation approach, loop vs library call).",1
+753206.py,757543.py,1,0,1,1,0,1,1,0,"Same underlying algorithm but implemented with a different technique or control construct (e.g. different parsing/accumulation approach, loop vs library call).",1
+147378.py,148332.py,1,0,1,1,0,1,1,0,"Same underlying algorithm but implemented with a different technique or control construct (e.g. different parsing/accumulation approach, loop vs library call).",1
+681896.py,686576.py,1,0,1,1,0,1,1,0,"Same underlying algorithm but implemented with a different technique or control construct (e.g. different parsing/accumulation approach, loop vs library call).",1
+757270.py,758325.py,1,0,1,1,0,1,1,0,"Same underlying algorithm but implemented with a different technique or control construct (e.g. different parsing/accumulation approach, loop vs library call).",1
+730760.py,731594.py,1,0,1,1,0,1,1,0,"Same underlying algorithm but implemented with a different technique or control construct (e.g. different parsing/accumulation approach, loop vs library call).",1
+682048.py,758280.py,1,0,1,1,0,1,1,0,"Same underlying algorithm but implemented with a different technique or control construct (e.g. different parsing/accumulation approach, loop vs library call).",1
+754669.py,755818.py,1,0,1,1,0,1,1,0,"Same underlying algorithm but implemented with a different technique or control construct (e.g. different parsing/accumulation approach, loop vs library call).",1
+685580.py,749140.py,1,0,1,1,0,1,1,0,"Same underlying algorithm but implemented with a different technique or control construct (e.g. different parsing/accumulation approach, loop vs library call).",1
+685700.py,755003.py,1,0,1,1,0,1,1,0,"Same underlying algorithm but implemented with a different technique or control construct (e.g. different parsing/accumulation approach, loop vs library call).",1
+755030.py,757930.py,1,0,1,1,0,1,1,0,"Same underlying algorithm but implemented with a different technique or control construct (e.g. different parsing/accumulation approach, loop vs library call).",1
+683826.py,684022.py,1,0,1,1,0,1,1,0,"Same underlying algorithm but implemented with a different technique or control construct (e.g. different parsing/accumulation approach, loop vs library call).",1
+730973.py,732224.py,1,0,1,1,0,1,1,0,"Same underlying algorithm but implemented with a different technique or control construct (e.g. different parsing/accumulation approach, loop vs library call).",1
+755675.py,756602.py,1,0,1,1,0,1,1,0,"Same underlying algorithm but implemented with a different technique or control construct (e.g. different parsing/accumulation approach, loop vs library call).",1
+731139.py,731858.py,1,0,1,1,0,1,1,0,"Same underlying algorithm but implemented with a different technique or control construct (e.g. different parsing/accumulation approach, loop vs library call).",1
+750622.py,755259.py,1,0,1,1,0,1,1,0,"Same underlying algorithm but implemented with a different technique or control construct (e.g. different parsing/accumulation approach, loop vs library call).",1
+148316.py,730649.py,1,0,1,1,0,1,1,0,"Same underlying algorithm but implemented with a different technique or control construct (e.g. different parsing/accumulation approach, loop vs library call).",1
+756108.py,758502.py,1,0,1,1,0,1,1,0,"Same underlying algorithm but implemented with a different technique or control construct (e.g. different parsing/accumulation approach, loop vs library call).",1
+692972.py,757686.py,1,0,1,1,0,1,1,0,"Same underlying algorithm but implemented with a different technique or control construct (e.g. different parsing/accumulation approach, loop vs library call).",1
+749201.py,147941.py,0,0,0,0,0,0,0,0,Different sub-problem (dot-product / identify-structure / word-extraction); unrelated implementations.,0
+691274.py,146835.py,0,0,0,0,0,0,0,0,Different sub-problem (dot-product / identify-structure / word-extraction); unrelated implementations.,0
+759274.py,146416.py,0,0,0,0,0,0,0,0,Different sub-problem (dot-product / identify-structure / word-extraction); unrelated implementations.,0
+757907.py,145403.py,0,0,0,0,0,0,0,0,Different sub-problem (dot-product / identify-structure / word-extraction); unrelated implementations.,0
+686561.py,147564.py,0,0,0,0,0,0,0,0,Different sub-problem (dot-product / identify-structure / word-extraction); unrelated implementations.,0
+758311.py,732397.py,0,0,0,0,0,0,0,0,Different sub-problem (dot-product / identify-structure / word-extraction); unrelated implementations.,0
+758904.py,147300.py,0,0,0,0,0,0,0,0,Different sub-problem (dot-product / identify-structure / word-extraction); unrelated implementations.,0
+759274.py,685209.py,0,0,0,0,0,0,0,0,Different sub-problem (dot-product / identify-structure / word-extraction); unrelated implementations.,0
+757257.py,732223.py,0,0,0,0,0,0,0,0,Different sub-problem (dot-product / identify-structure / word-extraction); unrelated implementations.,0
+138252.py,753589.py,0,0,0,0,0,0,0,0,Different sub-problem (dot-product / identify-structure / word-extraction); unrelated implementations.,0
+757907.py,683814.py,0,0,0,0,0,0,0,0,Different sub-problem (dot-product / identify-structure / word-extraction); unrelated implementations.,0
+691324.py,755033.py,0,0,0,0,0,0,0,0,Different sub-problem (dot-product / identify-structure / word-extraction); unrelated implementations.,0
+686663.py,752498.py,0,0,0,0,0,0,0,0,Different sub-problem (dot-product / identify-structure / word-extraction); unrelated implementations.,0
+686576.py,756669.py,0,0,0,0,0,0,0,0,Different sub-problem (dot-product / identify-structure / word-extraction); unrelated implementations.,0
+759546.py,755532.py,0,0,0,0,0,0,0,0,Different sub-problem (dot-product / identify-structure / word-extraction); unrelated implementations.,0
+757506.py,731937.py,0,0,0,0,0,0,0,0,Different sub-problem (dot-product / identify-structure / word-extraction); unrelated implementations.,0
+750857.py,146392.py,0,0,0,0,0,0,0,0,Different sub-problem (dot-product / identify-structure / word-extraction); unrelated implementations.,0
+755969.py,732768.py,0,0,0,0,0,0,0,0,Different sub-problem (dot-product / identify-structure / word-extraction); unrelated implementations.,0
+756811.py,732186.py,0,0,0,0,0,0,0,0,Different sub-problem (dot-product / identify-structure / word-extraction); unrelated implementations.,0
+685770.py,145472.py,0,0,0,0,0,0,0,0,Different sub-problem (dot-product / identify-structure / word-extraction); unrelated implementations.,0
+755118.py,681393.py,0,0,0,0,0,0,0,0,Different sub-problem (dot-product / identify-structure / word-extraction); unrelated implementations.,0
+748439.py,146823.py,0,0,0,0,0,0,0,0,Different sub-problem (dot-product / identify-structure / word-extraction); unrelated implementations.,0
+749480.py,758429.py,0,0,0,0,0,0,0,0,Different sub-problem (dot-product / identify-structure / word-extraction); unrelated implementations.,0
+756889.py,147052.py,0,0,0,0,0,0,0,0,Different sub-problem (dot-product / identify-structure / word-extraction); unrelated implementations.,0
+750622.py,755002.py,0,0,0,0,0,0,0,0,Different sub-problem (dot-product / identify-structure / word-extraction); unrelated implementations.,0
+755545.py,782216.py,0,0,0,0,0,0,0,0,Different sub-problem (dot-product / identify-structure / word-extraction); unrelated implementations.,0
+759618.py,775278.py,0,0,0,0,0,0,0,0,Different sub-problem (dot-product / identify-structure / word-extraction); unrelated implementations.,0
+758548.py,147941.py,0,0,0,0,0,0,0,0,Different sub-problem (dot-product / identify-structure / word-extraction); unrelated implementations.,0
+757579.py,684710.py,0,0,0,0,0,0,0,0,Different sub-problem (dot-product / identify-structure / word-extraction); unrelated implementations.,0
+758885.py,755061.py,0,0,0,0,0,0,0,0,Different sub-problem (dot-product / identify-structure / word-extraction); unrelated implementations.,0
+756368.py,145635.py,0,0,0,0,0,0,0,0,Different sub-problem (dot-product / identify-structure / word-extraction); unrelated implementations.,0
+681518.py,683169.py,0,0,0,0,0,0,0,0,Different sub-problem (dot-product / identify-structure / word-extraction); unrelated implementations.,0
+749028.py,692971.py,0,0,0,0,0,0,0,0,Different sub-problem (dot-product / identify-structure / word-extraction); unrelated implementations.,0
+758976.py,683169.py,0,0,0,0,0,0,0,0,Different sub-problem (dot-product / identify-structure / word-extraction); unrelated implementations.,0
+758279.py,685098.py,0,0,0,0,0,0,0,0,Different sub-problem (dot-product / identify-structure / word-extraction); unrelated implementations.,0
+758435.py,146965.py,0,0,0,0,0,0,0,0,Different sub-problem (dot-product / identify-structure / word-extraction); unrelated implementations.,0
+691274.py,755261.py,0,0,0,0,0,0,0,0,Different sub-problem (dot-product / identify-structure / word-extraction); unrelated implementations.,0
+759548.py,731937.py,0,0,0,0,0,0,0,0,Different sub-problem (dot-product / identify-structure / word-extraction); unrelated implementations.,0
+759213.py,758011.py,0,0,0,0,0,0,0,0,Different sub-problem (dot-product / identify-structure / word-extraction); unrelated implementations.,0
+757388.py,684231.py,0,0,0,0,0,0,0,0,Different sub-problem (dot-product / identify-structure / word-extraction); unrelated implementations.,0
+686561.py,686928.py,0,0,0,0,0,0,0,0,Different sub-problem (dot-product / identify-structure / word-extraction); unrelated implementations.,0
+691324.py,732768.py,0,0,0,0,0,0,0,0,Different sub-problem (dot-product / identify-structure / word-extraction); unrelated implementations.,0
+756109.py,732232.py,0,0,0,0,0,0,0,0,Different sub-problem (dot-product / identify-structure / word-extraction); unrelated implementations.,0
+754919.py,684710.py,0,0,0,0,0,0,0,0,Different sub-problem (dot-product / identify-structure / word-extraction); unrelated implementations.,0
+758501.py,731848.py,0,0,0,0,0,0,0,0,Different sub-problem (dot-product / identify-structure / word-extraction); unrelated implementations.,0
+758819.py,686076.py,0,0,0,0,0,0,0,0,Different sub-problem (dot-product / identify-structure / word-extraction); unrelated implementations.,0
+750412.py,752921.py,0,0,0,0,0,0,0,0,Different sub-problem (dot-product / identify-structure / word-extraction); unrelated implementations.,0
+757123.py,753589.py,0,0,0,0,0,0,0,0,Different sub-problem (dot-product / identify-structure / word-extraction); unrelated implementations.,0
+138251.py,755532.py,0,0,0,0,0,0,0,0,Different sub-problem (dot-product / identify-structure / word-extraction); unrelated implementations.,0
+754608.py,731594.py,0,0,0,0,0,0,0,0,Different sub-problem (dot-product / identify-structure / word-extraction); unrelated implementations.,0
+749917.py,781925.py,0,0,0,0,0,0,0,0,Different sub-problem (dot-product / identify-structure / word-extraction); unrelated implementations.,0
+754883.py,146998.py,0,0,0,0,0,0,0,0,Different sub-problem (dot-product / identify-structure / word-extraction); unrelated implementations.,0
+691392.py,759268.py,0,0,0,0,0,0,0,0,Different sub-problem (dot-product / identify-structure / word-extraction); unrelated implementations.,0
+681731.py,732335.py,0,0,0,0,0,0,0,0,Different sub-problem (dot-product / identify-structure / word-extraction); unrelated implementations.,0
+758053.py,686332.py,0,0,0,0,0,0,0,0,Different sub-problem (dot-product / identify-structure / word-extraction); unrelated implementations.,0
+750712.py,682653.py,0,0,0,0,0,0,0,0,Different sub-problem (dot-product / identify-structure / word-extraction); unrelated implementations.,0
+682974.py,147921.py,0,0,0,0,0,0,0,0,Different sub-problem (dot-product / identify-structure / word-extraction); unrelated implementations.,0
+713199.py,146405.py,0,0,0,0,0,0,0,0,Different sub-problem (dot-product / identify-structure / word-extraction); unrelated implementations.,0
+758546.py,146385.py,0,0,0,0,0,0,0,0,Different sub-problem (dot-product / identify-structure / word-extraction); unrelated implementations.,0
+753220.py,146938.py,0,0,0,0,0,0,0,0,Different sub-problem (dot-product / identify-structure / word-extraction); unrelated implementations.,0
+758515.py,731965.py,0,0,0,0,0,0,0,0,Different sub-problem (dot-product / identify-structure / word-extraction); unrelated implementations.,0
+749003.py,731848.py,0,0,0,0,0,0,0,0,Different sub-problem (dot-product / identify-structure / word-extraction); unrelated implementations.,0
+754930.py,682752.py,0,0,0,0,0,0,0,0,Different sub-problem (dot-product / identify-structure / word-extraction); unrelated implementations.,0
+750816.py,758287.py,0,0,0,0,0,0,0,0,Different sub-problem (dot-product / identify-structure / word-extraction); unrelated implementations.,0
+758321.py,146931.py,0,0,0,0,0,0,0,0,Different sub-problem (dot-product / identify-structure / word-extraction); unrelated implementations.,0
+748389.py,146384.py,0,0,0,0,0,0,0,0,Different sub-problem (dot-product / identify-structure / word-extraction); unrelated implementations.,0
+144819.py,759317.py,0,0,0,0,0,0,0,0,Different sub-problem (dot-product / identify-structure / word-extraction); unrelated implementations.,0
+759235.py,147653.py,0,0,0,0,0,0,0,0,Different sub-problem (dot-product / identify-structure / word-extraction); unrelated implementations.,0
+685774.py,766770.py,0,0,0,0,0,0,0,0,Different sub-problem (dot-product / identify-structure / word-extraction); unrelated implementations.,0
+748405.py,146385.py,0,0,0,0,0,0,0,0,Different sub-problem (dot-product / identify-structure / word-extraction); unrelated implementations.,0
+750313.py,146387.py,0,0,0,0,0,0,0,0,Different sub-problem (dot-product / identify-structure / word-extraction); unrelated implementations.,0
+755199.py,148332.py,0,0,0,0,0,0,0,0,Different sub-problem (dot-product / identify-structure / word-extraction); unrelated implementations.,0
+758546.py,147559.py,0,0,0,0,0,0,0,0,Different sub-problem (dot-product / identify-structure / word-extraction); unrelated implementations.,0
+753274.py,732151.py,0,0,0,0,0,0,0,0,Different sub-problem (dot-product / identify-structure / word-extraction); unrelated implementations.,0
+755189.py,754700.py,0,0,0,0,0,0,0,0,Different sub-problem (dot-product / identify-structure / word-extraction); unrelated implementations.,0
+686576.py,798947.py,0,0,0,0,0,0,0,0,Different sub-problem (dot-product / identify-structure / word-extraction); unrelated implementations.,0
+757841.py,690977.py,0,0,0,0,0,0,0,0,Different sub-problem (dot-product / identify-structure / word-extraction); unrelated implementations.,0
+752585.py,145640.py,0,0,0,0,0,0,0,0,Different sub-problem (dot-product / identify-structure / word-extraction); unrelated implementations.,0
+750367.py,752846.py,0,0,0,0,0,0,0,0,Different sub-problem (dot-product / identify-structure / word-extraction); unrelated implementations.,0
+724852.py,147245.py,0,0,0,0,0,0,0,0,Different sub-problem (dot-product / identify-structure / word-extraction); unrelated implementations.,0
+758318.py,146958.py,0,0,0,0,0,0,0,0,Different sub-problem (dot-product / identify-structure / word-extraction); unrelated implementations.,0
+704266.py,755787.py,0,0,0,0,0,0,0,0,Different sub-problem (dot-product / identify-structure / word-extraction); unrelated implementations.,0
+748805.py,712605.py,0,0,0,0,0,0,0,0,Different sub-problem (dot-product / identify-structure / word-extraction); unrelated implementations.,0
+758801.py,752585.py,0,0,0,0,0,0,0,0,Different sub-problem (dot-product / identify-structure / word-extraction); unrelated implementations.,0
+758587.py,145056.py,0,0,0,0,0,0,0,0,Different sub-problem (dot-product / identify-structure / word-extraction); unrelated implementations.,0
+748736.py,147204.py,0,0,0,0,0,0,0,0,Different sub-problem (dot-product / identify-structure / word-extraction); unrelated implementations.,0
+758042.py,758541.py,0,0,0,0,0,0,0,0,Different sub-problem (dot-product / identify-structure / word-extraction); unrelated implementations.,0
+755066.py,145640.py,0,0,0,0,0,0,0,0,Different sub-problem (dot-product / identify-structure / word-extraction); unrelated implementations.,0
+754885.py,131238.py,0,0,0,0,0,0,0,0,Different sub-problem (dot-product / identify-structure / word-extraction); unrelated implementations.,0
+749003.py,758429.py,0,0,0,0,0,0,0,0,Different sub-problem (dot-product / identify-structure / word-extraction); unrelated implementations.,0
+756109.py,759415.py,0,0,0,0,0,0,0,0,Different sub-problem (dot-product / identify-structure / word-extraction); unrelated implementations.,0
+749857.py,147564.py,0,0,0,0,0,0,0,0,Different sub-problem (dot-product / identify-structure / word-extraction); unrelated implementations.,0
+759128.py,731939.py,0,0,0,0,0,0,0,0,Different sub-problem (dot-product / identify-structure / word-extraction); unrelated implementations.,0
+750173.py,145635.py,0,0,0,0,0,0,0,0,Different sub-problem (dot-product / identify-structure / word-extraction); unrelated implementations.,0
+759213.py,731139.py,0,0,0,0,0,0,0,0,Different sub-problem (dot-product / identify-structure / word-extraction); unrelated implementations.,0
+759136.py,147006.py,0,0,0,0,0,0,0,0,Different sub-problem (dot-product / identify-structure / word-extraction); unrelated implementations.,0
+758325.py,146392.py,0,0,0,0,0,0,0,0,Different sub-problem (dot-product / identify-structure / word-extraction); unrelated implementations.,0
+685770.py,732232.py,0,0,0,0,0,0,0,0,Different sub-problem (dot-product / identify-structure / word-extraction); unrelated implementations.,0
+748736.py,685143.py,0,0,0,0,0,0,0,0,Different sub-problem (dot-product / identify-structure / word-extraction); unrelated implementations.,0
+758976.py,147962.py,0,0,0,0,0,0,0,0,Different sub-problem (dot-product / identify-structure / word-extraction); unrelated implementations.,0
+686709.py,732677.py,0,0,0,0,0,0,0,0,Different sub-problem (dot-product / identify-structure / word-extraction); unrelated implementations.,0
+755272.py,798947.py,0,0,0,0,0,0,0,0,Different sub-problem (dot-product / identify-structure / word-extraction); unrelated implementations.,0
+765728.py,731764.py,0,0,0,0,0,0,0,0,Different sub-problem (dot-product / identify-structure / word-extraction); unrelated implementations.,0
+748882.py,754933.py,0,0,0,0,0,0,0,0,Different sub-problem (dot-product / identify-structure / word-extraction); unrelated implementations.,0
+756299.py,147921.py,0,0,0,0,0,0,0,0,Different sub-problem (dot-product / identify-structure / word-extraction); unrelated implementations.,0
+755030.py,753274.py,0,0,0,0,0,0,0,0,Different sub-problem (dot-product / identify-structure / word-extraction); unrelated implementations.,0
+755986.py,730649.py,0,0,0,0,0,0,0,0,Different sub-problem (dot-product / identify-structure / word-extraction); unrelated implementations.,0
+685774.py,686076.py,0,0,0,0,0,0,0,0,Different sub-problem (dot-product / identify-structure / word-extraction); unrelated implementations.,0
+758554.py,147559.py,0,0,0,0,0,0,0,0,Different sub-problem (dot-product / identify-structure / word-extraction); unrelated implementations.,0
+758669.py,756000.py,0,0,0,0,0,0,0,0,Different sub-problem (dot-product / identify-structure / word-extraction); unrelated implementations.,0
+759136.py,145033.py,0,0,0,0,0,0,0,0,Different sub-problem (dot-product / identify-structure / word-extraction); unrelated implementations.,0
+759317.py,681910.py,0,0,0,0,0,0,0,0,Different sub-problem (dot-product / identify-structure / word-extraction); unrelated implementations.,0
+752766.py,146955.py,0,0,0,0,0,0,0,0,Different sub-problem (dot-product / identify-structure / word-extraction); unrelated implementations.,0
+688364.py,752846.py,0,0,0,0,0,0,0,0,Different sub-problem (dot-product / identify-structure / word-extraction); unrelated implementations.,0
+749539.py,755002.py,0,0,0,0,0,0,0,0,Different sub-problem (dot-product / identify-structure / word-extraction); unrelated implementations.,0
+756487.py,147378.py,0,0,0,0,0,0,0,0,Different sub-problem (dot-product / identify-structure / word-extraction); unrelated implementations.,0
+748863.py,690977.py,0,0,0,0,0,0,0,0,Different sub-problem (dot-product / identify-structure / word-extraction); unrelated implementations.,0
+138251.py,683640.py,0,0,0,0,0,0,0,0,Different sub-problem (dot-product / identify-structure / word-extraction); unrelated implementations.,0
+758312.py,732009.py,0,0,0,0,0,0,0,0,Different sub-problem (dot-product / identify-structure / word-extraction); unrelated implementations.,0
+758011.py,732093.py,0,0,0,0,0,0,0,0,Different sub-problem (dot-product / identify-structure / word-extraction); unrelated implementations.,0
+686979.py,146389.py,0,0,0,0,0,0,0,0,Different sub-problem (dot-product / identify-structure / word-extraction); unrelated implementations.,0
+753431.py,731950.py,0,0,0,0,0,0,0,0,Different sub-problem (dot-product / identify-structure / word-extraction); unrelated implementations.,0
+750763.py,732217.py,0,0,0,0,0,0,0,0,Different sub-problem (dot-product / identify-structure / word-extraction); unrelated implementations.,0
+753422.py,693408.py,0,0,0,0,0,0,0,0,Different sub-problem (dot-product / identify-structure / word-extraction); unrelated implementations.,0
+681701.py,682653.py,0,0,0,0,0,0,0,0,Different sub-problem (dot-product / identify-structure / word-extraction); unrelated implementations.,0
+681701.py,756669.py,0,0,0,0,0,0,0,0,Different sub-problem (dot-product / identify-structure / word-extraction); unrelated implementations.,0
+748805.py,799081.py,0,0,0,0,0,0,0,0,Different sub-problem (dot-product / identify-structure / word-extraction); unrelated implementations.,0
+750622.py,732093.py,0,0,0,0,0,0,0,0,Different sub-problem (dot-product / identify-structure / word-extraction); unrelated implementations.,0
+695704.py,685186.py,0,0,0,0,0,0,0,0,Different sub-problem (dot-product / identify-structure / word-extraction); unrelated implementations.,0
+695704.py,683640.py,0,0,0,0,0,0,0,0,Different sub-problem (dot-product / identify-structure / word-extraction); unrelated implementations.,0
+757882.py,147653.py,0,0,0,0,0,0,0,0,Different sub-problem (dot-product / identify-structure / word-extraction); unrelated implementations.,0
+757506.py,684022.py,0,0,0,0,0,0,0,0,Different sub-problem (dot-product / identify-structure / word-extraction); unrelated implementations.,0
+748405.py,755069.py,0,0,0,0,0,0,0,0,Different sub-problem (dot-product / identify-structure / word-extraction); unrelated implementations.,0
+724852.py,685132.py,0,0,0,0,0,0,0,0,Different sub-problem (dot-product / identify-structure / word-extraction); unrelated implementations.,0
+749480.py,692972.py,0,0,0,0,0,0,0,0,Different sub-problem (dot-product / identify-structure / word-extraction); unrelated implementations.,0
+750612.py,758974.py,0,0,0,0,0,0,0,0,Different sub-problem (dot-product / identify-structure / word-extraction); unrelated implementations.,0
+758554.py,756398.py,0,0,0,0,0,0,0,0,Different sub-problem (dot-product / identify-structure / word-extraction); unrelated implementations.,0
+688364.py,148179.py,0,0,0,0,0,0,0,0,Different sub-problem (dot-product / identify-structure / word-extraction); unrelated implementations.,0
+759128.py,148184.py,0,0,0,0,0,0,0,0,Different sub-problem (dot-product / identify-structure / word-extraction); unrelated implementations.,0
+750496.py,756299.py,0,0,0,0,0,0,0,0,Different sub-problem (dot-product / identify-structure / word-extraction); unrelated implementations.,0
+759618.py,758974.py,0,0,0,0,0,0,0,0,Different sub-problem (dot-product / identify-structure / word-extraction); unrelated implementations.,0
+754919.py,732186.py,0,0,0,0,0,0,0,0,Different sub-problem (dot-product / identify-structure / word-extraction); unrelated implementations.,0
+748880.py,145472.py,0,0,0,0,0,0,0,0,Different sub-problem (dot-product / identify-structure / word-extraction); unrelated implementations.,0
+758166.py,131238.py,0,0,0,0,0,0,0,0,Different sub-problem (dot-product / identify-structure / word-extraction); unrelated implementations.,0
+759198.py,801680.py,0,0,0,0,0,0,0,0,Different sub-problem (dot-product / identify-structure / word-extraction); unrelated implementations.,0
+750745.py,693408.py,0,0,0,0,0,0,0,0,Different sub-problem (dot-product / identify-structure / word-extraction); unrelated implementations.,0
+750313.py,732761.py,0,0,0,0,0,0,0,0,Different sub-problem (dot-product / identify-structure / word-extraction); unrelated implementations.,0
+688772.py,755986.py,0,0,0,0,0,0,0,0,Different sub-problem (dot-product / identify-structure / word-extraction); unrelated implementations.,0
+756296.py,799081.py,0,0,0,0,0,0,0,0,Different sub-problem (dot-product / identify-structure / word-extraction); unrelated implementations.,0
+750288.py,757410.py,0,0,0,0,0,0,0,0,Different sub-problem (dot-product / identify-structure / word-extraction); unrelated implementations.,0
+755969.py,732009.py,0,0,0,0,0,0,0,0,Different sub-problem (dot-product / identify-structure / word-extraction); unrelated implementations.,0
+757122.py,147210.py,0,0,0,0,0,0,0,0,Different sub-problem (dot-product / identify-structure / word-extraction); unrelated implementations.,0
+781518.py,682021.py,0,0,0,0,0,0,0,0,Different sub-problem (dot-product / identify-structure / word-extraction); unrelated implementations.,0
+758801.py,681731.py,0,0,0,0,0,0,0,0,Different sub-problem (dot-product / identify-structure / word-extraction); unrelated implementations.,0
+757233.py,758312.py,0,0,0,0,0,0,0,0,Different sub-problem (dot-product / identify-structure / word-extraction); unrelated implementations.,0
+755004.py,731599.py,0,0,0,0,0,0,0,0,Different sub-problem (dot-product / identify-structure / word-extraction); unrelated implementations.,0
+692260.py,745598.py,0,0,0,0,0,0,0,0,Different sub-problem (dot-product / identify-structure / word-extraction); unrelated implementations.,0
+758426.py,756413.py,0,0,0,0,0,0,0,0,Different sub-problem (dot-product / identify-structure / word-extraction); unrelated implementations.,0
+745569.py,146987.py,0,0,0,0,0,0,0,0,Different sub-problem (dot-product / identify-structure / word-extraction); unrelated implementations.,0
+761805.py,693024.py,0,0,0,0,0,0,0,0,Different sub-problem (dot-product / identify-structure / word-extraction); unrelated implementations.,0
+755259.py,754758.py,0,0,0,0,0,0,0,0,Different sub-problem (dot-product / identify-structure / word-extraction); unrelated implementations.,0
+757188.py,731401.py,0,0,0,0,0,0,0,0,Different sub-problem (dot-product / identify-structure / word-extraction); unrelated implementations.,0
+748800.py,753422.py,0,0,0,0,0,0,0,0,Different sub-problem (dot-product / identify-structure / word-extraction); unrelated implementations.,0
+685733.py,146838.py,0,0,0,0,0,0,0,0,Different sub-problem (dot-product / identify-structure / word-extraction); unrelated implementations.,0
+747880.py,754608.py,0,0,0,0,0,0,0,0,Different sub-problem (dot-product / identify-structure / word-extraction); unrelated implementations.,0
+759014.py,730760.py,0,0,0,0,0,0,0,0,Different sub-problem (dot-product / identify-structure / word-extraction); unrelated implementations.,0
+758885.py,147962.py,0,0,0,0,0,0,0,0,Different sub-problem (dot-product / identify-structure / word-extraction); unrelated implementations.,0
+757390.py,146955.py,0,0,0,0,0,0,0,0,Different sub-problem (dot-product / identify-structure / word-extraction); unrelated implementations.,0
+758539.py,759548.py,0,0,0,0,0,0,0,0,Different sub-problem (dot-product / identify-structure / word-extraction); unrelated implementations.,0
+756300.py,693890.py,0,0,0,0,0,0,0,0,Different sub-problem (dot-product / identify-structure / word-extraction); unrelated implementations.,0
+758929.py,685356.py,0,0,0,0,0,0,0,0,Different sub-problem (dot-product / identify-structure / word-extraction); unrelated implementations.,0
+758318.py,147006.py,0,0,0,0,0,0,0,0,Different sub-problem (dot-product / identify-structure / word-extraction); unrelated implementations.,0
+758515.py,701392.py,0,0,0,0,0,0,0,0,Different sub-problem (dot-product / identify-structure / word-extraction); unrelated implementations.,0
+749201.py,693744.py,0,0,0,0,0,0,0,0,Different sub-problem (dot-product / identify-structure / word-extraction); unrelated implementations.,0
+749561.py,147731.py,0,0,0,0,0,0,0,0,Different sub-problem (dot-product / identify-structure / word-extraction); unrelated implementations.,0
+750358.py,756300.py,0,0,0,0,0,0,0,0,Different sub-problem (dot-product / identify-structure / word-extraction); unrelated implementations.,0
+713199.py,146958.py,0,0,0,0,0,0,0,0,Different sub-problem (dot-product / identify-structure / word-extraction); unrelated implementations.,0
+748439.py,684919.py,0,0,0,0,0,0,0,0,Different sub-problem (dot-product / identify-structure / word-extraction); unrelated implementations.,0
+755259.py,685145.py,0,0,0,0,0,0,0,0,Different sub-problem (dot-product / identify-structure / word-extraction); unrelated implementations.,0
+758587.py,758501.py,0,0,0,0,0,0,0,0,Different sub-problem (dot-product / identify-structure / word-extraction); unrelated implementations.,0
+685580.py,754933.py,0,0,0,0,0,0,0,0,Different sub-problem (dot-product / identify-structure / word-extraction); unrelated implementations.,0
+755001.py,686444.py,0,0,0,0,0,0,0,0,Different sub-problem (dot-product / identify-structure / word-extraction); unrelated implementations.,0
+757122.py,731139.py,0,0,0,0,0,0,0,0,Different sub-problem (dot-product / identify-structure / word-extraction); unrelated implementations.,0
+755272.py,759198.py,0,0,0,0,0,0,0,0,Different sub-problem (dot-product / identify-structure / word-extraction); unrelated implementations.,0
+755001.py,683663.py,0,0,0,0,0,0,0,0,Different sub-problem (dot-product / identify-structure / word-extraction); unrelated implementations.,0
+757410.py,147204.py,0,0,0,0,0,0,0,0,Different sub-problem (dot-product / identify-structure / word-extraction); unrelated implementations.,0
+690878.py,759139.py,0,0,0,0,0,0,0,0,Different sub-problem (dot-product / identify-structure / word-extraction); unrelated implementations.,0
+755003.py,732224.py,0,0,0,0,0,0,0,0,Different sub-problem (dot-product / identify-structure / word-extraction); unrelated implementations.,0
+686552.py,146405.py,0,0,0,0,0,0,0,0,Different sub-problem (dot-product / identify-structure / word-extraction); unrelated implementations.,0
+704266.py,686928.py,0,0,0,0,0,0,0,0,Different sub-problem (dot-product / identify-structure / word-extraction); unrelated implementations.,0
+754885.py,756368.py,0,0,0,0,0,0,0,0,Different sub-problem (dot-product / identify-structure / word-extraction); unrelated implementations.,0
+757390.py,683405.py,0,0,0,0,0,0,0,0,Different sub-problem (dot-product / identify-structure / word-extraction); unrelated implementations.,0
+138402.py,759268.py,0,0,0,0,0,0,0,0,Different sub-problem (dot-product / identify-structure / word-extraction); unrelated implementations.,0
+750612.py,147689.py,0,0,0,0,0,0,0,0,Different sub-problem (dot-product / identify-structure / word-extraction); unrelated implementations.,0
+692972.py,785656.py,0,0,0,0,0,0,0,0,Different sub-problem (dot-product / identify-structure / word-extraction); unrelated implementations.,0
+144819.py,732761.py,0,0,0,0,0,0,0,0,Different sub-problem (dot-product / identify-structure / word-extraction); unrelated implementations.,0
+748787.py,146938.py,0,0,0,0,0,0,0,0,Different sub-problem (dot-product / identify-structure / word-extraction); unrelated implementations.,0
+757841.py,148103.py,0,0,0,0,0,0,0,0,Different sub-problem (dot-product / identify-structure / word-extraction); unrelated implementations.,0
+691457.py,753128.py,0,0,0,0,0,0,0,0,Different sub-problem (dot-product / identify-structure / word-extraction); unrelated implementations.,0
+750030.py,146838.py,0,0,0,0,0,0,0,0,Different sub-problem (dot-product / identify-structure / word-extraction); unrelated implementations.,0
