@@ -712,8 +712,15 @@ class TedAdapter:
             'continue_on_error': False
         }
 
+        # detect() defaults to UnifiedDiff (a difflib.SequenceMatcher line diff
+        # over the pretty-printed AST text - a sequence/text comparison, not a
+        # structural one). This adapter is named for tree edit distance, so it
+        # must request the TreeDiff diff_method (zss.distance over the real
+        # AST) explicitly, or "ted" silently measures the same kind of thing
+        # mdiff does instead of anything structural.
         results = detect(
             [c[1] for c in args["files"]],
+            diff_method=TreeDiff,
             keep_prints=args["keep_prints"],
             module_level=args["module_level"],
             continue_on_error=args["continue_on_error"]
