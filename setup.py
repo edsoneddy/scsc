@@ -7,7 +7,7 @@ setup(
     install_requires=[
         "pygments==2.19.2",
         "zss==1.2.0",
-        "csim==3.4.1"
+        "csim==4.0.0"
     ],
     author="Eddy Lecoña",
     author_email="crew0eddy@gmail.com",
