@@ -1,0 +1,16 @@
+def producto_escalar(vector_a, vector_b):
+    return sum(a * b for a, b in zip(vector_a, vector_b))
+
+def principal():
+    cantidad_de_pruebas = int(input())
+    
+    for _ in range(cantidad_de_pruebas):
+        tamaño = int(input())
+        vector_a = list(map(int, input().split()))
+        vector_b = list(map(int, input().split()))
+        
+        resultado = producto_escalar(vector_a, vector_b)
+        print(resultado)
+
+if __name__ == "__main__":
+    principal()
