@@ -1,73 +1,73 @@
 File_1,File_2,Label,L0,L1,L2,L3,L4,L5,L6,Notes,Human_Label
-submission163.py,submission165.py,1,0,0,1,0,0,0,0,reasoned by Claude (Faidhi&Robinson); external source label=cheating (kaggleIA),1
-submission122.py,submission157.py,1,0,0,1,0,0,0,0,reasoned by Claude (Faidhi&Robinson); external source label=cheating (kaggleIA),1
-submission127.py,submission128.py,1,0,0,0,0,1,0,0,reasoned by Claude (Faidhi&Robinson); external source label=cheating (kaggleIA),1
-submission138.py,submission139.py,1,0,0,0,0,1,0,0,reasoned by Claude (Faidhi&Robinson); external source label=cheating (kaggleIA),1
-submission132.py,submission133.py,1,0,0,0,0,0,0,0,reasoned by Claude (Faidhi&Robinson); external source label=cheating (kaggleIA),1
-submission118.py,submission120.py,1,0,0,0,0,0,0,1,reasoned by Claude (Faidhi&Robinson); external source label=cheating (kaggleIA),1
-submission122.py,submission124.py,1,0,0,0,1,0,0,0,reasoned by Claude (Faidhi&Robinson); external source label=cheating (kaggleIA),1
-submission167.py,submission168.py,1,0,1,1,0,0,0,0,reasoned by Claude (Faidhi&Robinson); external source label=cheating (kaggleIA),1
-submission142.py,submission154.py,1,0,1,1,0,0,0,0,reasoned by Claude (Faidhi&Robinson); external source label=cheating (kaggleIA),1
-submission129.py,submission130.py,1,0,0,0,0,1,0,0,reasoned by Claude (Faidhi&Robinson); external source label=cheating (kaggleIA),1
-submission170.py,submission171.py,1,0,0,1,0,0,0,0,reasoned by Claude (Faidhi&Robinson); external source label=cheating (kaggleIA),1
-submission103.py,submission104.py,1,0,0,1,0,1,0,0,reasoned by Claude (Faidhi&Robinson); external source label=cheating (kaggleIA),1
-submission128.py,submission129.py,1,0,0,0,0,1,0,0,reasoned by Claude (Faidhi&Robinson); external source label=cheating (kaggleIA),1
-submission77.py,submission78.py,1,0,0,0,0,1,0,0,reasoned by Claude (Faidhi&Robinson); external source label=cheating (kaggleIA),1
-submission78.py,submission81.py,1,0,0,0,0,1,0,0,reasoned by Claude (Faidhi&Robinson); external source label=cheating (kaggleIA),1
-submission112.py,submission114.py,1,0,1,0,0,1,0,0,reasoned by Claude (Faidhi&Robinson); external source label=cheating (kaggleIA),1
-submission50.py,submission52.py,1,0,0,1,0,1,0,0,reasoned by Claude (Faidhi&Robinson); external source label=cheating (kaggleIA),1
-submission26.py,submission27.py,1,0,1,1,0,0,0,0,reasoned by Claude (Faidhi&Robinson); external source label=cheating (kaggleIA),1
-submission143.py,submission144.py,1,0,0,1,0,1,0,0,reasoned by Claude (Faidhi&Robinson); external source label=cheating (kaggleIA),1
-submission28.py,submission29.py,1,0,1,1,0,0,0,0,reasoned by Claude (Faidhi&Robinson); external source label=cheating (kaggleIA),1
-submission115.py,submission158.py,1,0,1,1,0,0,0,0,reasoned by Claude (Faidhi&Robinson); external source label=cheating (kaggleIA),1
-submission55.py,submission58.py,1,0,0,1,0,0,0,0,reasoned by Claude (Faidhi&Robinson); external source label=cheating (kaggleIA),1
-submission107.py,submission108.py,1,0,0,1,0,0,0,0,reasoned by Claude (Faidhi&Robinson); external source label=cheating (kaggleIA),1
-submission122.py,submission123.py,1,0,0,0,0,1,0,0,reasoned by Claude (Faidhi&Robinson); external source label=cheating (kaggleIA),1
-submission166.py,submission167.py,1,0,1,1,0,0,0,0,reasoned by Claude (Faidhi&Robinson); external source label=cheating (kaggleIA),1
-submission2.py,submission4.py,1,0,1,0,0,0,0,0,reasoned by Claude (Faidhi&Robinson); external source label=cheating (kaggleIA),1
-submission117.py,submission119.py,1,0,0,0,0,0,0,1,reasoned by Claude (Faidhi&Robinson); external source label=cheating (kaggleIA),1
-submission170.py,submission172.py,1,0,1,1,0,0,0,0,reasoned by Claude (Faidhi&Robinson); external source label=cheating (kaggleIA),1
-submission56.py,submission60.py,1,0,0,1,0,0,0,0,reasoned by Claude (Faidhi&Robinson); external source label=cheating (kaggleIA),1
-submission166.py,submission169.py,1,0,1,1,0,0,0,0,reasoned by Claude (Faidhi&Robinson); external source label=cheating (kaggleIA),1
-submission40.py,submission42.py,1,0,0,1,0,0,0,0,reasoned by Claude (Faidhi&Robinson); external source label=cheating (kaggleIA),1
-submission163.py,submission164.py,1,0,0,1,0,0,0,0,reasoned by Claude (Faidhi&Robinson); external source label=cheating (kaggleIA),1
-submission94.py,submission95.py,1,0,0,1,0,0,0,1,reasoned by Claude (Faidhi&Robinson); external source label=cheating (kaggleIA),1
-submission35.py,submission37.py,1,0,0,1,0,0,0,0,reasoned by Claude (Faidhi&Robinson); external source label=cheating (kaggleIA),1
-submission105.py,submission159.py,1,0,0,1,0,0,0,0,reasoned by Claude (Faidhi&Robinson); external source label=cheating (kaggleIA),1
-submission113.py,submission115.py,1,0,1,1,0,0,0,0,reasoned by Claude (Faidhi&Robinson); external source label=cheating (kaggleIA),1
-submission36.py,submission37.py,0,0,0,0,0,0,0,0,external source label=not-cheating (kaggleIA),0
-submission4.py,submission5.py,0,0,0,0,0,0,0,0,external source label=not-cheating (kaggleIA),0
-submission58.py,submission60.py,0,0,0,0,0,0,0,0,external source label=not-cheating (kaggleIA),0
-submission55.py,submission59.py,0,0,0,0,0,0,0,0,external source label=not-cheating (kaggleIA),0
-submission87.py,submission89.py,0,0,0,0,0,0,0,0,external source label=not-cheating (kaggleIA),0
-submission124.py,submission125.py,0,0,0,0,0,0,0,0,external source label=not-cheating (kaggleIA),0
-submission45.py,submission46.py,0,0,0,0,0,0,0,0,external source label=not-cheating (kaggleIA),0
-submission134.py,submission135.py,0,0,0,0,0,0,0,0,external source label=not-cheating (kaggleIA),0
-submission130.py,submission131.py,0,0,0,0,0,0,0,0,external source label=not-cheating (kaggleIA),0
-submission98.py,submission100.py,0,0,0,0,0,0,0,0,external source label=not-cheating (kaggleIA),0
-submission98.py,submission101.py,0,0,0,0,0,0,0,0,external source label=not-cheating (kaggleIA),0
-submission74.py,submission76.py,0,0,0,0,0,0,0,0,external source label=not-cheating (kaggleIA),0
-submission75.py,submission76.py,0,0,0,0,0,0,0,0,external source label=not-cheating (kaggleIA),0
-submission118.py,submission121.py,0,0,0,0,0,0,0,0,external source label=not-cheating (kaggleIA),0
-submission97.py,submission101.py,0,0,0,0,0,0,0,0,external source label=not-cheating (kaggleIA),0
-submission36.py,submission38.py,0,0,0,0,0,0,0,0,external source label=not-cheating (kaggleIA),0
-submission59.py,submission60.py,0,0,0,0,0,0,0,0,external source label=not-cheating (kaggleIA),0
-submission100.py,submission101.py,0,0,0,0,0,0,0,0,external source label=not-cheating (kaggleIA),0
-submission50.py,submission53.py,0,0,0,0,0,0,0,0,external source label=not-cheating (kaggleIA),0
-submission104.py,submission106.py,0,0,0,0,0,0,0,0,external source label=not-cheating (kaggleIA),0
-submission144.py,submission146.py,0,0,0,0,0,0,0,0,external source label=not-cheating (kaggleIA),0
-submission89.py,submission91.py,0,0,0,0,0,0,0,0,external source label=not-cheating (kaggleIA),0
-submission77.py,submission80.py,0,0,0,0,0,0,0,0,external source label=not-cheating (kaggleIA),0
-submission63.py,submission66.py,0,0,0,0,0,0,0,0,external source label=not-cheating (kaggleIA),0
-submission132.py,submission134.py,0,0,0,0,0,0,0,0,external source label=not-cheating (kaggleIA),0
-submission35.py,submission38.py,0,0,0,0,0,0,0,0,external source label=not-cheating (kaggleIA),0
-submission122.py,submission126.py,0,0,0,0,0,0,0,0,external source label=not-cheating (kaggleIA),0
-submission108.py,submission109.py,0,0,0,0,0,0,0,0,external source label=not-cheating (kaggleIA),0
-submission122.py,submission125.py,0,0,0,0,0,0,0,0,external source label=not-cheating (kaggleIA),0
-submission92.py,submission94.py,0,0,0,0,0,0,0,0,external source label=not-cheating (kaggleIA),0
-submission102.py,submission106.py,0,0,0,0,0,0,0,0,external source label=not-cheating (kaggleIA),0
-submission99.py,submission100.py,0,0,0,0,0,0,0,0,external source label=not-cheating (kaggleIA),0
-submission138.py,submission140.py,0,0,0,0,0,0,0,0,external source label=not-cheating (kaggleIA),0
-submission77.py,submission79.py,0,0,0,0,0,0,0,0,external source label=not-cheating (kaggleIA),0
-submission80.py,submission81.py,0,0,0,0,0,0,0,0,external source label=not-cheating (kaggleIA),0
-submission55.py,submission56.py,0,0,0,0,0,0,0,0,external source label=not-cheating (kaggleIA),0
+submission55.py,submission56.py,1,0,1,1,1,1,1,0,"Same 4-stage JSON employee pipeline with identical literals ('employees.json','department_summary.json','Engineering') and identical output-dict keys; functions renamed and list-comp filter rewritten as an explicit loop.",1
+submission50.py,submission52.py,1,0,1,1,1,1,1,0,"Identical CSV grading pipeline, same file names, same A/B-vs-average rule and same DictWriter fieldnames; renamed helpers and writerows substituted for the per-row write loop.",1
+submission167.py,submission168.py,1,0,1,1,1,0,0,0,"Line-for-line the same patient class + register/list/run-driver skeleton with parallel comments; only identifiers, attribute names and sample data differ.",1
+submission170.py,submission171.py,1,0,1,1,1,0,0,0,"Same car-record class, add/list helper pair and driver structure with parallel comments; identifiers and sample vehicles renamed.",1
+submission26.py,submission27.py,1,0,1,1,1,0,0,0,"Identical pandas load/pct_change/two-subplot structure down to figsize=(10,6), marker='o', color='orange'; only function/variable names and titles differ.",1
+submission144.py,submission146.py,1,0,1,1,1,1,0,0,Identical psutil CPU block including the verbatim comment '# Get CPU usage percentage' and print format; the second monitored metric procedure differs (disk vs network).,1
+submission74.py,submission76.py,1,0,1,1,1,1,1,1,"Same supermarket domain and verbatim product listing print format and update_stock semantics, but one is class-based and the other module-level dicts - deep rewrite of the same base.",1
+submission122.py,submission125.py,1,0,1,1,1,1,0,0,"Identical MobileDevice class, add_device and list_devices bodies and comments; 125 only adds an update_os method plus a driver step.",1
+submission113.py,submission115.py,1,0,1,1,1,0,0,0,"Identical sqlite connect/create/insert/select-all skeleton with the same try/except and SQL formatting; only table, column, db-file names and sample row differ.",1
+submission36.py,submission38.py,1,0,1,1,1,1,1,1,Same limit=50 driver and print phrasing but trial division vs Sieve of Eratosthenes - substantively different technique over a shared base program.,1
+submission99.py,submission100.py,0,0,0,0,0,0,0,0,Different problems (GC content vs RNA codon translation) sharing only the generic function+main+__main__ skeleton; no evidence of derivation.,0
+submission170.py,submission172.py,1,0,1,1,1,0,0,0,"Same car-record class, add/list helpers and driver layout with parallel comments; identifiers and sample data renamed.",1
+submission28.py,submission29.py,1,0,1,1,1,0,0,0,"Identical synthetic-population generator down to 300000000, np.random.normal(1000000, 500000), 5-year rolling window and figsize=(12,6); only names differ.",1
+submission63.py,submission66.py,1,0,1,1,1,1,1,0,"Same 4-function XML book pipeline, same fields, year cutoff 2000 and same averagePrice-then-book output tree; lxml/xpath loops swapped for ElementTree with comprehension/filter/map.",1
+submission112.py,submission114.py,1,0,1,1,1,1,0,0,Identical sqlite users module including comments and SQL text; 114 only adds a delete_user procedure and a call to it.,1
+submission80.py,submission81.py,1,0,1,1,1,1,1,1,"Same bank domain with verbatim customer/staff listing print formats and 'Insufficient funds.' message, but dict-based vs class-based - deep rewrite of a shared base.",1
+submission138.py,submission140.py,1,0,1,1,1,1,0,0,print_numbers is identical including the verbatim comment '# Sleep for 1 second between prints'; 140 reorganizes main into a single daemon thread.,1
+submission98.py,submission100.py,0,0,0,0,0,0,0,0,Different problems (reverse complement vs RNA translation) sharing only the generic main/print scaffolding; independent.,0
+submission117.py,submission119.py,1,0,1,1,1,0,0,0,"Identical iris load/split/fit/joblib.dump script with identical comments and test_size=0.3, random_state=42; only the estimator class and output filename differ.",1
+submission104.py,submission106.py,1,0,1,1,1,1,0,0,"Both extend the same mutate_dna base (same nucleotide list, list(seq) loop, random.random()<rate, same sequence and rate 0.05 and prints) with different added procedures.",1
+submission115.py,submission158.py,1,0,1,1,1,0,0,0,"Line-for-line the same sqlite employee/staff module including the try/except and SQL layout; a systematic rename of identifiers, comments and literals.",1
+submission77.py,submission78.py,1,0,1,1,1,1,0,0,"Identical Customer/Bank classes, comments and driver; 78 only adds loan tracking as an extra attribute and method.",1
+submission35.py,submission38.py,1,0,1,1,1,1,1,1,Shared limit=50 driver and print phrasing but naive trial division vs Sieve of Eratosthenes - different technique from a common base.,1
+submission132.py,submission134.py,0,0,0,0,0,0,0,0,"One creates and writes a workbook, the other loads and iterates rows; only 'import openpyxl' and wb.active are shared - independent.",0
+submission89.py,submission91.py,0,0,0,0,0,0,0,0,BFS with a deque vs Dijkstra with a heap on different graph literals; nothing shared beyond the main/__main__ scaffolding.,0
+submission142.py,submission154.py,1,0,1,1,1,0,0,0,"Structurally identical psutil CPU check with the same interval=1 call and two-function layout; a straight rename of functions, variables, comments and message text.",1
+submission58.py,submission60.py,1,0,1,1,1,1,1,0,"Same JSON pipeline, literals and summary-dict keys; the department filter is a list comprehension in one and an accumulating loop in the other.",1
+submission122.py,submission124.py,1,0,1,1,1,0,0,0,Identical MobileDevice structure and helper signatures; 124 only threads an extra battery_capacity attribute/parameter through and changes sample data.,1
+submission124.py,submission125.py,1,0,1,1,1,1,0,0,"Both extend the same MobileDevice base with identical add_device/list_devices bodies and comments, each adding a different feature.",1
+submission132.py,submission133.py,1,1,0,0,0,0,0,0,Byte-identical files (133 differs only by a trailing whitespace line).,1
+submission59.py,submission60.py,1,0,1,1,1,1,1,0,"Same JSON pipeline, literals and summary-dict keys, but one uses a closure with filter/map and the other an explicit accumulation loop.",1
+submission127.py,submission128.py,1,0,1,1,1,1,0,0,"Identical Book class, add_book and list_books bodies and comments; 128 only adds a search_book procedure.",1
+submission166.py,submission169.py,1,0,1,1,1,0,0,0,"Same patient class + add/list/driver skeleton with parallel comments; identifiers, attribute names and sample data renamed.",1
+submission166.py,submission167.py,1,0,1,1,1,0,0,0,Same patient class + add/list/driver skeleton with parallel comments; a systematic rename plus different sample data.,1
+submission56.py,submission60.py,1,0,1,1,1,0,0,0,"Structurally identical loop-based JSON employee pipeline with the same guard-style average function, literals and output keys; identifiers and messages renamed.",1
+submission55.py,submission59.py,1,0,1,1,1,1,1,0,"Same pipeline, literals and summary keys, but a list-comprehension filter versus a closure-returning predicate with filter/map.",1
+submission92.py,submission94.py,0,0,0,0,0,0,0,0,A list-backed Stack versus a singly linked list; different data structures with no shared distinctive code.,0
+submission103.py,submission104.py,1,0,1,1,1,1,0,0,"Identical mutate function body, parameter names (dna_seq, mutation_prob) and driver; 104 only adds mutation counting and a log print.",1
+submission40.py,submission42.py,1,0,1,1,1,0,0,0,"Identical sorted(key=lambda ...['age']) approach and the exact same five-person dataset (Alice 34, Bob 23, Charlie 29, Diana 40, Eve 22); only names differ.",1
+submission75.py,submission76.py,1,0,1,1,1,1,0,0,Verbatim identical products dict initialization and list_products print line plus the same global-dict style; the second managed entity and extra procedures differ.,1
+submission102.py,submission106.py,1,0,1,1,1,1,0,0,"106 is the same mutate_dna base (same nucleotide list, loop, sequence 'ATGCTAGCTAGT', rate 0.05, prints) with an added mutation-preference table.",1
+submission130.py,submission131.py,1,0,1,1,1,1,0,0,"Same Book class, add_book/list_books helpers and driver comments; each adds a different feature (price update vs genre field).",1
+submission163.py,submission164.py,1,0,1,1,1,0,0,0,"Identical single-class container with name + list attribute, add method, header-print-then-loop display and a driver function; a straight rename.",1
+submission143.py,submission144.py,1,0,1,1,1,1,0,0,Identical CPU and memory blocks including verbatim comments; 144 only appends a disk-usage block and renames the function.,1
+submission50.py,submission53.py,1,0,1,1,1,1,1,1,"Same CSV grading task with the same literals, fieldnames and A/B-vs-average rule, but restructured from free functions into Student/StudentProcessor classes.",1
+submission138.py,submission139.py,1,0,1,1,1,1,0,0,Same threading driver with identical start/join and the verbatim join comments; print_numbers is parameterized with args instead of duplicated.,1
+submission98.py,submission101.py,0,0,0,0,0,0,0,0,Reverse complement versus random mutation - different algorithms sharing only the sample sequence and generic main; independent.,0
+submission94.py,submission95.py,1,0,1,1,1,1,0,0,"95 is the singly linked list with prev bookkeeping added: identical Node, insert_at_end, delete_node traversal and print_list structure.",1
+submission105.py,submission159.py,1,0,1,1,1,0,0,0,"Line-for-line the same mutation-with-map routine returning (sequence, log) tuples and the same driver prints; a systematic rename of identifiers and messages.",1
+submission2.py,submission4.py,1,0,1,1,1,0,0,0,"Same add(a, b) signature and body; the only difference is an introduced temporary variable before the return.",1
+submission78.py,submission81.py,1,0,1,1,1,1,0,0,Identical Customer class including loan handling and the same Bank registry pattern; 81 only adds a Staff class and listing.,1
+submission107.py,submission108.py,1,0,1,1,1,0,0,0,"Identical Flask app skeleton with near-verbatim comments ('This function returns the ""Hello, World!"" message'); only the route string and view name differ.",1
+submission163.py,submission165.py,1,0,1,1,1,0,0,0,"Identical single-class container with name + list attribute, add method, header-print-then-loop display and driver function; a straight rename.",1
+submission122.py,submission123.py,1,0,1,1,1,1,0,0,"Identical MobileDevice class, add_device and list_devices bodies and comments; 123 only adds a remove_device procedure.",1
+submission87.py,submission89.py,0,0,0,0,0,0,0,0,Quicksort versus BFS traversal - unrelated algorithms with no shared distinctive code.,0
+submission100.py,submission101.py,0,0,0,0,0,0,0,0,RNA codon translation versus random mutation; different problems sharing only the generic main/print scaffolding.,0
+submission118.py,submission120.py,1,0,1,1,1,0,0,0,Identical iris script including test_size=0.25 and the same 'with open(...) / pickle.dump' block and comments; only the estimator and filename differ.,1
+submission4.py,submission5.py,0,0,0,0,0,0,0,0,Trivial two-line arithmetic helpers implementing different operations; no evidence of derivation.,0
+submission128.py,submission129.py,1,0,1,1,1,1,0,0,"Same Book class, add_book/list_books helpers and comment style; each adds a different procedure (search vs remove).",1
+submission122.py,submission157.py,1,0,1,1,1,0,0,0,"Line-for-line the same device class + register/list/driver structure with matching comments; a systematic rename of class, attributes, functions and data.",1
+submission77.py,submission79.py,1,0,1,1,1,1,1,1,"Same bank domain with the same 'Insufficient funds.' message and listing format, but restructured from classes into global dicts with transaction logging.",1
+submission108.py,submission109.py,1,0,1,1,1,0,0,0,"Identical Flask skeleton with parallel comments and the same debug run; only the route, view name and returned string differ.",1
+submission36.py,submission37.py,1,0,1,1,1,1,1,0,"Same trial-division primality plus collect-into-list driver and print, but with sqrt/even-skipping bounds and a comprehension replacing the append loop.",1
+submission118.py,submission121.py,1,0,1,1,1,1,0,0,"Identical iris load/split/fit scaffolding and comments; the estimator, split ratio and the persistence mechanism (pickle-with-open vs joblib one-liner) differ.",1
+submission77.py,submission80.py,1,0,1,1,1,1,1,1,"Same bank domain with the same 'Insufficient funds.' message and customer listing format, but classes rewritten as global dicts with added staff handling.",1
+submission129.py,submission130.py,1,0,1,1,1,1,0,0,"Same Book class, add_book/list_books helpers and before/after driver pattern; each adds a different procedure (remove vs price update).",1
+submission97.py,submission101.py,0,0,0,0,0,0,0,0,"submission97.py is empty, so there is nothing to compare.",0
+submission134.py,submission135.py,0,0,0,0,0,0,0,0,"One reads and prints an existing workbook, the other creates one and writes product data; only the import and wb.active line are shared.",0
+submission45.py,submission46.py,1,0,1,1,1,1,1,0,"Same three-function read/square/write pipeline with the same 'input.txt'/'output.txt' and f""{num}\n"" output format; comprehensions substituted with map/lambda.",1
+submission55.py,submission58.py,1,0,1,1,1,1,1,0,"Same JSON pipeline, literals, list-comprehension filter and summary keys; the average function swaps a conditional expression for an early-return guard.",1
+submission35.py,submission37.py,1,0,1,1,1,0,0,0,Identical naive is-prime loop and collect-into-list driver with the same limit 50 and print shape; a pure rename of functions and variables.,1
+submission122.py,submission126.py,1,0,1,1,1,1,0,0,"Identical MobileDevice class, add_device and list_devices bodies and comments; 126 only adds a search-by-model procedure (and a broken __main__ guard).",1

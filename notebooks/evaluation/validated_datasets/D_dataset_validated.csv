@@ -1,291 +1,291 @@
 File_1,File_2,Label,L0,L1,L2,L3,L4,L5,L6,Notes,Human_Label
-134128.py,134364.py,1,1,0,0,0,0,0,0,Byte-identical files (verbatim copy).,1
-134368.py,134388.py,1,1,0,0,0,0,0,0,Byte-identical files (verbatim copy).,1
-134390.py,134402.py,1,1,0,0,0,0,0,0,Byte-identical files (verbatim copy).,1
-134408.py,134410.py,1,1,0,0,0,0,0,0,Byte-identical files (verbatim copy).,1
-134425.py,134427.py,1,1,0,0,0,0,0,0,Byte-identical files (verbatim copy).,1
-134429.py,134463.py,1,0,1,1,0,0,0,0,"Same control-flow structure (toggle-case-per-character loop); differs only in identifier names, formatting, or comments.",1
-134481.py,134497.py,1,1,0,0,0,0,0,0,Byte-identical files (verbatim copy).,1
-134501.py,134533.py,1,1,0,0,0,0,0,0,Byte-identical files (verbatim copy).,1
-134544.py,134549.py,1,1,0,0,0,0,0,0,Byte-identical files (verbatim copy).,1
-134571.py,134595.py,1,1,0,0,0,0,0,0,Byte-identical files (verbatim copy).,1
-134617.py,134626.py,1,1,0,0,0,0,0,0,Byte-identical files (verbatim copy).,1
-134640.py,143112.py,1,0,1,1,0,0,0,0,"Same control-flow structure (toggle-case-per-character loop); differs only in identifier names, formatting, or comments.",1
-143113.py,143126.py,1,0,1,1,0,0,0,0,"Same control-flow structure (toggle-case-per-character loop); differs only in identifier names, formatting, or comments.",1
-143698.py,145285.py,1,0,1,1,0,0,0,0,"Same control-flow structure (toggle-case-per-character loop); differs only in identifier names, formatting, or comments.",1
-777234.py,777270.py,1,0,1,1,0,0,0,0,"Same control-flow structure (toggle-case-per-character loop); differs only in identifier names, formatting, or comments.",1
-777277.py,777299.py,1,0,1,1,0,0,0,0,"Same control-flow structure (toggle-case-per-character loop); differs only in identifier names, formatting, or comments.",1
-777300.py,777303.py,1,0,1,1,0,0,0,0,"Same control-flow structure (toggle-case-per-character loop); differs only in identifier names, formatting, or comments.",1
-777309.py,777311.py,1,0,1,1,0,0,0,0,"Same control-flow structure (toggle-case-per-character loop); differs only in identifier names, formatting, or comments.",1
-777328.py,777337.py,1,0,1,1,0,0,0,0,"Same control-flow structure (toggle-case-per-character loop); differs only in identifier names, formatting, or comments.",1
-777339.py,777348.py,1,0,1,1,0,0,0,0,"Same control-flow structure (toggle-case-per-character loop); differs only in identifier names, formatting, or comments.",1
-777349.py,777353.py,1,0,1,1,0,0,0,0,"Same control-flow structure (toggle-case-per-character loop); differs only in identifier names, formatting, or comments.",1
-777354.py,777355.py,1,0,1,1,0,0,0,0,"Same control-flow structure (toggle-case-per-character loop); differs only in identifier names, formatting, or comments.",1
-777371.py,777440.py,1,0,1,1,0,0,0,0,"Same control-flow structure (toggle-case-per-character loop); differs only in identifier names, formatting, or comments.",1
-777504.py,777651.py,1,0,1,1,0,0,0,0,"Same control-flow structure (toggle-case-per-character loop); differs only in identifier names, formatting, or comments.",1
-777734.py,777749.py,1,0,1,1,0,0,0,0,"Same control-flow structure (toggle-case-per-character loop); differs only in identifier names, formatting, or comments.",1
-777792.py,777794.py,1,1,0,0,0,0,0,0,Byte-identical files (verbatim copy).,1
-777795.py,777811.py,1,1,0,0,0,0,0,0,Byte-identical files (verbatim copy).,1
-777241.py,777247.py,1,0,1,1,0,0,0,0,"Same control-flow structure (toggle-case-per-character loop); differs only in identifier names, formatting, or comments.",1
-777253.py,777257.py,1,0,1,1,0,0,0,0,"Same control-flow structure (toggle-case-per-character loop); differs only in identifier names, formatting, or comments.",1
-777271.py,777289.py,1,0,1,1,0,0,0,0,"Same control-flow structure (toggle-case-per-character loop); differs only in identifier names, formatting, or comments.",1
-777293.py,777310.py,1,1,0,0,0,0,0,0,Byte-identical files (verbatim copy).,1
-777315.py,777316.py,1,0,1,1,0,0,0,0,"Same control-flow structure (toggle-case-per-character loop); differs only in identifier names, formatting, or comments.",1
-777317.py,777404.py,1,1,0,0,0,0,0,0,Byte-identical files (verbatim copy).,1
-777451.py,777511.py,1,0,1,1,0,0,0,0,"Same control-flow structure (toggle-case-per-character loop); differs only in identifier names, formatting, or comments.",1
-777740.py,777758.py,1,0,1,1,0,0,0,0,"Same control-flow structure (toggle-case-per-character loop); differs only in identifier names, formatting, or comments.",1
-777839.py,777882.py,1,0,1,1,0,0,0,0,"Same control-flow structure (toggle-case-per-character loop); differs only in identifier names, formatting, or comments.",1
-133318.py,134294.py,1,1,0,0,0,0,0,0,Byte-identical files (verbatim copy).,1
-134310.py,134322.py,1,1,0,0,0,0,0,0,Byte-identical files (verbatim copy).,1
-134397.py,134506.py,1,1,0,0,0,0,0,0,Byte-identical files (verbatim copy).,1
-134525.py,147209.py,1,1,0,0,0,0,0,0,Byte-identical files (verbatim copy).,1
-147781.py,147927.py,1,1,0,0,0,0,0,0,Byte-identical files (verbatim copy).,1
-147958.py,148393.py,1,1,0,0,0,0,0,0,Byte-identical files (verbatim copy).,1
-134279.py,134286.py,1,1,0,0,0,0,0,0,Byte-identical files (verbatim copy).,1
-134377.py,134512.py,1,0,1,1,0,0,0,0,"Same control-flow structure (toggle-case-per-character loop); differs only in identifier names, formatting, or comments.",1
-134514.py,134518.py,1,1,0,0,0,0,0,0,Byte-identical files (verbatim copy).,1
-147390.py,147393.py,1,1,0,0,0,0,0,0,Byte-identical files (verbatim copy).,1
-147598.py,147947.py,1,1,0,0,0,0,0,0,Byte-identical files (verbatim copy).,1
-682489.py,683736.py,1,0,1,1,0,0,0,0,"Same control-flow structure (toggle-case-per-character loop); differs only in identifier names, formatting, or comments.",1
-684123.py,684176.py,1,0,1,1,0,0,0,0,"Same control-flow structure (toggle-case-per-character loop); differs only in identifier names, formatting, or comments.",1
-684454.py,684682.py,1,0,1,1,0,0,0,0,"Same control-flow structure (toggle-case-per-character loop); differs only in identifier names, formatting, or comments.",1
-684989.py,685096.py,1,0,1,1,0,0,0,0,"Same control-flow structure (toggle-case-per-character loop); differs only in identifier names, formatting, or comments.",1
-685273.py,685347.py,1,0,1,1,0,0,0,0,"Same control-flow structure (toggle-case-per-character loop); differs only in identifier names, formatting, or comments.",1
-682351.py,683319.py,1,0,1,1,0,0,0,0,"Same control-flow structure (toggle-case-per-character loop); differs only in identifier names, formatting, or comments.",1
-684366.py,684545.py,1,0,1,1,0,0,0,0,"Same control-flow structure (toggle-case-per-character loop); differs only in identifier names, formatting, or comments.",1
-684756.py,684883.py,1,0,1,1,0,0,0,0,"Same control-flow structure (toggle-case-per-character loop); differs only in identifier names, formatting, or comments.",1
-685184.py,692262.py,1,0,1,1,0,0,0,0,"Same control-flow structure (toggle-case-per-character loop); differs only in identifier names, formatting, or comments.",1
-682130.py,682522.py,1,1,0,0,0,0,0,0,Byte-identical files (verbatim copy).,1
-682543.py,683339.py,1,1,0,0,0,0,0,0,Byte-identical files (verbatim copy).,1
-684556.py,684568.py,1,1,0,0,0,0,0,0,Byte-identical files (verbatim copy).,1
-742511.py,742558.py,1,0,1,1,0,0,0,0,"Same control-flow structure (toggle-case-per-character loop); differs only in identifier names, formatting, or comments.",1
-742574.py,742577.py,1,1,0,0,0,0,0,0,Byte-identical files (verbatim copy).,1
-743037.py,744480.py,1,0,1,1,0,0,0,0,"Same control-flow structure (toggle-case-per-character loop); differs only in identifier names, formatting, or comments.",1
-143425.py,143797.py,1,1,0,0,0,0,0,0,Byte-identical files (verbatim copy).,1
-143804.py,143807.py,1,1,0,0,0,0,0,0,Byte-identical files (verbatim copy).,1
-143835.py,143848.py,1,0,1,1,0,0,0,0,"Same control-flow structure (toggle-case-per-character loop); differs only in identifier names, formatting, or comments.",1
-683715.py,683718.py,1,0,1,1,0,0,0,0,"Same control-flow structure (toggle-case-per-character loop); differs only in identifier names, formatting, or comments.",1
-712316.py,759999.py,1,0,1,1,0,0,0,0,"Same control-flow structure (toggle-case-per-character loop); differs only in identifier names, formatting, or comments.",1
-773117.py,777661.py,1,0,1,1,0,0,0,0,"Same control-flow structure (toggle-case-per-character loop); differs only in identifier names, formatting, or comments.",1
-133937.py,134072.py,1,0,1,1,0,0,0,0,"Same control-flow structure (toggle-case-per-character loop); differs only in identifier names, formatting, or comments.",1
-147247.py,147694.py,1,0,1,1,0,0,0,0,"Same control-flow structure (toggle-case-per-character loop); differs only in identifier names, formatting, or comments.",1
-681979.py,684272.py,1,0,1,1,0,0,0,0,"Same control-flow structure (toggle-case-per-character loop); differs only in identifier names, formatting, or comments.",1
-684402.py,684816.py,1,0,1,1,0,0,0,0,"Same control-flow structure (toggle-case-per-character loop); differs only in identifier names, formatting, or comments.",1
-132456.py,147206.py,1,1,0,0,0,0,0,0,Byte-identical files (verbatim copy).,1
-743010.py,760031.py,1,0,1,1,0,0,0,0,"Same control-flow structure (toggle-case-per-character loop); differs only in identifier names, formatting, or comments.",1
-143304.py,143386.py,1,1,0,0,0,0,0,0,Byte-identical files (verbatim copy).,1
-681725.py,681835.py,1,0,1,1,0,0,0,0,"Same control-flow structure (toggle-case-per-character loop); differs only in identifier names, formatting, or comments.",1
-681941.py,755549.py,1,0,1,1,0,0,0,0,"Same control-flow structure (toggle-case-per-character loop); differs only in identifier names, formatting, or comments.",1
-686801.py,759895.py,1,0,1,1,0,0,0,0,"Same control-flow structure (toggle-case-per-character loop); differs only in identifier names, formatting, or comments.",1
-687148.py,687594.py,1,0,1,1,0,0,0,0,"Same control-flow structure (toggle-case-per-character loop); differs only in identifier names, formatting, or comments.",1
-777286.py,777459.py,1,0,1,1,0,0,0,0,"Same control-flow structure (toggle-case-per-character loop); differs only in identifier names, formatting, or comments.",1
-134159.py,134226.py,1,0,1,1,0,0,0,0,"Same control-flow structure (toggle-case-per-character loop); differs only in identifier names, formatting, or comments.",1
-134369.py,147214.py,1,1,0,0,0,0,0,0,Byte-identical files (verbatim copy).,1
-143207.py,143208.py,1,1,0,0,0,0,0,0,Byte-identical files (verbatim copy).,1
-143831.py,143839.py,1,1,0,0,0,0,0,0,Byte-identical files (verbatim copy).,1
-681679.py,685310.py,1,0,1,1,0,0,0,0,"Same control-flow structure (toggle-case-per-character loop); differs only in identifier names, formatting, or comments.",1
-682646.py,682719.py,1,0,1,1,0,0,0,0,"Same control-flow structure (toggle-case-per-character loop); differs only in identifier names, formatting, or comments.",1
-742516.py,742520.py,1,1,0,0,0,0,0,0,Byte-identical files (verbatim copy).,1
-761758.py,762232.py,1,1,0,0,0,0,0,0,Byte-identical files (verbatim copy).,1
-777287.py,777332.py,1,0,1,1,0,0,0,0,"Same control-flow structure (toggle-case-per-character loop); differs only in identifier names, formatting, or comments.",1
-777320.py,777321.py,1,1,0,0,0,0,0,0,Byte-identical files (verbatim copy).,1
-777340.py,777341.py,1,1,0,0,0,0,0,0,Byte-identical files (verbatim copy).,1
-791117.py,796747.py,1,1,0,0,0,0,0,0,Byte-identical files (verbatim copy).,1
-796995.py,796996.py,1,1,0,0,0,0,0,0,Byte-identical files (verbatim copy).,1
-682460.py,759951.py,1,0,1,1,0,0,0,0,"Same control-flow structure (toggle-case-per-character loop); differs only in identifier names, formatting, or comments.",1
-751402.py,742593.py,1,0,1,1,0,0,0,0,"Same control-flow structure (toggle-case-per-character loop); differs only in identifier names, formatting, or comments.",1
-777273.py,777356.py,1,0,1,1,0,0,0,0,"Same control-flow structure (toggle-case-per-character loop); differs only in identifier names, formatting, or comments.",1
-777304.py,777350.py,1,0,1,1,0,0,0,0,"Same control-flow structure (toggle-case-per-character loop); differs only in identifier names, formatting, or comments.",1
-781288.py,798958.py,1,0,1,1,0,0,0,0,"Same control-flow structure (toggle-case-per-character loop); differs only in identifier names, formatting, or comments.",1
-782005.py,782006.py,1,0,1,1,0,1,1,0,"Same toggle-case algorithm but implemented with a different control construct or toggle mechanism (e.g. boolean flip vs modulo counter vs sign multiplication, ternary vs if/else, isalpha() vs direct space check).",1
-743318.py,783625.py,1,0,1,1,0,0,0,0,"Same control-flow structure (toggle-case-per-character loop); differs only in identifier names, formatting, or comments.",1
-777468.py,777298.py,1,0,1,1,0,0,0,0,"Same control-flow structure (toggle-case-per-character loop); differs only in identifier names, formatting, or comments.",1
-718122.py,143394.py,1,0,1,1,0,0,0,0,"Same control-flow structure (toggle-case-per-character loop); differs only in identifier names, formatting, or comments.",1
-684383.py,687509.py,1,0,1,1,0,0,0,0,"Same control-flow structure (toggle-case-per-character loop); differs only in identifier names, formatting, or comments.",1
-742517.py,777623.py,1,0,1,1,0,0,0,0,"Same control-flow structure (toggle-case-per-character loop); differs only in identifier names, formatting, or comments.",1
-685031.py,760008.py,1,0,1,1,0,0,0,0,"Same control-flow structure (toggle-case-per-character loop); differs only in identifier names, formatting, or comments.",1
-147710.py,134447.py,1,0,1,1,0,0,0,0,"Same control-flow structure (toggle-case-per-character loop); differs only in identifier names, formatting, or comments.",1
-683276.py,791558.py,1,0,1,1,0,0,0,0,"Same control-flow structure (toggle-case-per-character loop); differs only in identifier names, formatting, or comments.",1
-742627.py,777281.py,1,0,1,1,0,0,0,0,"Same control-flow structure (toggle-case-per-character loop); differs only in identifier names, formatting, or comments.",1
-147213.py,783667.py,1,0,1,1,0,0,0,0,"Same control-flow structure (toggle-case-per-character loop); differs only in identifier names, formatting, or comments.",1
-689979.py,797058.py,1,0,1,1,0,1,1,0,"Same toggle-case algorithm but implemented with a different control construct or toggle mechanism (e.g. boolean flip vs modulo counter vs sign multiplication, ternary vs if/else, isalpha() vs direct space check).",1
-784817.py,787481.py,1,0,1,1,0,1,1,0,"Same toggle-case algorithm but implemented with a different control construct or toggle mechanism (e.g. boolean flip vs modulo counter vs sign multiplication, ternary vs if/else, isalpha() vs direct space check).",1
-783732.py,795642.py,1,0,1,1,0,1,1,0,"Same toggle-case algorithm but implemented with a different control construct or toggle mechanism (e.g. boolean flip vs modulo counter vs sign multiplication, ternary vs if/else, isalpha() vs direct space check).",1
-777736.py,799313.py,1,0,1,1,0,1,1,0,"Same toggle-case algorithm but implemented with a different control construct or toggle mechanism (e.g. boolean flip vs modulo counter vs sign multiplication, ternary vs if/else, isalpha() vs direct space check).",1
-682139.py,786177.py,1,0,1,1,0,1,1,0,"Same toggle-case algorithm but implemented with a different control construct or toggle mechanism (e.g. boolean flip vs modulo counter vs sign multiplication, ternary vs if/else, isalpha() vs direct space check).",1
-729214.py,744343.py,1,0,1,1,0,1,1,0,"Same toggle-case algorithm but implemented with a different control construct or toggle mechanism (e.g. boolean flip vs modulo counter vs sign multiplication, ternary vs if/else, isalpha() vs direct space check).",1
-777640.py,789477.py,1,0,1,1,0,1,1,0,"Same toggle-case algorithm but implemented with a different control construct or toggle mechanism (e.g. boolean flip vs modulo counter vs sign multiplication, ternary vs if/else, isalpha() vs direct space check).",1
-132244.py,143199.py,1,0,1,1,0,1,1,0,"Same toggle-case algorithm but implemented with a different control construct or toggle mechanism (e.g. boolean flip vs modulo counter vs sign multiplication, ternary vs if/else, isalpha() vs direct space check).",1
-691074.py,785878.py,1,0,1,1,0,1,1,0,"Same toggle-case algorithm but implemented with a different control construct or toggle mechanism (e.g. boolean flip vs modulo counter vs sign multiplication, ternary vs if/else, isalpha() vs direct space check).",1
-787345.py,759924.py,1,0,1,1,0,1,1,0,"Same toggle-case algorithm but implemented with a different control construct or toggle mechanism (e.g. boolean flip vs modulo counter vs sign multiplication, ternary vs if/else, isalpha() vs direct space check).",1
-134319.py,686746.py,1,0,1,1,0,1,1,0,"Same toggle-case algorithm but implemented with a different control construct or toggle mechanism (e.g. boolean flip vs modulo counter vs sign multiplication, ternary vs if/else, isalpha() vs direct space check).",1
-684604.py,147901.py,1,0,1,1,0,1,1,0,"Same toggle-case algorithm but implemented with a different control construct or toggle mechanism (e.g. boolean flip vs modulo counter vs sign multiplication, ternary vs if/else, isalpha() vs direct space check).",1
-681552.py,787865.py,1,0,1,1,0,1,1,0,"Same toggle-case algorithm but implemented with a different control construct or toggle mechanism (e.g. boolean flip vs modulo counter vs sign multiplication, ternary vs if/else, isalpha() vs direct space check).",1
-142889.py,761902.py,1,0,1,1,0,1,1,0,"Same toggle-case algorithm but implemented with a different control construct or toggle mechanism (e.g. boolean flip vs modulo counter vs sign multiplication, ternary vs if/else, isalpha() vs direct space check).",1
-685362.py,744348.py,1,0,1,1,0,1,1,0,"Same toggle-case algorithm but implemented with a different control construct or toggle mechanism (e.g. boolean flip vs modulo counter vs sign multiplication, ternary vs if/else, isalpha() vs direct space check).",1
-143376.py,782144.py,1,0,1,1,0,1,1,0,"Same toggle-case algorithm but implemented with a different control construct or toggle mechanism (e.g. boolean flip vs modulo counter vs sign multiplication, ternary vs if/else, isalpha() vs direct space check).",1
-699134.py,777255.py,1,0,1,1,0,1,1,0,"Same toggle-case algorithm but implemented with a different control construct or toggle mechanism (e.g. boolean flip vs modulo counter vs sign multiplication, ternary vs if/else, isalpha() vs direct space check).",1
-148427.py,132359.py,1,0,1,1,0,1,1,0,"Same toggle-case algorithm but implemented with a different control construct or toggle mechanism (e.g. boolean flip vs modulo counter vs sign multiplication, ternary vs if/else, isalpha() vs direct space check).",1
-761518.py,788716.py,1,0,1,1,0,1,1,0,"Same toggle-case algorithm but implemented with a different control construct or toggle mechanism (e.g. boolean flip vs modulo counter vs sign multiplication, ternary vs if/else, isalpha() vs direct space check).",1
-744317.py,792290.py,1,0,1,1,0,1,1,0,"Same toggle-case algorithm but implemented with a different control construct or toggle mechanism (e.g. boolean flip vs modulo counter vs sign multiplication, ternary vs if/else, isalpha() vs direct space check).",1
-694707.py,777601.py,1,0,1,1,0,1,1,0,"Same toggle-case algorithm but implemented with a different control construct or toggle mechanism (e.g. boolean flip vs modulo counter vs sign multiplication, ternary vs if/else, isalpha() vs direct space check).",1
-133900.py,143211.py,1,0,1,1,0,1,1,0,"Same toggle-case algorithm but implemented with a different control construct or toggle mechanism (e.g. boolean flip vs modulo counter vs sign multiplication, ternary vs if/else, isalpha() vs direct space check).",1
-697252.py,766470.py,1,0,1,1,0,1,1,0,"Same toggle-case algorithm but implemented with a different control construct or toggle mechanism (e.g. boolean flip vs modulo counter vs sign multiplication, ternary vs if/else, isalpha() vs direct space check).",1
-133159.py,133870.py,1,0,1,1,0,1,1,0,"Same toggle-case algorithm but implemented with a different control construct or toggle mechanism (e.g. boolean flip vs modulo counter vs sign multiplication, ternary vs if/else, isalpha() vs direct space check).",1
-143545.py,684499.py,1,0,1,1,0,1,1,0,"Same toggle-case algorithm but implemented with a different control construct or toggle mechanism (e.g. boolean flip vs modulo counter vs sign multiplication, ternary vs if/else, isalpha() vs direct space check).",1
-785894.py,794243.py,1,0,1,1,0,1,1,0,"Same toggle-case algorithm but implemented with a different control construct or toggle mechanism (e.g. boolean flip vs modulo counter vs sign multiplication, ternary vs if/else, isalpha() vs direct space check).",1
-682525.py,801329.py,1,0,1,1,0,1,1,0,"Same toggle-case algorithm but implemented with a different control construct or toggle mechanism (e.g. boolean flip vs modulo counter vs sign multiplication, ternary vs if/else, isalpha() vs direct space check).",1
-147899.py,787890.py,1,0,1,1,0,1,1,0,"Same toggle-case algorithm but implemented with a different control construct or toggle mechanism (e.g. boolean flip vs modulo counter vs sign multiplication, ternary vs if/else, isalpha() vs direct space check).",1
-695038.py,778654.py,1,0,1,1,0,1,1,0,"Same toggle-case algorithm but implemented with a different control construct or toggle mechanism (e.g. boolean flip vs modulo counter vs sign multiplication, ternary vs if/else, isalpha() vs direct space check).",1
-700451.py,799085.py,1,0,1,1,0,1,1,0,"Same toggle-case algorithm but implemented with a different control construct or toggle mechanism (e.g. boolean flip vs modulo counter vs sign multiplication, ternary vs if/else, isalpha() vs direct space check).",1
-143699.py,143791.py,1,0,1,1,0,1,1,0,"Same toggle-case algorithm but implemented with a different control construct or toggle mechanism (e.g. boolean flip vs modulo counter vs sign multiplication, ternary vs if/else, isalpha() vs direct space check).",1
-759949.py,793214.py,1,0,1,1,0,1,1,0,"Same toggle-case algorithm but implemented with a different control construct or toggle mechanism (e.g. boolean flip vs modulo counter vs sign multiplication, ternary vs if/else, isalpha() vs direct space check).",1
-147367.py,694470.py,1,0,1,1,0,1,1,0,"Same toggle-case algorithm but implemented with a different control construct or toggle mechanism (e.g. boolean flip vs modulo counter vs sign multiplication, ternary vs if/else, isalpha() vs direct space check).",1
-711015.py,781392.py,1,0,1,1,0,1,1,0,"Same toggle-case algorithm but implemented with a different control construct or toggle mechanism (e.g. boolean flip vs modulo counter vs sign multiplication, ternary vs if/else, isalpha() vs direct space check).",1
-762155.py,792360.py,1,0,1,1,0,1,1,0,"Same toggle-case algorithm but implemented with a different control construct or toggle mechanism (e.g. boolean flip vs modulo counter vs sign multiplication, ternary vs if/else, isalpha() vs direct space check).",1
-134105.py,134206.py,1,0,1,1,0,1,1,0,"Same toggle-case algorithm but implemented with a different control construct or toggle mechanism (e.g. boolean flip vs modulo counter vs sign multiplication, ternary vs if/else, isalpha() vs direct space check).",1
-143161.py,687148.py,0,0,0,0,0,0,0,0,"Independent implementations (algorithmic avg similarity=0.22); no shared idiosyncratic naming, structure, or technique.",0
-143161.py,687594.py,0,0,0,0,0,0,0,0,"Independent implementations (algorithmic avg similarity=0.22); no shared idiosyncratic naming, structure, or technique.",0
-693100.py,711015.py,0,0,0,0,0,0,0,0,"Independent implementations (algorithmic avg similarity=0.251); no shared idiosyncratic naming, structure, or technique.",0
-134206.py,759933.py,0,0,0,0,0,0,0,0,"Independent implementations (algorithmic avg similarity=0.262); no shared idiosyncratic naming, structure, or technique.",0
-685362.py,762155.py,0,0,0,0,0,0,0,0,"Independent implementations (algorithmic avg similarity=0.262); no shared idiosyncratic naming, structure, or technique.",0
-134206.py,681835.py,0,0,0,0,0,0,0,0,"Independent implementations (algorithmic avg similarity=0.266); no shared idiosyncratic naming, structure, or technique.",0
-711015.py,778654.py,0,0,0,0,0,0,0,0,"Independent implementations (algorithmic avg similarity=0.268); no shared idiosyncratic naming, structure, or technique.",0
-143425.py,681835.py,0,0,0,0,0,0,0,0,"Independent implementations (algorithmic avg similarity=0.27); no shared idiosyncratic naming, structure, or technique.",0
-143425.py,685362.py,0,0,0,0,0,0,0,0,"Independent implementations (algorithmic avg similarity=0.27); no shared idiosyncratic naming, structure, or technique.",0
-781392.py,792360.py,0,0,0,0,0,0,0,0,"Independent implementations (algorithmic avg similarity=0.27); no shared idiosyncratic naming, structure, or technique.",0
-759933.py,782005.py,0,0,0,0,0,0,0,0,"Independent implementations (algorithmic avg similarity=0.273); no shared idiosyncratic naming, structure, or technique.",0
-143376.py,693100.py,0,0,0,0,0,0,0,0,"Independent implementations (algorithmic avg similarity=0.274); no shared idiosyncratic naming, structure, or technique.",0
-744348.py,762155.py,0,0,0,0,0,0,0,0,"Independent implementations (algorithmic avg similarity=0.277); no shared idiosyncratic naming, structure, or technique.",0
-742709.py,790343.py,0,0,0,0,0,0,0,0,"Independent implementations (algorithmic avg similarity=0.279); no shared idiosyncratic naming, structure, or technique.",0
-143797.py,744348.py,0,0,0,0,0,0,0,0,"Independent implementations (algorithmic avg similarity=0.28); no shared idiosyncratic naming, structure, or technique.",0
-143797.py,787865.py,0,0,0,0,0,0,0,0,"Independent implementations (algorithmic avg similarity=0.282); no shared idiosyncratic naming, structure, or technique.",0
-143804.py,787865.py,0,0,0,0,0,0,0,0,"Independent implementations (algorithmic avg similarity=0.282); no shared idiosyncratic naming, structure, or technique.",0
-143804.py,744317.py,0,0,0,0,0,0,0,0,"Independent implementations (algorithmic avg similarity=0.283); no shared idiosyncratic naming, structure, or technique.",0
-143807.py,744317.py,0,0,0,0,0,0,0,0,"Independent implementations (algorithmic avg similarity=0.283); no shared idiosyncratic naming, structure, or technique.",0
-143807.py,687148.py,0,0,0,0,0,0,0,0,"Independent implementations (algorithmic avg similarity=0.284); no shared idiosyncratic naming, structure, or technique.",0
-143835.py,687594.py,0,0,0,0,0,0,0,0,"Independent implementations (algorithmic avg similarity=0.284); no shared idiosyncratic naming, structure, or technique.",0
-143835.py,691074.py,0,0,0,0,0,0,0,0,"Independent implementations (algorithmic avg similarity=0.284); no shared idiosyncratic naming, structure, or technique.",0
-143848.py,691074.py,0,0,0,0,0,0,0,0,"Independent implementations (algorithmic avg similarity=0.284); no shared idiosyncratic naming, structure, or technique.",0
-699134.py,742709.py,0,0,0,0,0,0,0,0,"Independent implementations (algorithmic avg similarity=0.285); no shared idiosyncratic naming, structure, or technique.",0
-143848.py,744343.py,0,0,0,0,0,0,0,0,"Independent implementations (algorithmic avg similarity=0.287); no shared idiosyncratic naming, structure, or technique.",0
-760008.py,782005.py,0,0,0,0,0,0,0,0,"Independent implementations (algorithmic avg similarity=0.287); no shared idiosyncratic naming, structure, or technique.",0
-760008.py,782006.py,0,0,0,0,0,0,0,0,"Independent implementations (algorithmic avg similarity=0.287); no shared idiosyncratic naming, structure, or technique.",0
-682460.py,782006.py,0,0,0,0,0,0,0,0,"Independent implementations (algorithmic avg similarity=0.291); no shared idiosyncratic naming, structure, or technique.",0
-790343.py,792360.py,0,0,0,0,0,0,0,0,"Independent implementations (algorithmic avg similarity=0.292); no shared idiosyncratic naming, structure, or technique.",0
-134105.py,682460.py,0,0,0,0,0,0,0,0,"Independent implementations (algorithmic avg similarity=0.294); no shared idiosyncratic naming, structure, or technique.",0
-143545.py,149231.py,0,0,0,0,0,0,0,0,"Independent implementations (algorithmic avg similarity=0.294); no shared idiosyncratic naming, structure, or technique.",0
-134105.py,759951.py,0,0,0,0,0,0,0,0,"Independent implementations (algorithmic avg similarity=0.297); no shared idiosyncratic naming, structure, or technique.",0
-681679.py,700451.py,0,0,0,0,0,0,0,0,"Independent implementations (algorithmic avg similarity=0.297); no shared idiosyncratic naming, structure, or technique.",0
-781392.py,793214.py,0,0,0,0,0,0,0,0,"Independent implementations (algorithmic avg similarity=0.297); no shared idiosyncratic naming, structure, or technique.",0
-147901.py,697252.py,0,0,0,0,0,0,0,0,"Independent implementations (algorithmic avg similarity=0.298); no shared idiosyncratic naming, structure, or technique.",0
-134369.py,143376.py,0,0,0,0,0,0,0,0,"Independent implementations (algorithmic avg similarity=0.299); no shared idiosyncratic naming, structure, or technique.",0
-147901.py,785878.py,0,0,0,0,0,0,0,0,"Independent implementations (algorithmic avg similarity=0.299); no shared idiosyncratic naming, structure, or technique.",0
-685310.py,700451.py,0,0,0,0,0,0,0,0,"Independent implementations (algorithmic avg similarity=0.3); no shared idiosyncratic naming, structure, or technique.",0
-143545.py,785894.py,0,0,0,0,0,0,0,0,"Independent implementations (algorithmic avg similarity=0.301); no shared idiosyncratic naming, structure, or technique.",0
-149231.py,684499.py,0,0,0,0,0,0,0,0,"Independent implementations (algorithmic avg similarity=0.309); no shared idiosyncratic naming, structure, or technique.",0
-759951.py,789477.py,0,0,0,0,0,0,0,0,"Independent implementations (algorithmic avg similarity=0.312); no shared idiosyncratic naming, structure, or technique.",0
-766470.py,777286.py,0,0,0,0,0,0,0,0,"Independent implementations (algorithmic avg similarity=0.314); no shared idiosyncratic naming, structure, or technique.",0
-766470.py,777459.py,0,0,0,0,0,0,0,0,"Independent implementations (algorithmic avg similarity=0.314); no shared idiosyncratic naming, structure, or technique.",0
-744343.py,777234.py,0,0,0,0,0,0,0,0,"Independent implementations (algorithmic avg similarity=0.316); no shared idiosyncratic naming, structure, or technique.",0
-133870.py,761758.py,0,0,0,0,0,0,0,0,"Independent implementations (algorithmic avg similarity=0.317); no shared idiosyncratic naming, structure, or technique.",0
-133870.py,762232.py,0,0,0,0,0,0,0,0,"Independent implementations (algorithmic avg similarity=0.317); no shared idiosyncratic naming, structure, or technique.",0
-134369.py,761758.py,0,0,0,0,0,0,0,0,"Independent implementations (algorithmic avg similarity=0.317); no shared idiosyncratic naming, structure, or technique.",0
-147214.py,762232.py,0,0,0,0,0,0,0,0,"Independent implementations (algorithmic avg similarity=0.317); no shared idiosyncratic naming, structure, or technique.",0
-681979.py,761518.py,0,0,0,0,0,0,0,0,"Independent implementations (algorithmic avg similarity=0.32); no shared idiosyncratic naming, structure, or technique.",0
-684272.py,761518.py,0,0,0,0,0,0,0,0,"Independent implementations (algorithmic avg similarity=0.32); no shared idiosyncratic naming, structure, or technique.",0
-782144.py,793214.py,0,0,0,0,0,0,0,0,"Independent implementations (algorithmic avg similarity=0.32); no shared idiosyncratic naming, structure, or technique.",0
-134159.py,801329.py,0,0,0,0,0,0,0,0,"Independent implementations (algorithmic avg similarity=0.324); no shared idiosyncratic naming, structure, or technique.",0
-777286.py,785878.py,0,0,0,0,0,0,0,0,"Independent implementations (algorithmic avg similarity=0.324); no shared idiosyncratic naming, structure, or technique.",0
-132456.py,681679.py,0,0,0,0,0,0,0,0,"Independent implementations (algorithmic avg similarity=0.329); no shared idiosyncratic naming, structure, or technique.",0
-684816.py,789477.py,0,0,0,0,0,0,0,0,"Independent implementations (algorithmic avg similarity=0.33); no shared idiosyncratic naming, structure, or technique.",0
-133937.py,801329.py,0,0,0,0,0,0,0,0,"Independent implementations (algorithmic avg similarity=0.331); no shared idiosyncratic naming, structure, or technique.",0
-682525.py,695038.py,0,0,0,0,0,0,0,0,"Independent implementations (algorithmic avg similarity=0.331); no shared idiosyncratic naming, structure, or technique.",0
-132456.py,685310.py,0,0,0,0,0,0,0,0,"Independent implementations (algorithmic avg similarity=0.332); no shared idiosyncratic naming, structure, or technique.",0
-681979.py,777340.py,0,0,0,0,0,0,0,0,"Independent implementations (algorithmic avg similarity=0.332); no shared idiosyncratic naming, structure, or technique.",0
-684272.py,777340.py,0,0,0,0,0,0,0,0,"Independent implementations (algorithmic avg similarity=0.332); no shared idiosyncratic naming, structure, or technique.",0
-684402.py,777341.py,0,0,0,0,0,0,0,0,"Independent implementations (algorithmic avg similarity=0.332); no shared idiosyncratic naming, structure, or technique.",0
-685031.py,777341.py,0,0,0,0,0,0,0,0,"Independent implementations (algorithmic avg similarity=0.332); no shared idiosyncratic naming, structure, or technique.",0
-147214.py,681552.py,0,0,0,0,0,0,0,0,"Independent implementations (algorithmic avg similarity=0.333); no shared idiosyncratic naming, structure, or technique.",0
-684402.py,777234.py,0,0,0,0,0,0,0,0,"Independent implementations (algorithmic avg similarity=0.333); no shared idiosyncratic naming, structure, or technique.",0
-685031.py,777270.py,0,0,0,0,0,0,0,0,"Independent implementations (algorithmic avg similarity=0.333); no shared idiosyncratic naming, structure, or technique.",0
-684816.py,742574.py,0,0,0,0,0,0,0,0,"Independent implementations (algorithmic avg similarity=0.334); no shared idiosyncratic naming, structure, or technique.",0
-687509.py,695038.py,0,0,0,0,0,0,0,0,"Independent implementations (algorithmic avg similarity=0.334); no shared idiosyncratic naming, structure, or technique.",0
-147206.py,692262.py,0,0,0,0,0,0,0,0,"Independent implementations (algorithmic avg similarity=0.335); no shared idiosyncratic naming, structure, or technique.",0
-692262.py,743010.py,0,0,0,0,0,0,0,0,"Independent implementations (algorithmic avg similarity=0.335); no shared idiosyncratic naming, structure, or technique.",0
-782144.py,796995.py,0,0,0,0,0,0,0,0,"Independent implementations (algorithmic avg similarity=0.336); no shared idiosyncratic naming, structure, or technique.",0
-681725.py,777339.py,0,0,0,0,0,0,0,0,"Independent implementations (algorithmic avg similarity=0.337); no shared idiosyncratic naming, structure, or technique.",0
-699134.py,729214.py,0,0,0,0,0,0,0,0,"Independent implementations (algorithmic avg similarity=0.337); no shared idiosyncratic naming, structure, or technique.",0
-742516.py,786177.py,0,0,0,0,0,0,0,0,"Independent implementations (algorithmic avg similarity=0.337); no shared idiosyncratic naming, structure, or technique.",0
-742520.py,786177.py,0,0,0,0,0,0,0,0,"Independent implementations (algorithmic avg similarity=0.337); no shared idiosyncratic naming, structure, or technique.",0
-743318.py,777339.py,0,0,0,0,0,0,0,0,"Independent implementations (algorithmic avg similarity=0.337); no shared idiosyncratic naming, structure, or technique.",0
-681725.py,743037.py,0,0,0,0,0,0,0,0,"Independent implementations (algorithmic avg similarity=0.338); no shared idiosyncratic naming, structure, or technique.",0
-743037.py,743318.py,0,0,0,0,0,0,0,0,"Independent implementations (algorithmic avg similarity=0.338); no shared idiosyncratic naming, structure, or technique.",0
-681552.py,777356.py,0,0,0,0,0,0,0,0,"Independent implementations (algorithmic avg similarity=0.339); no shared idiosyncratic naming, structure, or technique.",0
-694470.py,697252.py,0,0,0,0,0,0,0,0,"Independent implementations (algorithmic avg similarity=0.339); no shared idiosyncratic naming, structure, or technique.",0
-682525.py,799085.py,0,0,0,0,0,0,0,0,"Independent implementations (algorithmic avg similarity=0.342); no shared idiosyncratic naming, structure, or technique.",0
-729214.py,742511.py,0,0,0,0,0,0,0,0,"Independent implementations (algorithmic avg similarity=0.343); no shared idiosyncratic naming, structure, or technique.",0
-147206.py,682351.py,0,0,0,0,0,0,0,0,"Independent implementations (algorithmic avg similarity=0.345); no shared idiosyncratic naming, structure, or technique.",0
-682351.py,694470.py,0,0,0,0,0,0,0,0,"Independent implementations (algorithmic avg similarity=0.345); no shared idiosyncratic naming, structure, or technique.",0
-684366.py,743010.py,0,0,0,0,0,0,0,0,"Independent implementations (algorithmic avg similarity=0.345); no shared idiosyncratic naming, structure, or technique.",0
-684366.py,760031.py,0,0,0,0,0,0,0,0,"Independent implementations (algorithmic avg similarity=0.345); no shared idiosyncratic naming, structure, or technique.",0
-684545.py,760031.py,0,0,0,0,0,0,0,0,"Independent implementations (algorithmic avg similarity=0.345); no shared idiosyncratic naming, structure, or technique.",0
-683319.py,777270.py,0,0,0,0,0,0,0,0,"Independent implementations (algorithmic avg similarity=0.347); no shared idiosyncratic naming, structure, or technique.",0
-683319.py,777277.py,0,0,0,0,0,0,0,0,"Independent implementations (algorithmic avg similarity=0.347); no shared idiosyncratic naming, structure, or technique.",0
-684545.py,777277.py,0,0,0,0,0,0,0,0,"Independent implementations (algorithmic avg similarity=0.347); no shared idiosyncratic naming, structure, or technique.",0
-684756.py,777299.py,0,0,0,0,0,0,0,0,"Independent implementations (algorithmic avg similarity=0.347); no shared idiosyncratic naming, structure, or technique.",0
-684756.py,777300.py,0,0,0,0,0,0,0,0,"Independent implementations (algorithmic avg similarity=0.347); no shared idiosyncratic naming, structure, or technique.",0
-684883.py,777299.py,0,0,0,0,0,0,0,0,"Independent implementations (algorithmic avg similarity=0.347); no shared idiosyncratic naming, structure, or technique.",0
-684883.py,777300.py,0,0,0,0,0,0,0,0,"Independent implementations (algorithmic avg similarity=0.347); no shared idiosyncratic naming, structure, or technique.",0
-685184.py,777303.py,0,0,0,0,0,0,0,0,"Independent implementations (algorithmic avg similarity=0.347); no shared idiosyncratic naming, structure, or technique.",0
-685184.py,777309.py,0,0,0,0,0,0,0,0,"Independent implementations (algorithmic avg similarity=0.347); no shared idiosyncratic naming, structure, or technique.",0
-777303.py,783625.py,0,0,0,0,0,0,0,0,"Independent implementations (algorithmic avg similarity=0.347); no shared idiosyncratic naming, structure, or technique.",0
-777309.py,783625.py,0,0,0,0,0,0,0,0,"Independent implementations (algorithmic avg similarity=0.347); no shared idiosyncratic naming, structure, or technique.",0
-684499.py,759949.py,0,0,0,0,0,0,0,0,"Independent implementations (algorithmic avg similarity=0.348); no shared idiosyncratic naming, structure, or technique.",0
-684383.py,777311.py,0,0,0,0,0,0,0,0,"Independent implementations (algorithmic avg similarity=0.354); no shared idiosyncratic naming, structure, or technique.",0
-684383.py,777328.py,0,0,0,0,0,0,0,0,"Independent implementations (algorithmic avg similarity=0.354); no shared idiosyncratic naming, structure, or technique.",0
-682646.py,777311.py,0,0,0,0,0,0,0,0,"Independent implementations (algorithmic avg similarity=0.361); no shared idiosyncratic naming, structure, or technique.",0
-682646.py,777328.py,0,0,0,0,0,0,0,0,"Independent implementations (algorithmic avg similarity=0.361); no shared idiosyncratic naming, structure, or technique.",0
-682719.py,777337.py,0,0,0,0,0,0,0,0,"Independent implementations (algorithmic avg similarity=0.361); no shared idiosyncratic naming, structure, or technique.",0
-682719.py,777348.py,0,0,0,0,0,0,0,0,"Independent implementations (algorithmic avg similarity=0.361); no shared idiosyncratic naming, structure, or technique.",0
-687509.py,777337.py,0,0,0,0,0,0,0,0,"Independent implementations (algorithmic avg similarity=0.361); no shared idiosyncratic naming, structure, or technique.",0
-682139.py,777348.py,0,0,0,0,0,0,0,0,"Independent implementations (algorithmic avg similarity=0.364); no shared idiosyncratic naming, structure, or technique.",0
-682139.py,777349.py,0,0,0,0,0,0,0,0,"Independent implementations (algorithmic avg similarity=0.364); no shared idiosyncratic naming, structure, or technique.",0
-143791.py,778654.py,0,0,0,0,0,0,0,0,"Independent implementations (algorithmic avg similarity=0.365); no shared idiosyncratic naming, structure, or technique.",0
-759949.py,799085.py,0,0,0,0,0,0,0,0,"Independent implementations (algorithmic avg similarity=0.388); no shared idiosyncratic naming, structure, or technique.",0
-143791.py,783732.py,0,0,0,0,0,0,0,0,"Independent implementations (algorithmic avg similarity=0.39); no shared idiosyncratic naming, structure, or technique.",0
-143831.py,792290.py,0,0,0,0,0,0,0,0,"Independent implementations (algorithmic avg similarity=0.424); no shared idiosyncratic naming, structure, or technique.",0
-143839.py,792290.py,0,0,0,0,0,0,0,0,"Independent implementations (algorithmic avg similarity=0.424); no shared idiosyncratic naming, structure, or technique.",0
-147367.py,777281.py,0,0,0,0,0,0,0,0,"Independent implementations (algorithmic avg similarity=0.424); no shared idiosyncratic naming, structure, or technique.",0
-147367.py,777320.py,0,0,0,0,0,0,0,0,"Independent implementations (algorithmic avg similarity=0.424); no shared idiosyncratic naming, structure, or technique.",0
-133900.py,143199.py,0,0,0,0,0,0,0,0,"Independent implementations (algorithmic avg similarity=0.429); no shared idiosyncratic naming, structure, or technique.",0
-134159.py,777273.py,0,0,0,0,0,0,0,0,"Independent implementations (algorithmic avg similarity=0.429); no shared idiosyncratic naming, structure, or technique.",0
-682130.py,783732.py,0,0,0,0,0,0,0,0,"Independent implementations (algorithmic avg similarity=0.429); no shared idiosyncratic naming, structure, or technique.",0
-682130.py,785894.py,0,0,0,0,0,0,0,0,"Independent implementations (algorithmic avg similarity=0.43); no shared idiosyncratic naming, structure, or technique.",0
-147710.py,777273.py,0,0,0,0,0,0,0,0,"Independent implementations (algorithmic avg similarity=0.434); no shared idiosyncratic naming, structure, or technique.",0
-143831.py,787481.py,0,0,0,0,0,0,0,0,"Independent implementations (algorithmic avg similarity=0.442); no shared idiosyncratic naming, structure, or technique.",0
-143839.py,787481.py,0,0,0,0,0,0,0,0,"Independent implementations (algorithmic avg similarity=0.442); no shared idiosyncratic naming, structure, or technique.",0
-134226.py,777356.py,0,0,0,0,0,0,0,0,"Independent implementations (algorithmic avg similarity=0.444); no shared idiosyncratic naming, structure, or technique.",0
-134226.py,777320.py,0,0,0,0,0,0,0,0,"Independent implementations (algorithmic avg similarity=0.445); no shared idiosyncratic naming, structure, or technique.",0
-682522.py,796995.py,0,0,0,0,0,0,0,0,"Independent implementations (algorithmic avg similarity=0.446); no shared idiosyncratic naming, structure, or technique.",0
-682522.py,796996.py,0,0,0,0,0,0,0,0,"Independent implementations (algorithmic avg similarity=0.446); no shared idiosyncratic naming, structure, or technique.",0
-682543.py,796996.py,0,0,0,0,0,0,0,0,"Independent implementations (algorithmic avg similarity=0.446); no shared idiosyncratic naming, structure, or technique.",0
-133937.py,777321.py,0,0,0,0,0,0,0,0,"Independent implementations (algorithmic avg similarity=0.447); no shared idiosyncratic naming, structure, or technique.",0
-134072.py,777321.py,0,0,0,0,0,0,0,0,"Independent implementations (algorithmic avg similarity=0.447); no shared idiosyncratic naming, structure, or technique.",0
-134072.py,794243.py,0,0,0,0,0,0,0,0,"Independent implementations (algorithmic avg similarity=0.449); no shared idiosyncratic naming, structure, or technique.",0
-147247.py,794243.py,0,0,0,0,0,0,0,0,"Independent implementations (algorithmic avg similarity=0.449); no shared idiosyncratic naming, structure, or technique.",0
-682489.py,742593.py,0,0,0,0,0,0,0,0,"Independent implementations (algorithmic avg similarity=0.449); no shared idiosyncratic naming, structure, or technique.",0
-683736.py,742593.py,0,0,0,0,0,0,0,0,"Independent implementations (algorithmic avg similarity=0.449); no shared idiosyncratic naming, structure, or technique.",0
-682489.py,742574.py,0,0,0,0,0,0,0,0,"Independent implementations (algorithmic avg similarity=0.45); no shared idiosyncratic naming, structure, or technique.",0
-683736.py,742577.py,0,0,0,0,0,0,0,0,"Independent implementations (algorithmic avg similarity=0.45); no shared idiosyncratic naming, structure, or technique.",0
-684123.py,742577.py,0,0,0,0,0,0,0,0,"Independent implementations (algorithmic avg similarity=0.45); no shared idiosyncratic naming, structure, or technique.",0
-133318.py,777349.py,0,0,0,0,0,0,0,0,"Independent implementations (algorithmic avg similarity=0.452); no shared idiosyncratic naming, structure, or technique.",0
-133318.py,777353.py,0,0,0,0,0,0,0,0,"Independent implementations (algorithmic avg similarity=0.452); no shared idiosyncratic naming, structure, or technique.",0
-134294.py,777353.py,0,0,0,0,0,0,0,0,"Independent implementations (algorithmic avg similarity=0.452); no shared idiosyncratic naming, structure, or technique.",0
-134294.py,777354.py,0,0,0,0,0,0,0,0,"Independent implementations (algorithmic avg similarity=0.452); no shared idiosyncratic naming, structure, or technique.",0
-134310.py,777354.py,0,0,0,0,0,0,0,0,"Independent implementations (algorithmic avg similarity=0.452); no shared idiosyncratic naming, structure, or technique.",0
-134310.py,777355.py,0,0,0,0,0,0,0,0,"Independent implementations (algorithmic avg similarity=0.452); no shared idiosyncratic naming, structure, or technique.",0
-134322.py,777355.py,0,0,0,0,0,0,0,0,"Independent implementations (algorithmic avg similarity=0.452); no shared idiosyncratic naming, structure, or technique.",0
-134322.py,777371.py,0,0,0,0,0,0,0,0,"Independent implementations (algorithmic avg similarity=0.452); no shared idiosyncratic naming, structure, or technique.",0
-134397.py,777371.py,0,0,0,0,0,0,0,0,"Independent implementations (algorithmic avg similarity=0.452); no shared idiosyncratic naming, structure, or technique.",0
-134397.py,777440.py,0,0,0,0,0,0,0,0,"Independent implementations (algorithmic avg similarity=0.452); no shared idiosyncratic naming, structure, or technique.",0
+682351.py,683319.py,1,0,1,1,0,0,0,0,Line-for-line identical isalpha/toggle function; only function and variable names differ (hacer_bailarina/usar_mayuscula vs convertir_a_bailarina/mayuscula).,1
+694470.py,697252.py,0,0,0,0,0,0,0,0,Completely different techniques: space-stripping plus list insert with ord arithmetic vs counter-mod helper function.,0
+773117.py,777661.py,1,0,1,1,0,0,0,0,Same inline statement sequence with isalpha and boolean flag; differs only in names and the comment block.,1
+147247.py,147694.py,1,0,1,1,0,0,0,0,Shares the idiosyncratic n/x counter test 'if x==0 or x%2==n'; only the outer loop variable differs.,1
+760008.py,782006.py,0,0,0,0,0,0,0,0,isalpha/join helper reading via input() vs sys.stdin with ord arithmetic; no shared markers.,0
+682522.py,796996.py,0,0,0,0,0,0,0,0,Print-per-character with continue vs string accumulation with explicit 'a'<=c<='z' range test.,0
+134322.py,777355.py,0,0,0,0,0,0,0,0,Different families: print-per-char counter-mod vs cad/baile/sw accumulation.,0
+744348.py,762155.py,0,0,0,0,0,0,0,0,isalpha helper with sys.stdin vs inline ord arithmetic with switch/mayus/minu constants.,0
+685362.py,762155.py,0,0,0,0,0,0,0,0,Function plus main() with isalpha vs inline ord arithmetic; nothing shared beyond the task.,0
+777317.py,777404.py,1,1,0,0,0,0,0,0,Byte-for-byte identical.,1
+134072.py,794243.py,0,0,0,0,0,0,0,0,Idiosyncratic n/x counter trick vs blank-line-padded t=True toggle; unrelated.,0
+133900.py,143199.py,0,0,0,0,0,0,0,0,Accumulator with d=2 counter vs print-per-char using chr(ord()-32); different approaches.,0
+777271.py,777289.py,1,0,1,0,0,0,0,0,Same code; differs only in the #inicio/#fin comments and trailing whitespace.,1
+777309.py,783625.py,0,0,0,0,0,0,0,0,cad/baile/sw inline family vs isalpha helper function; no shared idiosyncrasies.,0
+134514.py,134518.py,1,1,0,0,0,0,0,0,Byte-for-byte identical.,1
+681941.py,755549.py,1,0,1,1,0,0,0,0,Same compact solution including the distinctive ternary 'r+=x.upper() if m else x.lower()'; only indentation width and one loop name differ.,1
+682646.py,777328.py,0,0,0,0,0,0,0,0,isalpha helper vs cad/baile/sw inline template; unrelated.,0
+133870.py,761758.py,0,0,0,0,0,0,0,0,Pre-lowercasing with parity index vs helper function with sw flag and continue; independent.,0
+133870.py,762232.py,0,0,0,0,0,0,0,0,Pre-lowercasing with parity index vs helper function with sw flag and continue; independent.,0
+143835.py,687594.py,0,0,0,0,0,0,0,0,ASCII-range arithmetic with sw vs nov_bai helper using isalpha; different techniques.,0
+682139.py,777349.py,0,0,0,0,0,0,0,0,Helper plus main() with isalpha vs cad/bailarina/sw inline template; unrelated.,0
+689979.py,797058.py,0,0,0,0,0,0,0,0,Both use a space-continue plus boolean flag but that is the obvious solution; toggle written differently and no shared naming.,0
+777315.py,777316.py,1,0,1,0,0,0,0,0,Identical statements; only spacing style and #Inicio/#Fin comments differ.,1
+134397.py,134506.py,1,1,0,0,0,0,0,0,Byte-for-byte identical including the stray blank line inside the elif.,1
+143807.py,744317.py,0,0,0,0,0,0,0,0,ASCII-range arithmetic vs isalpha-free helper with guard clause; independent.,0
+684383.py,687509.py,1,0,1,1,0,1,0,0,Same helper body statement for statement; renamed and one version wraps the loop in enumerate() with an unused index.,1
+777640.py,789477.py,0,0,0,0,0,0,0,0,isalpha for-loop accumulation vs while-countdown with '!= space' test; only the generic sw flag is shared.,0
+777286.py,777459.py,1,0,1,0,0,0,0,0,Identical code including the unusual redundant parentheses in 'cad[i]==( )'; differs only in comments/whitespace.,1
+684756.py,777300.py,0,0,0,0,0,0,0,0,isalpha helper vs cad/baile/sw inline template; unrelated.,0
+134368.py,134388.py,1,1,0,0,0,0,0,0,Byte-for-byte identical including the one-space indentation.,1
+134159.py,134226.py,1,0,1,1,0,0,0,0,Shares the idiosyncratic 'if x==0 or x%2==n' space-counter test; only identifiers renamed.,1
+147206.py,692262.py,0,0,0,0,0,0,0,0,Pre-lowercased cont%2 loop with range(n+1) bug vs isalpha helper; independent.,0
+147781.py,147927.py,1,1,0,0,0,0,0,0,Byte-for-byte identical.,1
+134310.py,134322.py,1,1,0,0,0,0,0,0,Byte-for-byte identical.,1
+685362.py,744348.py,1,0,1,1,0,1,0,0,Both use the same list-append isalpha helper with matching Spanish comments and the unusual sys.stdin.read() splitlines driver; driver reorganized (main()/__main__ vs inline results list).,1
+143797.py,787865.py,0,0,0,0,0,0,0,0,ASCII-range arithmetic with sw vs simple upper/lower helper; different techniques.,0
+777340.py,777341.py,1,1,0,0,0,0,0,0,Byte-for-byte identical including the trailing semicolon after sw=0.,1
+699134.py,742709.py,0,0,0,0,0,0,0,0,Inline pre-lowercased toggle vs solve(list) with ord arithmetic and T=1-T; independent.,0
+147901.py,697252.py,0,0,0,0,0,0,0,0,while-countdown printing per char vs explorer() accumulating with i%2; independent.,0
+782144.py,796995.py,0,0,0,0,0,0,0,0,Helper with s=(s+1)%2 arithmetic vs inline explicit letter-range test; independent.,0
+684883.py,777300.py,0,0,0,0,0,0,0,0,English-named isalpha helper vs cad/baile/sw template; unrelated.,0
+684272.py,777340.py,0,0,0,0,0,0,0,0,Commented isalpha helper vs cad/baile/sw template; unrelated.,0
+134105.py,134206.py,0,0,0,0,0,0,0,0,Two different odd approaches (aux=2/aux=1 reset vs parallel upper/lower copies with slicing); no shared origin.,0
+682525.py,695038.py,0,0,0,0,0,0,0,0,list(cad) helper printing per char vs inline count%2 elif chain; independent.,0
+134206.py,681835.py,0,0,0,0,0,0,0,0,Parallel-case slicing hack vs canonical isalpha helper; unrelated.,0
+133937.py,777321.py,0,0,0,0,0,0,0,0,n/x counter family vs cad/baile/sw family; unrelated.,0
+134294.py,777354.py,0,0,0,0,0,0,0,0,Print-per-char counter family vs cad/baile/sw accumulation family; unrelated.,0
+685031.py,777270.py,0,0,0,0,0,0,0,0,make_dancing_string helper vs cad/baile/sw template; unrelated.,0
+687509.py,695038.py,0,0,0,0,0,0,0,0,enumerate isalpha helper vs terse inline loop over list(input()); independent.,0
+143161.py,687594.py,0,0,0,0,0,0,0,0,stdin/stdout with ord comparisons vs nov_bai isalpha helper; independent.,0
+777371.py,777440.py,1,0,1,0,0,0,0,0,Same code; only a trailing '# mayuscula' comment and trailing space differ.,1
+147710.py,777273.py,0,0,0,0,0,0,0,0,n/x counter family vs cad/baile/sw family; unrelated.,0
+134226.py,777356.py,0,0,0,0,0,0,0,0,n/x counter family vs cad/baile/sw family; unrelated.,0
+742516.py,742520.py,1,1,0,0,0,0,0,0,Byte-for-byte identical including the buffered output built in f.,1
+134369.py,147214.py,1,1,0,0,0,0,0,0,Byte-for-byte identical.,1
+761758.py,762232.py,1,1,0,0,0,0,0,0,Byte-for-byte identical including the unused variable q.,1
+742516.py,786177.py,0,0,0,0,0,0,0,0,c1/c2 buffered inline solution vs isalpha helper; unrelated.,0
+684402.py,777341.py,0,0,0,0,0,0,0,0,make_dancing_string helper vs cad/baile/sw template; unrelated.,0
+683736.py,742577.py,0,0,0,0,0,0,0,0,frase print-per-char family vs c1/c2 accumulation family; unrelated.,0
+681679.py,685310.py,1,0,1,0,0,0,0,0,"Identical helper and driver including the distinctive empty-prompt calls input(""""); one version just adds comments/blank lines.",1
+777354.py,777355.py,1,1,0,0,0,0,0,0,Identical apart from one space after a semicolon.,1
+742627.py,777281.py,1,0,1,1,0,0,0,0,Same template statement for statement (range(1 n+1) loop; sw=0 flag; space passthrough); identifiers renamed and comments added.,1
+147214.py,681552.py,0,0,0,0,0,0,0,0,Terse print-per-char loop vs enumerate helper with an i==0 special case; independent.,0
+143831.py,792290.py,0,0,0,0,0,0,0,0,while-loop index accumulation vs list-based for loop with continue; independent.,0
+777293.py,777310.py,1,1,0,0,0,0,0,0,Byte-for-byte identical.,1
+781288.py,798958.py,1,0,1,1,0,1,0,0,Same statement sequence and contador%2 pattern with increment after the branch; counter renamed and its declaration moved above/below the accumulator.,1
+777736.py,799313.py,0,0,0,0,0,0,0,0,sw flip-flop template vs independent counter-mod accumulation; toggle mechanism differs.,0
+691074.py,785878.py,0,0,0,0,0,0,0,0,nov_bai isalpha helper vs bailarin using ord(letra)!=32; independent.,0
+134429.py,134463.py,1,0,1,1,0,0,0,0,Identical one-space-indented 'letra' solution; a single variable renamed (x vs a).,1
+777287.py,777332.py,1,0,1,1,0,0,0,0,Identical template; accumulator renamed bailarina vs baile only.,1
+777273.py,777356.py,1,0,1,0,0,0,0,0,Same elif-variant of the template; differs only in indentation width and += vs concatenation.,1
+742511.py,742558.py,1,1,0,0,0,0,0,0,Identical apart from insignificant spacing.,1
+777234.py,777270.py,1,0,1,1,0,0,0,0,Identical template; accumulator renamed bail vs baile plus spacing and a comment.,1
+681979.py,761518.py,0,0,0,0,0,0,0,0,isalpha list helper vs terse inline cont flag; independent.,0
+149231.py,684499.py,0,0,0,0,0,0,0,0,One-line ternary with isspace vs vc() building an uppercased copy with ord checks; independent.,0
+781392.py,792360.py,0,0,0,0,0,0,0,0,Helper with counter-decrement trick vs inline ord arithmetic; independent.,0
+685273.py,685347.py,1,1,0,0,0,0,0,0,Identical apart from trailing whitespace.,1
+777792.py,777794.py,1,1,0,0,0,0,0,0,Byte-for-byte identical.,1
+134072.py,777321.py,0,0,0,0,0,0,0,0,n/x counter family vs cad/baile/sw family; unrelated.,0
+684883.py,777299.py,0,0,0,0,0,0,0,0,isalpha helper vs cad/baile/sw template; unrelated.,0
+693100.py,711015.py,0,0,0,0,0,0,0,0,Verbose Spanish while-loop with bandera vs convierte() using ord comparisons; independent.,0
+143804.py,787865.py,0,0,0,0,0,0,0,0,ASCII-range arithmetic vs simple upper/lower helper; independent.,0
+718122.py,143394.py,1,0,1,1,1,1,0,0,Shares the distinctive c=-1 / c=c*-1 sign-flip toggle and identical loop shape; the flip statement is duplicated into both branches in one version.,1
+134425.py,134427.py,1,1,0,0,0,0,0,0,Byte-for-byte identical.,1
+681979.py,777340.py,0,0,0,0,0,0,0,0,make_dancing_string helper vs cad/baile/sw template; unrelated.,0
+685031.py,777341.py,0,0,0,0,0,0,0,0,make_dancing_string helper vs cad/baile/sw template; unrelated.,0
+777349.py,777353.py,1,0,1,1,0,0,0,0,Identical template; accumulator renamed and spacing normalized.,1
+134128.py,134364.py,1,1,0,0,0,0,0,0,Byte-for-byte identical including the one-space indentation.,1
+143791.py,783732.py,0,0,0,0,0,0,0,0,isspace print-per-char with contador=2 vs isalpha accumulation; independent.,0
+699134.py,777255.py,0,0,0,0,0,0,0,0,Pre-lowercased toggle vs continue-based accumulation; independent.,0
+682719.py,777337.py,0,0,0,0,0,0,0,0,Commented isalpha helper vs cad/baile/sw template; unrelated.,0
+685310.py,700451.py,0,0,0,0,0,0,0,0,isalpha helper vs list/ord arithmetic with ban=1-ban; independent.,0
+134310.py,777355.py,0,0,0,0,0,0,0,0,Print-per-char counter family vs cad/baile/sw family; unrelated.,0
+695038.py,778654.py,0,0,0,0,0,0,0,0,elif chain over count%2 vs continue with increment-before-test; independent.,0
+134369.py,761758.py,0,0,0,0,0,0,0,0,Terse print-per-char loop vs bailarina() helper; independent.,0
+762155.py,792360.py,0,0,0,0,0,0,0,0,Both do ord arithmetic but with quite different structure and the switch/mayus/minu idiom appears in only one.,0
+744317.py,792290.py,0,0,0,0,0,0,0,0,Helper with empty-string guard vs inline list loop; only the generic continue-on-space idiom is shared.,0
+684499.py,759949.py,0,0,0,0,0,0,0,0,vc() with an uppercased copy vs alphabet-membership check on a lowercased line; independent.,0
+147958.py,148393.py,1,1,0,0,0,0,0,0,Byte-for-byte identical.,1
+682646.py,682719.py,1,0,1,1,0,0,0,0,Same helper body and driver shape; renamed (res/mayus vs nueva_cadena/es_mayuscula) with comments added.,1
+681725.py,681835.py,1,0,1,0,0,0,0,0,Same code with identical identifiers; one version merely has blank lines inserted between every statement.,1
+143113.py,143126.py,1,1,0,0,0,0,0,0,Byte-for-byte identical.,1
+777304.py,777350.py,1,0,1,1,0,0,0,0,Same template; accumulator renamed (bl vs ba) with minor statement-joining and paren style changes.,1
+683715.py,683718.py,1,0,1,1,0,0,0,0,Identical inline isalpha/toggle block statement for statement; only identifiers differ.,1
+681552.py,787865.py,0,0,0,0,0,0,0,0,enumerate helper with an i==0 special case vs simple conv() on '!= space'; independent.,0
+143791.py,778654.py,0,0,0,0,0,0,0,0,isspace print-per-char vs continue-based accumulation; independent.,0
+134105.py,682460.py,0,0,0,0,0,0,0,0,aux=2/aux=1 reset hack vs canonical isalpha list helper; unrelated.,0
+777241.py,777247.py,1,0,1,1,0,0,0,0,Identical template; accumulator renamed baile vs bailarina plus comment and spacing changes.,1
+147598.py,147947.py,1,1,0,0,0,0,0,0,Byte-for-byte identical.,1
+682646.py,777311.py,0,0,0,0,0,0,0,0,isalpha helper vs cad/baile/sw template; unrelated.,0
+682139.py,777348.py,0,0,0,0,0,0,0,0,Helper plus main() vs cad/bailarina/sw template; unrelated.,0
+712316.py,759999.py,1,0,1,1,0,0,0,0,Identical inline isalpha/flag block line for line; only identifiers differ (verif vs is_upper etc.).,1
+687509.py,777337.py,0,0,0,0,0,0,0,0,enumerate isalpha helper vs cad/baile/sw template; unrelated.,0
+742709.py,790343.py,0,0,0,0,0,0,0,0,ord arithmetic over a collected list vs counter-decrement with min/max variables; independent.,0
+687148.py,687594.py,1,1,0,0,0,0,0,0,Identical apart from one trailing whitespace character.,1
+681979.py,684272.py,1,0,1,1,0,0,0,0,Same list-append helper and driver with matching non-generic comments (Leer la cadena de texto / Imprimir el resultado); function and variable names differ.,1
+147390.py,147393.py,1,1,0,0,0,0,0,0,Byte-for-byte identical.,1
+143545.py,149231.py,0,0,0,0,0,0,0,0,please() with ord ranges and g=1/2 vs a one-line ternary; independent.,0
+684383.py,777311.py,0,0,0,0,0,0,0,0,isalpha helper vs cad/baile/sw template; unrelated.,0
+681679.py,700451.py,0,0,0,0,0,0,0,0,isalpha helper vs list/ord arithmetic with ban=1-ban; independent.,0
+681725.py,743037.py,0,0,0,0,0,0,0,0,isalpha helper vs c1/c2 inline template; unrelated.,0
+143698.py,145285.py,1,1,0,0,0,0,0,0,Identical apart from trailing blank lines.,1
+132244.py,143199.py,0,0,0,0,0,0,0,0,upper()/lower() print with sw=True vs chr(ord()-32) on a lowercased line; different techniques.,0
+147367.py,694470.py,0,0,0,0,0,0,0,0,List-append with c%2 vs space-stripping and re-insertion; independent.,0
+147367.py,777320.py,0,0,0,0,0,0,0,0,List-append helperless loop vs cad/baile/sw template; unrelated.,0
+742574.py,742577.py,1,1,0,0,0,0,0,0,Byte-for-byte identical.,1
+143545.py,785894.py,0,0,0,0,0,0,0,0,please() with ord ranges vs plain inline boolean toggle; independent.,0
+684366.py,760031.py,0,0,0,0,0,0,0,0,isalpha helper vs pre-lowercased cont%2 loop with range(n+1); independent.,0
+683319.py,777270.py,0,0,0,0,0,0,0,0,isalpha helper vs cad/baile/sw template; unrelated.,0
+777286.py,785878.py,0,0,0,0,0,0,0,0,cad/baile/sw template vs bailarin() using ord(letra)!=32; unrelated.,0
+777339.py,777348.py,1,0,1,1,0,0,0,0,Identical template; accumulator renamed baile vs bailarina only.,1
+743318.py,783625.py,1,0,1,1,0,0,0,0,Same helper body and driver statement for statement; identifiers renamed (resultado/es_mayuscula vs s/May).,1
+684123.py,684176.py,1,1,0,0,0,0,0,0,Byte-for-byte identical.,1
+147901.py,785878.py,0,0,0,0,0,0,0,0,while-countdown printing per char vs helper using ord()!=32; independent.,0
+134294.py,777353.py,0,0,0,0,0,0,0,0,Print-per-char counter family vs cad/baile/sw family; unrelated.,0
+133900.py,143211.py,0,0,0,0,0,0,0,0,Accumulator with d=2 counter vs print-per-char with counter decrement on spaces; independent.,0
+777303.py,783625.py,0,0,0,0,0,0,0,0,cad/baile/sw inline template vs isalpha helper function; unrelated.,0
+699134.py,729214.py,0,0,0,0,0,0,0,0,Terse inline pre-lowercased loop vs commented helper with main(); independent.,0
+132456.py,685310.py,0,0,0,0,0,0,0,0,Pre-lowercased cont%2 loop with range(n+1) bug vs isalpha helper; independent.,0
+134159.py,801329.py,0,0,0,0,0,0,0,0,n/x counter family vs solve() with abs(sw-1) and an empty-line special case; independent.,0
+760008.py,782005.py,0,0,0,0,0,0,0,0,isalpha helper collecting results vs sys.stdin ord arithmetic; independent.,0
+796995.py,796996.py,1,1,0,0,0,0,0,0,Byte-for-byte identical.,1
+143797.py,744348.py,0,0,0,0,0,0,0,0,ASCII-range arithmetic vs isalpha helper with sys.stdin; unrelated.,0
+697252.py,766470.py,0,0,0,0,0,0,0,0,explorer() printing inside the helper with i=-1 pre-increment vs volverCadenaBailarina with a var=' ' default; independent.,0
+682543.py,796996.py,0,0,0,0,0,0,0,0,Print-per-char with continue vs accumulation with explicit letter-range test; independent.,0
+684383.py,777328.py,0,0,0,0,0,0,0,0,Function-based isalpha/toggle solution vs the imperative sw-flag index loop; no shared naming or comments.,0
+683736.py,742593.py,0,0,0,0,0,0,0,0,Prints char-by-char with a boolean sw and Spanish comments vs the c1/c2 string-building template; independent.,0
+781392.py,793214.py,0,0,0,0,0,0,0,0,Counter with two separate ifs and .upper()/.lower() vs ord/chr +-32 arithmetic on a list; different techniques.,0
+684756.py,777299.py,0,0,0,0,0,0,0,0,Function with isalpha toggle vs the imperative cad/baile/sw index loop; nothing shared beyond the assignment.,0
+682489.py,683736.py,1,0,1,0,0,0,0,0,Byte-identical logic; the only difference is 683736 carrying explanatory Spanish comments on the space/case branches.,1
+143304.py,143386.py,1,1,0,0,0,0,0,0,"Files are byte-for-byte identical, including the idiosyncratic c=-1 / c=c*-1 sign-flip toggle.",1
+790343.py,792360.py,0,0,0,0,0,0,0,0,Pre-reads all lines into a list and uses min/max temporaries vs an ord-range solution; independent.,0
+684123.py,742577.py,0,0,0,0,0,0,0,0,Print-as-you-go boolean solution vs the c1/c2 accumulator template; no shared markers.,0
+682719.py,777348.py,0,0,0,0,0,0,0,0,Commented function solution vs the sw-flag index loop; different structure and naming.,0
+134501.py,134533.py,1,1,0,0,0,0,0,0,"Byte-for-byte identical, including the unusual 'int (input ())' spacing and 1-space indentation.",1
+682130.py,783732.py,0,0,0,0,0,0,0,0,Index loop printing with sw=0/continue vs 'for _ in range(int(input()))' with isalpha and a string accumulator.,0
+729214.py,742511.py,0,0,0,0,0,0,0,0,Function plus main() guard with list/join vs the flat c1/c2 template; independent.,0
+147710.py,134447.py,1,0,1,1,1,0,0,0,Both share the idiosyncratic (and buggy) twin-counter idiom 'if ch==space: n+=1;x+=1 else: n=0' with 'if x==0 or x%2==n'; identifiers renamed and the condition literal changed to x%2==0.,1
+134390.py,134402.py,1,1,0,0,0,0,0,0,"Byte-for-byte identical, including 'int (input ())' spacing and single-space indentation.",1
+134481.py,134497.py,1,1,0,0,0,0,0,0,"Byte-for-byte identical, same unusual spacing/indentation style.",1
+742517.py,777623.py,1,0,1,1,0,0,0,0,"Same cohort template: sw flag, 'for k/i in range(0,len(cad))', parenthesised space test, space appended verbatim; only identifiers (c1/c2 vs cad/baile) and minor spacing differ.",1
+777328.py,777337.py,1,0,1,0,0,0,0,0,Identical code; 777328 only adds the '#cadena bailarina / #inicio / #fin' comment banner.,1
+684366.py,684545.py,1,0,1,0,0,0,0,0,"Identical function es_bailarina with the same Spanish comments ('# Comenzamos con mayuscula', '# Conservamos caracteres no alfabeticos'); differs only in trailing whitespace on blank lines.",1
+133318.py,777353.py,0,0,0,0,0,0,0,0,Prints each character immediately using a %2 counter vs building a string with an sw flag; independent.,0
+134571.py,134595.py,1,1,0,0,0,0,0,0,Byte-for-byte identical.,1
+743037.py,744480.py,1,0,1,0,0,0,0,0,"Identical c1/c2/sw code; 743037 only adds '# Inicio', '# cadena vacia', '#swith' comments.",1
+684756.py,684883.py,0,0,0,0,0,0,0,0,"Both use the canonical isalpha+toggle function, but with entirely different identifiers and no shared comments - convergent, not derived.",0
+759951.py,789477.py,0,0,0,0,0,0,0,0,Function with list/join vs a while-loop with index and sw=0; only the obvious toggle idea is shared.,0
+777740.py,777758.py,1,0,1,0,0,0,0,0,"Identical cad/baile/sw code, differing only in a space inside 'range (0,len(cad))'.",1
+148427.py,132359.py,0,0,0,0,0,0,0,0,Immediate printing with a %2 counter vs lowercasing first and building a string with duplicated branches.,0
+134525.py,147209.py,1,1,0,0,0,0,0,0,"Byte-for-byte identical, including the stray blank line inside the space branch.",1
+681725.py,777339.py,0,0,0,0,0,0,0,0,isalpha-based function vs the imperative sw template; independent.,0
+133159.py,133870.py,0,0,0,0,0,0,0,0,Counter starting at 1 with a 'p' temporary and a stray empty-string break vs an increment/decrement counter on a lowercased line.,0
+783732.py,795642.py,0,0,0,0,0,0,0,0,"Both toggle on isalpha, but one uses 'not flag' and a for _ header, the other explicit True/False assignments and a 'times' loop; convergent.",0
+143848.py,691074.py,0,0,0,0,0,0,0,0,ord-range cascade vs a small isalpha function; different techniques.,0
+784817.py,787481.py,0,0,0,0,0,0,0,0,"Both compress the case choice into a ternary, but one tests isalpha while the other uppercases the whole line first and tests for space; names differ - convergent.",0
+143161.py,687148.py,0,0,0,0,0,0,0,0,sys.stdin with ord arithmetic and a list vs a short isalpha function; unrelated.,0
+777277.py,777299.py,1,0,1,0,0,0,0,0,Same code and same semicolon-packed 'cad=input();baile=empty;sw=0' line; only indentation width differs.,1
+682489.py,742574.py,0,0,0,0,0,0,0,0,Immediate printing with a boolean vs the c1/c2 accumulator template; independent.,0
+729214.py,744343.py,0,0,0,0,0,0,0,0,Different guards (char != space with comments vs isalpha with an empty-string early return) and no shared comments.,0
+685031.py,760008.py,0,0,0,0,0,0,0,0,"Both are commented isalpha functions but the comments, names and output strategy (immediate print vs collected list) all differ.",0
+777468.py,777298.py,1,0,1,1,0,0,0,0,Same template including the redundant parenthesised space literal; only the inner index variable and a stray semicolon differ.,1
+143804.py,744317.py,0,0,0,0,0,0,0,0,ord-range cascade vs a function using 'continue' on spaces; unrelated approaches.,0
+777309.py,777311.py,1,0,1,0,0,0,0,0,Identical code; 777311 only adds the '#cadena bailarina / #inicio / #fin' comments and the 'sw=0 #mayusculas / 1: minusculas' note.,1
+143545.py,684499.py,0,0,0,0,0,0,0,0,"Both pre-uppercase the line and use ord, but the letter tests, flag conventions (g=1/2 vs c=0/1) and structure differ substantially.",0
+684816.py,789477.py,0,0,0,0,0,0,0,0,Function with list/join vs a while-loop index solution; independent.,0
+684402.py,684816.py,1,0,1,1,0,0,0,0,"Function bodies are identical token-for-token, sharing the distinctive English names 's', 'result', 'capitalize' in an otherwise Spanish-named cohort; only the function name and driver comments differ.",1
+711015.py,781392.py,0,0,0,0,0,0,0,0,ord/chr arithmetic in a while loop vs .upper()/.lower() with a counter; different techniques.,0
+143699.py,143791.py,0,0,0,0,0,0,0,0,String accumulation with a z counter vs immediate printing using isspace() and contador=2; independent.,0
+143376.py,693100.py,0,0,0,0,0,0,0,0,Sign-flip (c=-1) toggle in a function vs a while loop with a boolean bandera; different.,0
+682139.py,786177.py,0,0,0,0,0,0,0,0,Both canonical isalpha functions but with unrelated identifiers (resultado/es_mayuscula vs s/a) and different drivers.,0
+682489.py,742593.py,0,0,0,0,0,0,0,0,Immediate printing vs the c1/c2 template with #INICIO/#FIN; independent.,0
+777504.py,777651.py,1,0,1,0,0,0,0,0,"Identical code, differing only in a space in 'len (cad)' and the '#inicio/#fin' comments.",1
+133937.py,801329.py,0,0,0,0,0,0,0,0,Twin-counter idiom vs a solve() function using abs(sw-1) and a length-1 space guard.,0
+742520.py,786177.py,0,0,0,0,0,0,0,0,c1/c2 template accumulating into one big string vs an isalpha function; unrelated.,0
+682543.py,683339.py,1,1,0,0,0,0,0,0,Byte-for-byte identical.,1
+134319.py,686746.py,0,0,0,0,0,0,0,0,Letter test via an explicit alphabet string vs a lowercased char-range comparison with a duplicated toggle; different.,0
+684816.py,742574.py,0,0,0,0,0,0,0,0,Function with list/join vs the c1/c2 template; independent.,0
+686801.py,759895.py,1,0,1,1,0,0,0,0,Both use the distinctive default-space temporary ('var = space' then overwrite) with identical statement order; only identifier names (X/C vs palFinal/cont) differ.,1
+684454.py,684682.py,1,0,1,1,0,0,0,0,Identical print-as-you-go structure including the inverted 'if sw: lower else: upper' ordering and trailing double space after the space test; pure identifier rename.,1
+133318.py,777349.py,0,0,0,0,0,0,0,0,Immediate printing with a counter vs string building with sw; independent.,0
+134310.py,777354.py,0,0,0,0,0,0,0,0,Immediate printing with a %2 counter vs the cad/baile/sw template; independent.,0
+782144.py,793214.py,0,0,0,0,0,0,0,0,s=(s+1)%2 toggle with .upper()/.lower() vs ord/chr arithmetic with semicolon-terminated lines; different.,0
+684402.py,777234.py,0,0,0,0,0,0,0,0,English-named function with list/join vs the imperative sw template; independent.,0
+785894.py,794243.py,0,0,0,0,0,0,0,0,Boolean toggle on a plain string vs the odd concatenation temporary with blank lines between every statement.,0
+133937.py,134072.py,1,0,1,1,0,0,0,0,Identical twin-counter code including the same tab indentation and 'y=str(i.upper())' intermediate; only the outer loop variable is renamed.,1
+692262.py,743010.py,0,0,0,0,0,0,0,0,Commented isalpha function vs the lowercase-first counter template; unrelated.,0
+684989.py,685096.py,1,0,1,1,0,0,0,0,Identical inline print structure with the same sw=False toggle and branch order; only identifiers renamed (frase/char vs t/c) plus an added '#enteros' header.,1
+134279.py,134286.py,1,1,0,0,0,0,0,0,"Byte-for-byte identical, including the 'c' accumulator declared outside the loop and reset after printing.",1
+134159.py,777273.py,0,0,0,0,0,0,0,0,Twin-counter (n/x) idiom vs the cad/baile/sw template; different families.,0
+759949.py,799085.py,0,0,0,0,0,0,0,0,Explicit alphabet-string membership test vs ord arithmetic with a t=1-t toggle; independent.,0
+147206.py,682351.py,0,0,0,0,0,0,0,0,Lowercase-first counter loop vs a function with isalpha toggle; unrelated approaches.,0
+759933.py,782005.py,0,0,0,0,0,0,0,0,Function with char-range test vs sys.stdin.read with ascii_val arithmetic; unrelated.,0
+134640.py,143112.py,1,1,0,0,0,0,0,0,Identical apart from a trailing newline; same unusual 'int (input ())' spacing and 1-space indent.,1
+147213.py,783667.py,0,0,0,0,0,0,0,0,Unusual 'int (input ())' 1-space-indent style vs a conventional 4-space aux/c accumulator; no shared markers.,0
+791117.py,796747.py,1,1,0,0,0,0,0,0,"Byte-for-byte identical, including the pointless 'i=i+1' inside the loop.",1
+683276.py,791558.py,0,0,0,0,0,0,0,0,"Both canonical isalpha toggles, but abbreviations (ns/m) vs commented res/mayus with .strip(); convergent.",0
+134377.py,134512.py,1,1,0,0,0,0,0,0,Identical apart from a trailing blank line.,1
+132456.py,147206.py,1,1,0,0,0,0,0,0,"Byte-for-byte identical, including the shared 'range(n + 1)' off-by-one and lowercase-first technique.",1
+143835.py,143848.py,1,1,0,0,0,0,0,0,Identical apart from a trailing blank line; same ord()/32-offset four-branch cascade.,1
+777300.py,777303.py,1,0,1,0,0,0,0,0,Identical cad/baile/sw code including the semicolon-packed declaration line; differs only in incidental spacing.,1
+143839.py,787481.py,0,0,0,0,0,0,0,0,while-loop with a y flag vs a ternary over a pre-uppercased line; independent.,0
+684556.py,684568.py,1,1,0,0,0,0,0,0,Byte-for-byte identical.,1
+782005.py,782006.py,1,0,1,1,1,1,1,0,"Both are the same sys.stdin/ascii_val program with identical variable names; 782006 replaces the 'continue' space-guard with a 'y=y-1' decrement, changing only the control flow.",1
+766470.py,777286.py,0,0,0,0,0,0,0,0,Function using the default-space temporary trick vs the imperative sw template; different families.,0
+143207.py,143208.py,1,1,0,0,0,0,0,0,"Byte-for-byte identical, including the same 'cad[0].upper()' seeding and trailing spaces after print(s).",1
+134408.py,134410.py,1,1,0,0,0,0,0,0,Byte-for-byte identical.,1
+134206.py,759933.py,0,0,0,0,0,0,0,0,Idiosyncratic dual upper/lower copies with a growing length counter vs a clean char-range function; unrelated.,0
+134369.py,143376.py,0,0,0,0,0,0,0,0,Immediate printing with c%2 vs a cambio() function with the c=-1 sign-flip; different.,0
+743010.py,760031.py,1,0,1,1,0,0,0,0,"Same distinctive approach: lowercase the whole line first, then only uppercase on even counter, with the same 'range(n + 1)' off-by-one; differs only by upper/lower-case identifiers.",1
+147247.py,794243.py,0,0,0,0,0,0,0,0,Twin-counter idiom vs the concatenation-temporary style; independent.,0
+685184.py,777309.py,0,0,0,0,0,0,0,0,isalpha function vs the imperative sw template; independent.,0
+682351.py,694470.py,0,0,0,0,0,0,0,0,isalpha function vs the unusual strip-spaces/step-2/re-insert-spaces approach; clearly unrelated.,0
+683319.py,777277.py,0,0,0,0,0,0,0,0,isalpha function vs the cad/baile/sw template; independent.,0
+684545.py,760031.py,0,0,0,0,0,0,0,0,Commented es_bailarina function vs the lowercase-first counter template; unrelated.,0
+694707.py,777601.py,0,0,0,0,0,0,0,0,cont=2 with an ord(car)==32 test vs a results-list template with sw; independent.,0
+787345.py,759924.py,0,0,0,0,0,0,0,0,The default-space temporary trick vs a plain if/else appending a space in the else branch; different loop bodies.,0
+134544.py,134549.py,1,1,0,0,0,0,0,0,Byte-for-byte identical.,1
+743037.py,743318.py,0,0,0,0,0,0,0,0,c1/c2 imperative template vs an isalpha function; unrelated.,0
+143425.py,685362.py,0,0,0,0,0,0,0,0,ord-range cascade vs a function with sys.stdin.read and a __main__ guard; different.,0
+682130.py,682522.py,1,1,0,0,0,0,0,0,"Byte-for-byte identical, including the 'continue' in the space branch.",1
+682522.py,796995.py,0,0,0,0,0,0,0,0,Immediate printing with sw=0 vs a string accumulator with explicit char-range tests; independent.,0
+751402.py,742593.py,1,0,1,1,1,0,0,0,"Same c1/c2/sw template with the '#inicio'/'#fin' banner comments; identifiers and the loop bound (range(1,T+1) vs range(0,x+1)) changed.",1
+681552.py,777356.py,0,0,0,0,0,0,0,0,Function with enumerate and a special i==0 case vs the imperative sw template; unrelated.,0
+143831.py,143839.py,1,1,0,0,0,0,0,0,"Byte-for-byte identical, including the pointless index/accumulator reset after the print.",1
+133318.py,134294.py,1,1,0,0,0,0,0,0,"Byte-for-byte identical, including the stray blank line before the space print.",1
+700451.py,799085.py,0,0,0,0,0,0,0,0,"Both use ord arithmetic and a 1-x toggle, but differ in test style (char vs code comparisons), accumulation (list vs string) and comments; convergent use of a known trick.",0
+684604.py,147901.py,0,0,0,0,0,0,0,0,Index loop with sw=0/continue vs a while-countdown with sw=1; independent.,0
+682130.py,785894.py,0,0,0,0,0,0,0,0,Immediate printing with an int flag vs string building with a boolean; independent.,0
+134226.py,777320.py,0,0,0,0,0,0,0,0,Twin-counter (n/x) idiom vs the cad/baile/sw template; different families.,0
+142889.py,761902.py,0,0,0,0,0,0,0,0,Distinctive two-flag (s1/s2) solution vs a single cont flag with a results list; unrelated.,0
+777451.py,777511.py,1,0,1,1,0,0,0,0,Same cohort template line-for-line; only the accumulator name (baile vs bailarina) and small indentation differences.,1
+766470.py,777459.py,0,0,0,0,0,0,0,0,Function using the default-space temporary trick vs the imperative sw template; independent.,0
+143831.py,787481.py,0,0,0,0,0,0,0,0,while loop with y flag vs a ternary over a pre-uppercased line; independent.,0
+143848.py,744343.py,0,0,0,0,0,0,0,0,ord-range cascade vs an isalpha function with an early empty-string return; unrelated.,0
+743318.py,777339.py,0,0,0,0,0,0,0,0,isalpha function vs the imperative cad/baile/sw template; independent.,0
+134617.py,134626.py,1,1,0,0,0,0,0,0,Byte-for-byte identical.,1
+143804.py,143807.py,1,1,0,0,0,0,0,0,"Byte-for-byte identical, including the same four-branch ord() cascade with sw.",1
+682460.py,759951.py,0,0,0,0,0,0,0,0,"Both isalpha functions with list/join, but all identifiers differ (uppercase/resultado vs mayus/r); convergent.",0
+777734.py,777749.py,1,0,1,0,0,0,0,0,Identical cad/baile/sw code; differs only in spacing and the '# mayuscula' comment.,1
+682460.py,782006.py,0,0,0,0,0,0,0,0,isalpha function vs sys.stdin with ascii_val arithmetic; unrelated.,0
+759949.py,793214.py,0,0,0,0,0,0,0,0,Alphabet-string membership test vs ord/chr arithmetic with semicolons; independent.,0
+134397.py,777371.py,0,0,0,0,0,0,0,0,Immediate printing with a %2 counter vs the sw string-building template; independent.,0
+684545.py,777277.py,0,0,0,0,0,0,0,0,Commented isalpha function vs the imperative sw template; independent.,0
+761518.py,788716.py,0,0,0,0,0,0,0,0,cont 0/1 with a space test vs a boolean with an ord()!=32 test; different details and naming.,0
+134105.py,759951.py,0,0,0,0,0,0,0,0,Idiosyncratic aux=2/aux=1 reassignment logic vs a clean isalpha function; unrelated.,0
+682525.py,799085.py,0,0,0,0,0,0,0,0,List-mutating bailarin() that prints in place vs ord arithmetic with a t=1-t toggle; different.,0
+147899.py,787890.py,0,0,0,0,0,0,0,0,Counter incremented only on letters but applied to every character vs an explicit True/False boolean; different logic.,0
+684366.py,743010.py,0,0,0,0,0,0,0,0,Commented isalpha function vs the lowercase-first counter template; unrelated.,0
+143376.py,782144.py,0,0,0,0,0,0,0,0,c=-1 sign-flip toggle vs s=(s+1)%2; different techniques despite both using a helper function.,0
+143835.py,691074.py,0,0,0,0,0,0,0,0,ord-range cascade vs a short isalpha function; unrelated.,0
+685184.py,777303.py,0,0,0,0,0,0,0,0,isalpha function vs the imperative sw template; independent.,0
+685184.py,692262.py,0,0,0,0,0,0,0,0,"Both isalpha toggle functions, but different names, parameter names and comments; convergent.",0
+143425.py,681835.py,0,0,0,0,0,0,0,0,ord-range cascade vs an isalpha function with blank lines between statements; unrelated.,0
+132456.py,681679.py,0,0,0,0,0,0,0,0,Lowercase-first counter template vs a commented isalpha function; independent.,0
+777795.py,777811.py,1,1,0,0,0,0,0,0,"Byte-for-byte identical, including the semicolon-packed declaration line.",1
+684272.py,761518.py,0,0,0,0,0,0,0,0,Heavily commented function with list/join vs a terse inline cont 0/1 loop; unrelated.,0
+777253.py,777257.py,1,0,1,1,0,0,0,0,Same template line-for-line including the sw annotation idea; accumulator renamed and '#INICIO/#FIN' comments added.,1
+143807.py,687148.py,0,0,0,0,0,0,0,0,ord-range cascade vs a short isalpha function; unrelated.,0
+147367.py,777281.py,0,0,0,0,0,0,0,0,Converts to a list and appends into a new list with join vs direct string concatenation with sw; different.,0
+134322.py,777371.py,0,0,0,0,0,0,0,0,Immediate printing with a %2 counter vs the sw string-building template; independent.,0
+143425.py,143797.py,1,1,0,0,0,0,0,0,"Byte-for-byte identical, including the identical ord-range four-branch cascade.",1
+711015.py,778654.py,0,0,0,0,0,0,0,0,ord/chr arithmetic in a while loop vs a simple contador with continue; unrelated.,0
+777839.py,777882.py,1,0,1,1,1,0,0,0,"Same cad/baile/sw template with identical identifiers; differs in formatting, the '#inicio/#fin' comments and the loop bound range(0,n+1) vs range(1,n+1).",1
+744343.py,777234.py,0,0,0,0,0,0,0,0,isalpha function with an early return vs the imperative sw template; independent.,0
+134397.py,777440.py,0,0,0,0,0,0,0,0,Immediate printing with a counter vs the sw string-building template; independent.,0
+777320.py,777321.py,1,1,0,0,0,0,0,0,"Byte-for-byte identical, including the '#inicio'/'#fin' comments.",1
+682525.py,801329.py,0,0,0,0,0,0,0,0,List-mutating print-in-place function vs solve() with abs(sw-1) and a special-case guard; different.,0
+143839.py,792290.py,0,0,0,0,0,0,0,0,"while loop with index and y flag vs a for loop with a list, continue and join; different.",0
+147214.py,762232.py,0,0,0,0,0,0,0,0,Immediate printing with c%2 and three branches vs a function building a string with sw and continue; independent.,0

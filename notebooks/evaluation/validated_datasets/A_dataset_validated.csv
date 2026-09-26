@@ -1,73 +1,73 @@
 File_1,File_2,Label,L0,L1,L2,L3,L4,L5,L6,Notes,Human_Label
-base1_original.py,base1_L1a.py,1,0,1,0,0,0,0,0,"reasoned by Claude (Faidhi&Robinson), family=base1",1
-base1_original.py,base1_L1b.py,1,0,1,0,0,0,0,0,"reasoned by Claude (Faidhi&Robinson), family=base1",1
-base1_original.py,base1_L2a.py,1,0,0,1,0,0,0,0,"reasoned by Claude (Faidhi&Robinson), family=base1",1
-base1_original.py,base1_L3a.py,1,0,0,0,1,0,0,0,"reasoned by Claude (Faidhi&Robinson), family=base1",1
-base1_original.py,base1_L3b.py,1,0,0,0,1,1,0,0,"reasoned by Claude (Faidhi&Robinson), family=base1",1
-base1_original.py,base1_L4a.py,1,0,0,0,0,1,0,0,"reasoned by Claude (Faidhi&Robinson), family=base1",1
-base1_original.py,base1_L5a.py,1,0,0,0,0,0,1,0,"reasoned by Claude (Faidhi&Robinson), family=base1",1
-base1_original.py,base1_L6a.py,1,0,1,0,0,0,0,0,"reasoned by Claude (Faidhi&Robinson), family=base1",1
-base1_L1a.py,base1_L1b.py,1,0,1,0,0,0,0,0,"reasoned by Claude (Faidhi&Robinson), family=base1",1
-base1_L1a.py,base1_L2a.py,1,0,1,1,0,0,0,0,"reasoned by Claude (Faidhi&Robinson), family=base1",1
-base1_L1a.py,base1_L3a.py,1,0,1,0,1,0,0,0,"reasoned by Claude (Faidhi&Robinson), family=base1",1
-base1_L1a.py,base1_L3b.py,1,0,1,0,1,1,0,0,"reasoned by Claude (Faidhi&Robinson), family=base1",1
-base1_L1a.py,base1_L4a.py,1,0,1,0,0,1,0,0,"reasoned by Claude (Faidhi&Robinson), family=base1",1
-base1_L1a.py,base1_L5a.py,1,0,1,0,0,0,1,0,"reasoned by Claude (Faidhi&Robinson), family=base1",1
-base1_L1a.py,base1_L6a.py,1,0,1,0,0,0,0,0,"reasoned by Claude (Faidhi&Robinson), family=base1",1
-base1_L1b.py,base1_L2a.py,1,0,1,1,0,0,0,0,"reasoned by Claude (Faidhi&Robinson), family=base1",1
-base1_L1b.py,base1_L3a.py,1,0,1,0,1,0,0,0,"reasoned by Claude (Faidhi&Robinson), family=base1",1
-base1_L1b.py,base1_L3b.py,1,0,1,0,1,1,0,0,"reasoned by Claude (Faidhi&Robinson), family=base1",1
-base1_L1b.py,base1_L4a.py,1,0,1,0,0,1,0,0,"reasoned by Claude (Faidhi&Robinson), family=base1",1
-base1_L1b.py,base1_L5a.py,1,0,1,0,0,0,1,0,"reasoned by Claude (Faidhi&Robinson), family=base1",1
-base1_L1b.py,base1_L6a.py,1,0,1,0,0,0,0,0,"reasoned by Claude (Faidhi&Robinson), family=base1",1
-base1_L2a.py,base1_L3a.py,1,0,0,1,1,0,0,0,"reasoned by Claude (Faidhi&Robinson), family=base1",1
-base1_L2a.py,base1_L3b.py,1,0,0,1,1,1,0,0,"reasoned by Claude (Faidhi&Robinson), family=base1",1
-base1_L2a.py,base1_L4a.py,1,0,0,1,0,1,0,0,"reasoned by Claude (Faidhi&Robinson), family=base1",1
-base1_L2a.py,base1_L5a.py,1,0,0,1,0,0,1,0,"reasoned by Claude (Faidhi&Robinson), family=base1",1
-base1_L2a.py,base1_L6a.py,1,0,1,1,0,0,0,0,"reasoned by Claude (Faidhi&Robinson), family=base1",1
-base1_L3a.py,base1_L3b.py,1,0,0,0,0,1,0,0,"reasoned by Claude (Faidhi&Robinson), family=base1",1
-base1_L3a.py,base1_L4a.py,1,0,0,0,1,1,0,0,"reasoned by Claude (Faidhi&Robinson), family=base1",1
-base1_L3a.py,base1_L5a.py,1,0,0,0,1,0,1,0,"reasoned by Claude (Faidhi&Robinson), family=base1",1
-base1_L3a.py,base1_L6a.py,1,0,1,0,1,0,0,0,"reasoned by Claude (Faidhi&Robinson), family=base1",1
-base1_L3b.py,base1_L4a.py,1,0,0,0,1,1,0,0,"reasoned by Claude (Faidhi&Robinson), family=base1",1
-base1_L3b.py,base1_L5a.py,1,0,0,0,1,1,1,0,"reasoned by Claude (Faidhi&Robinson), family=base1",1
-base1_L3b.py,base1_L6a.py,1,0,1,0,1,1,0,0,"reasoned by Claude (Faidhi&Robinson), family=base1",1
-base1_L4a.py,base1_L5a.py,1,0,0,0,0,1,1,0,"reasoned by Claude (Faidhi&Robinson), family=base1",1
-base1_L4a.py,base1_L6a.py,1,0,1,0,0,1,0,0,"reasoned by Claude (Faidhi&Robinson), family=base1",1
-base1_L5a.py,base1_L6a.py,1,0,1,0,0,0,1,0,"reasoned by Claude (Faidhi&Robinson), family=base1",1
-base1_L2a.py,base2_L1.py,0,0,0,0,0,0,0,0,cross-family negative (unrelated base algorithms),0
-base1_original.py,base2_original.py,0,0,0,0,0,0,0,0,cross-family negative (unrelated base algorithms),0
-base1_L3b.py,base2_L4.py,0,0,0,0,0,0,0,0,cross-family negative (unrelated base algorithms),0
-base1_L5a.py,base2_L1.py,0,0,0,0,0,0,0,0,cross-family negative (unrelated base algorithms),0
-base1_L3a.py,base2_L5.py,0,0,0,0,0,0,0,0,cross-family negative (unrelated base algorithms),0
-base1_L1b.py,base2_L6.py,0,0,0,0,0,0,0,0,cross-family negative (unrelated base algorithms),0
-base1_L5a.py,base2_L3.py,0,0,0,0,0,0,0,0,cross-family negative (unrelated base algorithms),0
-base1_L4a.py,base2_original.py,0,0,0,0,0,0,0,0,cross-family negative (unrelated base algorithms),0
-base1_L5a.py,base2_L6.py,0,0,0,0,0,0,0,0,cross-family negative (unrelated base algorithms),0
-base1_L1b.py,base2_L3.py,0,0,0,0,0,0,0,0,cross-family negative (unrelated base algorithms),0
-base1_original.py,base2_L1.py,0,0,0,0,0,0,0,0,cross-family negative (unrelated base algorithms),0
-base1_L4a.py,base2_L5.py,0,0,0,0,0,0,0,0,cross-family negative (unrelated base algorithms),0
-base1_L2a.py,base3_L2.py,0,0,0,0,0,0,0,0,cross-family negative (unrelated base algorithms),0
-base1_L5a.py,base3_L4.py,0,0,0,0,0,0,0,0,cross-family negative (unrelated base algorithms),0
-base1_original.py,base3_original.py,0,0,0,0,0,0,0,0,cross-family negative (unrelated base algorithms),0
-base1_L2a.py,base3_L5.py,0,0,0,0,0,0,0,0,cross-family negative (unrelated base algorithms),0
-base1_L6a.py,base3_L3.py,0,0,0,0,0,0,0,0,cross-family negative (unrelated base algorithms),0
-base1_L1b.py,base3_L2.py,0,0,0,0,0,0,0,0,cross-family negative (unrelated base algorithms),0
-base1_L1a.py,base3_L4.py,0,0,0,0,0,0,0,0,cross-family negative (unrelated base algorithms),0
-base1_L1a.py,base3_L3.py,0,0,0,0,0,0,0,0,cross-family negative (unrelated base algorithms),0
-base1_L3a.py,base3_L4.py,0,0,0,0,0,0,0,0,cross-family negative (unrelated base algorithms),0
-base1_L1a.py,base3_L6.py,0,0,0,0,0,0,0,0,cross-family negative (unrelated base algorithms),0
-base1_L6a.py,base3_original.py,0,0,0,0,0,0,0,0,cross-family negative (unrelated base algorithms),0
-base1_L5a.py,base3_L6.py,0,0,0,0,0,0,0,0,cross-family negative (unrelated base algorithms),0
-base2_L4.py,base3_original.py,0,0,0,0,0,0,0,0,cross-family negative (unrelated base algorithms),0
-base2_original.py,base3_L4.py,0,0,0,0,0,0,0,0,cross-family negative (unrelated base algorithms),0
-base2_L6.py,base3_L3.py,0,0,0,0,0,0,0,0,cross-family negative (unrelated base algorithms),0
-base2_original.py,base3_L5.py,0,0,0,0,0,0,0,0,cross-family negative (unrelated base algorithms),0
-base2_original.py,base3_L2.py,0,0,0,0,0,0,0,0,cross-family negative (unrelated base algorithms),0
-base2_L5.py,base3_L5.py,0,0,0,0,0,0,0,0,cross-family negative (unrelated base algorithms),0
-base2_L5.py,base3_L1.py,0,0,0,0,0,0,0,0,cross-family negative (unrelated base algorithms),0
-base2_L4.py,base3_L2.py,0,0,0,0,0,0,0,0,cross-family negative (unrelated base algorithms),0
-base2_L1.py,base3_L6.py,0,0,0,0,0,0,0,0,cross-family negative (unrelated base algorithms),0
-base2_L3.py,base3_L3.py,0,0,0,0,0,0,0,0,cross-family negative (unrelated base algorithms),0
-base2_L2.py,base3_L1.py,0,0,0,0,0,0,0,0,cross-family negative (unrelated base algorithms),0
-base2_L5.py,base3_L6.py,0,0,0,0,0,0,0,0,cross-family negative (unrelated base algorithms),0
+base2_L4.py,base3_original.py,0,0,0,0,0,0,0,0,"Solves a completely different task (happy-number classification printing Feliz/Triste vs counting swaps/inversions while sorting an array); no shared identifiers, comments or technique - independent.",0
+base1_L5a.py,base2_L1.py,0,0,0,0,0,0,0,0,"Solves a completely different task (a fixed 10-iteration parity accumulation loop vs happy-number classification printing Feliz/Triste); no shared identifiers, comments or technique - independent.",0
+base2_L3.py,base3_L3.py,0,0,0,0,0,0,0,0,"Solves a completely different task (happy-number classification printing Feliz/Triste vs counting swaps/inversions while sorting an array); no shared identifiers, comments or technique - independent.",0
+base1_L3a.py,base1_L6a.py,1,0,1,1,1,0,0,0,"Same 10-line skeleton, same 'foo 1'/'foo 2' comments and same res/b/a/i variable lineage; differs only by the two initialisations swapped, parenthesised expressions and += instead of res = res + a; max divergence L3.",1
+base1_L1b.py,base1_L3b.py,1,0,1,1,1,0,0,0,"Same 10-line skeleton, same 'foo 1'/'foo 2' comments and same res/b/a/i variable lineage; differs only by comment/whitespace edits, the two initialisations swapped, one extra unused assignment inserted; max divergence L3.",1
+base1_L1b.py,base2_L3.py,0,0,0,0,0,0,0,0,"Solves a completely different task (a fixed 10-iteration parity accumulation loop vs happy-number classification printing Feliz/Triste); no shared identifiers, comments or technique - independent.",0
+base1_L3a.py,base2_L5.py,0,0,0,0,0,0,0,0,"Solves a completely different task (a fixed 10-iteration parity accumulation loop vs happy-number classification printing Feliz/Triste); no shared identifiers, comments or technique - independent.",0
+base1_L2a.py,base1_L4a.py,1,0,1,1,1,1,0,0,"Same 10-line skeleton, same 'foo 1'/'foo 2' comments and same res/b/a/i variable lineage; differs only by systematic identifier renaming (res/b/a/i -> x/e/c/j), the loop body extracted into / inlined out of a function; max divergence L4.",1
+base2_original.py,base3_L5.py,0,0,0,0,0,0,0,0,"Solves a completely different task (happy-number classification printing Feliz/Triste vs counting swaps/inversions while sorting an array); no shared identifiers, comments or technique - independent.",0
+base1_original.py,base1_L6a.py,1,0,1,0,0,0,0,0,"Same 10-line skeleton, same 'foo 1'/'foo 2' comments and same res/b/a/i variable lineage; differs only by comment/whitespace edits, parenthesised expressions and += instead of res = res + a; max divergence L1.",1
+base2_L4.py,base3_L2.py,0,0,0,0,0,0,0,0,"Solves a completely different task (happy-number classification printing Feliz/Triste vs counting swaps/inversions while sorting an array); no shared identifiers, comments or technique - independent.",0
+base1_L1a.py,base3_L3.py,0,0,0,0,0,0,0,0,"Solves a completely different task (a fixed 10-iteration parity accumulation loop vs counting swaps/inversions while sorting an array); no shared identifiers, comments or technique - independent.",0
+base1_L1a.py,base1_L6a.py,1,0,1,0,0,0,0,0,"Same 10-line skeleton, same 'foo 1'/'foo 2' comments and same res/b/a/i variable lineage; differs only by comment/whitespace edits, parenthesised expressions and += instead of res = res + a; max divergence L1.",1
+base1_original.py,base2_original.py,0,0,0,0,0,0,0,0,"Solves a completely different task (a fixed 10-iteration parity accumulation loop vs happy-number classification printing Feliz/Triste); no shared identifiers, comments or technique - independent.",0
+base1_L2a.py,base1_L3b.py,1,0,1,1,1,0,0,0,"Same 10-line skeleton, same 'foo 1'/'foo 2' comments and same res/b/a/i variable lineage; differs only by systematic identifier renaming (res/b/a/i -> x/e/c/j), the two initialisations swapped, one extra unused assignment inserted; max divergence L3.",1
+base2_L5.py,base3_L1.py,0,0,0,0,0,0,0,0,"Solves a completely different task (happy-number classification printing Feliz/Triste vs counting swaps/inversions while sorting an array); no shared identifiers, comments or technique - independent.",0
+base1_L1a.py,base1_L4a.py,1,0,1,1,1,1,0,0,"Same 10-line skeleton, same 'foo 1'/'foo 2' comments and same res/b/a/i variable lineage; differs only by comment/whitespace edits, the loop body extracted into / inlined out of a function; max divergence L4.",1
+base2_original.py,base3_L4.py,0,0,0,0,0,0,0,0,"Solves a completely different task (happy-number classification printing Feliz/Triste vs counting swaps/inversions while sorting an array); no shared identifiers, comments or technique - independent.",0
+base1_L3b.py,base1_L5a.py,1,0,1,1,1,1,1,0,"Same 10-line skeleton, same 'foo 1'/'foo 2' comments and same res/b/a/i variable lineage; differs only by the two initialisations swapped, one extra unused assignment inserted, the counting for-loop rewritten as an equivalent while-loop; max divergence L5.",1
+base1_L3a.py,base3_L4.py,0,0,0,0,0,0,0,0,"Solves a completely different task (a fixed 10-iteration parity accumulation loop vs counting swaps/inversions while sorting an array); no shared identifiers, comments or technique - independent.",0
+base1_L2a.py,base1_L6a.py,1,0,1,1,0,0,0,0,"Same 10-line skeleton, same 'foo 1'/'foo 2' comments and same res/b/a/i variable lineage; differs only by systematic identifier renaming (res/b/a/i -> x/e/c/j), parenthesised expressions and += instead of res = res + a; max divergence L2.",1
+base1_L4a.py,base2_original.py,0,0,0,0,0,0,0,0,"Solves a completely different task (a fixed 10-iteration parity accumulation loop vs happy-number classification printing Feliz/Triste); no shared identifiers, comments or technique - independent.",0
+base1_L1b.py,base1_L5a.py,1,0,1,1,1,1,1,0,"Same 10-line skeleton, same 'foo 1'/'foo 2' comments and same res/b/a/i variable lineage; differs only by comment/whitespace edits, the counting for-loop rewritten as an equivalent while-loop; max divergence L5.",1
+base1_L1b.py,base2_L6.py,0,0,0,0,0,0,0,0,"Solves a completely different task (a fixed 10-iteration parity accumulation loop vs happy-number classification printing Feliz/Triste); no shared identifiers, comments or technique - independent.",0
+base1_L1b.py,base3_L2.py,0,0,0,0,0,0,0,0,"Solves a completely different task (a fixed 10-iteration parity accumulation loop vs counting swaps/inversions while sorting an array); no shared identifiers, comments or technique - independent.",0
+base1_L3b.py,base1_L6a.py,1,0,1,1,1,0,0,0,"Same 10-line skeleton, same 'foo 1'/'foo 2' comments and same res/b/a/i variable lineage; differs only by the two initialisations swapped, one extra unused assignment inserted, parenthesised expressions and += instead of res = res + a; max divergence L3.",1
+base2_L1.py,base3_L6.py,0,0,0,0,0,0,0,0,"Solves a completely different task (happy-number classification printing Feliz/Triste vs counting swaps/inversions while sorting an array); no shared identifiers, comments or technique - independent.",0
+base1_L4a.py,base2_L5.py,0,0,0,0,0,0,0,0,"Solves a completely different task (a fixed 10-iteration parity accumulation loop vs happy-number classification printing Feliz/Triste); no shared identifiers, comments or technique - independent.",0
+base1_original.py,base2_L1.py,0,0,0,0,0,0,0,0,"Solves a completely different task (a fixed 10-iteration parity accumulation loop vs happy-number classification printing Feliz/Triste); no shared identifiers, comments or technique - independent.",0
+base1_L2a.py,base2_L1.py,0,0,0,0,0,0,0,0,"Solves a completely different task (a fixed 10-iteration parity accumulation loop vs happy-number classification printing Feliz/Triste); no shared identifiers, comments or technique - independent.",0
+base1_L3a.py,base1_L3b.py,1,0,1,1,1,0,0,0,"Same 10-line skeleton, same 'foo 1'/'foo 2' comments and same res/b/a/i variable lineage; differs only by one extra unused assignment inserted; max divergence L3.",1
+base1_L4a.py,base1_L5a.py,1,0,1,1,1,1,1,0,"Same 10-line skeleton, same 'foo 1'/'foo 2' comments and same res/b/a/i variable lineage; differs only by the counting for-loop rewritten as an equivalent while-loop; max divergence L5.",1
+base1_L1b.py,base1_L3a.py,1,0,1,1,1,0,0,0,"Same 10-line skeleton, same 'foo 1'/'foo 2' comments and same res/b/a/i variable lineage; differs only by comment/whitespace edits, the two initialisations swapped; max divergence L3.",1
+base1_L3b.py,base1_L4a.py,1,0,1,1,1,1,0,0,"Same 10-line skeleton, same 'foo 1'/'foo 2' comments and same res/b/a/i variable lineage; differs only by the two initialisations swapped, one extra unused assignment inserted, the loop body extracted into / inlined out of a function; max divergence L4.",1
+base1_original.py,base3_original.py,0,0,0,0,0,0,0,0,"Solves a completely different task (a fixed 10-iteration parity accumulation loop vs counting swaps/inversions while sorting an array); no shared identifiers, comments or technique - independent.",0
+base1_L1b.py,base1_L4a.py,1,0,1,1,1,1,0,0,"Same 10-line skeleton, same 'foo 1'/'foo 2' comments and same res/b/a/i variable lineage; differs only by comment/whitespace edits, the loop body extracted into / inlined out of a function; max divergence L4.",1
+base1_original.py,base1_L1b.py,1,0,1,0,0,0,0,0,"Same 10-line skeleton, same 'foo 1'/'foo 2' comments and same res/b/a/i variable lineage; differs only by comment/whitespace edits; max divergence L1.",1
+base1_L6a.py,base3_original.py,0,0,0,0,0,0,0,0,"Solves a completely different task (a fixed 10-iteration parity accumulation loop vs counting swaps/inversions while sorting an array); no shared identifiers, comments or technique - independent.",0
+base1_L1a.py,base1_L2a.py,1,0,1,1,0,0,0,0,"Same 10-line skeleton, same 'foo 1'/'foo 2' comments and same res/b/a/i variable lineage; differs only by comment/whitespace edits, systematic identifier renaming (res/b/a/i -> x/e/c/j); max divergence L2.",1
+base2_original.py,base3_L2.py,0,0,0,0,0,0,0,0,"Solves a completely different task (happy-number classification printing Feliz/Triste vs counting swaps/inversions while sorting an array); no shared identifiers, comments or technique - independent.",0
+base1_original.py,base1_L2a.py,1,0,1,1,0,0,0,0,"Same 10-line skeleton, same 'foo 1'/'foo 2' comments and same res/b/a/i variable lineage; differs only by systematic identifier renaming (res/b/a/i -> x/e/c/j); max divergence L2.",1
+base2_L5.py,base3_L6.py,0,0,0,0,0,0,0,0,"Solves a completely different task (happy-number classification printing Feliz/Triste vs counting swaps/inversions while sorting an array); no shared identifiers, comments or technique - independent.",0
+base1_L3a.py,base1_L5a.py,1,0,1,1,1,1,1,0,"Same 10-line skeleton, same 'foo 1'/'foo 2' comments and same res/b/a/i variable lineage; differs only by the two initialisations swapped, the counting for-loop rewritten as an equivalent while-loop; max divergence L5.",1
+base1_L1b.py,base1_L6a.py,1,0,1,0,0,0,0,0,"Same 10-line skeleton, same 'foo 1'/'foo 2' comments and same res/b/a/i variable lineage; differs only by comment/whitespace edits, parenthesised expressions and += instead of res = res + a; max divergence L1.",1
+base1_L2a.py,base3_L5.py,0,0,0,0,0,0,0,0,"Solves a completely different task (a fixed 10-iteration parity accumulation loop vs counting swaps/inversions while sorting an array); no shared identifiers, comments or technique - independent.",0
+base2_L5.py,base3_L5.py,0,0,0,0,0,0,0,0,"Solves a completely different task (happy-number classification printing Feliz/Triste vs counting swaps/inversions while sorting an array); no shared identifiers, comments or technique - independent.",0
+base1_L2a.py,base1_L5a.py,1,0,1,1,1,1,1,0,"Same 10-line skeleton, same 'foo 1'/'foo 2' comments and same res/b/a/i variable lineage; differs only by systematic identifier renaming (res/b/a/i -> x/e/c/j), the counting for-loop rewritten as an equivalent while-loop; max divergence L5.",1
+base1_L3b.py,base2_L4.py,0,0,0,0,0,0,0,0,"Solves a completely different task (a fixed 10-iteration parity accumulation loop vs happy-number classification printing Feliz/Triste); no shared identifiers, comments or technique - independent.",0
+base1_original.py,base1_L4a.py,1,0,1,1,1,1,0,0,"Same 10-line skeleton, same 'foo 1'/'foo 2' comments and same res/b/a/i variable lineage; differs only by the loop body extracted into / inlined out of a function; max divergence L4.",1
+base1_L5a.py,base3_L4.py,0,0,0,0,0,0,0,0,"Solves a completely different task (a fixed 10-iteration parity accumulation loop vs counting swaps/inversions while sorting an array); no shared identifiers, comments or technique - independent.",0
+base1_L3a.py,base1_L4a.py,1,0,1,1,1,1,0,0,"Same 10-line skeleton, same 'foo 1'/'foo 2' comments and same res/b/a/i variable lineage; differs only by the two initialisations swapped, the loop body extracted into / inlined out of a function; max divergence L4.",1
+base1_original.py,base1_L1a.py,1,0,1,0,0,0,0,0,"Same 10-line skeleton, same 'foo 1'/'foo 2' comments and same res/b/a/i variable lineage; differs only by comment/whitespace edits; max divergence L1.",1
+base1_L5a.py,base3_L6.py,0,0,0,0,0,0,0,0,"Solves a completely different task (a fixed 10-iteration parity accumulation loop vs counting swaps/inversions while sorting an array); no shared identifiers, comments or technique - independent.",0
+base1_L1b.py,base1_L2a.py,1,0,1,1,0,0,0,0,"Same 10-line skeleton, same 'foo 1'/'foo 2' comments and same res/b/a/i variable lineage; differs only by comment/whitespace edits, systematic identifier renaming (res/b/a/i -> x/e/c/j); max divergence L2.",1
+base1_L5a.py,base2_L6.py,0,0,0,0,0,0,0,0,"Solves a completely different task (a fixed 10-iteration parity accumulation loop vs happy-number classification printing Feliz/Triste); no shared identifiers, comments or technique - independent.",0
+base1_L1a.py,base3_L6.py,0,0,0,0,0,0,0,0,"Solves a completely different task (a fixed 10-iteration parity accumulation loop vs counting swaps/inversions while sorting an array); no shared identifiers, comments or technique - independent.",0
+base1_L5a.py,base1_L6a.py,1,0,1,1,1,1,1,0,"Same 10-line skeleton, same 'foo 1'/'foo 2' comments and same res/b/a/i variable lineage; differs only by parenthesised expressions and += instead of res = res + a, the counting for-loop rewritten as an equivalent while-loop; max divergence L5.",1
+base2_L6.py,base3_L3.py,0,0,0,0,0,0,0,0,"Solves a completely different task (happy-number classification printing Feliz/Triste vs counting swaps/inversions while sorting an array); no shared identifiers, comments or technique - independent.",0
+base1_L1a.py,base1_L1b.py,1,0,1,0,0,0,0,0,"Same 10-line skeleton, same 'foo 1'/'foo 2' comments and same res/b/a/i variable lineage; differs only by comment/whitespace edits; max divergence L1.",1
+base1_L1a.py,base1_L3a.py,1,0,1,1,1,0,0,0,"Same 10-line skeleton, same 'foo 1'/'foo 2' comments and same res/b/a/i variable lineage; differs only by comment/whitespace edits, the two initialisations swapped; max divergence L3.",1
+base1_original.py,base1_L3a.py,1,0,1,1,1,0,0,0,"Same 10-line skeleton, same 'foo 1'/'foo 2' comments and same res/b/a/i variable lineage; differs only by the two initialisations swapped; max divergence L3.",1
+base1_L1a.py,base3_L4.py,0,0,0,0,0,0,0,0,"Solves a completely different task (a fixed 10-iteration parity accumulation loop vs counting swaps/inversions while sorting an array); no shared identifiers, comments or technique - independent.",0
+base1_L2a.py,base1_L3a.py,1,0,1,1,1,0,0,0,"Same 10-line skeleton, same 'foo 1'/'foo 2' comments and same res/b/a/i variable lineage; differs only by systematic identifier renaming (res/b/a/i -> x/e/c/j), the two initialisations swapped; max divergence L3.",1
+base1_L5a.py,base2_L3.py,0,0,0,0,0,0,0,0,"Solves a completely different task (a fixed 10-iteration parity accumulation loop vs happy-number classification printing Feliz/Triste); no shared identifiers, comments or technique - independent.",0
+base1_L2a.py,base3_L2.py,0,0,0,0,0,0,0,0,"Solves a completely different task (a fixed 10-iteration parity accumulation loop vs counting swaps/inversions while sorting an array); no shared identifiers, comments or technique - independent.",0
+base1_original.py,base1_L3b.py,1,0,1,1,1,0,0,0,"Same 10-line skeleton, same 'foo 1'/'foo 2' comments and same res/b/a/i variable lineage; differs only by the two initialisations swapped, one extra unused assignment inserted; max divergence L3.",1
+base1_L1a.py,base1_L5a.py,1,0,1,1,1,1,1,0,"Same 10-line skeleton, same 'foo 1'/'foo 2' comments and same res/b/a/i variable lineage; differs only by comment/whitespace edits, the counting for-loop rewritten as an equivalent while-loop; max divergence L5.",1
+base2_L2.py,base3_L1.py,0,0,0,0,0,0,0,0,"Solves a completely different task (happy-number classification printing Feliz/Triste vs counting swaps/inversions while sorting an array); no shared identifiers, comments or technique - independent.",0
+base1_L6a.py,base3_L3.py,0,0,0,0,0,0,0,0,"Solves a completely different task (a fixed 10-iteration parity accumulation loop vs counting swaps/inversions while sorting an array); no shared identifiers, comments or technique - independent.",0
+base1_L1a.py,base1_L3b.py,1,0,1,1,1,0,0,0,"Same 10-line skeleton, same 'foo 1'/'foo 2' comments and same res/b/a/i variable lineage; differs only by comment/whitespace edits, the two initialisations swapped, one extra unused assignment inserted; max divergence L3.",1
+base1_L4a.py,base1_L6a.py,1,0,1,1,1,1,0,0,"Same 10-line skeleton, same 'foo 1'/'foo 2' comments and same res/b/a/i variable lineage; differs only by parenthesised expressions and += instead of res = res + a, the loop body extracted into / inlined out of a function; max divergence L4.",1
+base1_original.py,base1_L5a.py,1,0,1,1,1,1,1,0,"Same 10-line skeleton, same 'foo 1'/'foo 2' comments and same res/b/a/i variable lineage; differs only by the counting for-loop rewritten as an equivalent while-loop; max divergence L5.",1
