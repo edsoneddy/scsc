@@ -6,8 +6,9 @@ from .lf_adapter import LfAdapter
 from .gst_adapter import GstAdapter
 from .trs_adapter import TrsAdapter
 from .csim_adapter import CsimAdapter
-from .constants import END_COLOR, DELETE_TEXT_COLOR, ADD_TEXT_COLOR
+from .constants import END_COLOR, DELETE_TEXT_COLOR, ADD_TEXT_COLOR, INFO_TEXT_COLOR, SUPPORTED_METHODS
 import csv
+import os
 
 def get_similarity_method(method):
     if method == 'ted':
@@ -124,9 +125,24 @@ def similarity_checker(file_names, file_contents, args):
     csv_file = args.all
     method = args.method
     threshold = args.threshold
-    similarity_output = ""
-    if csv_file:
-        similarity_output = full_comparison_output(file_names, file_contents, method, csv_file)
-    else:
-        similarity_output = efficient_comparison_output(file_names, file_contents, method, threshold)
-    return similarity_output
+
+    methods = SUPPORTED_METHODS if method == "all" else [method]
+    outputs = []
+
+    for m in methods:
+        if csv_file:
+            # Run every method into its own CSV so they don't clobber
+            # each other: results.csv -> results_ted.csv, results_mdiff.csv, ...
+            target_csv = csv_file
+            if method == "all":
+                base, ext = os.path.splitext(csv_file)
+                target_csv = f"{base}_{m}{ext}"
+            output = full_comparison_output(file_names, file_contents, m, target_csv)
+        else:
+            output = efficient_comparison_output(file_names, file_contents, m, threshold)
+
+        if method == "all":
+            output = f"{INFO_TEXT_COLOR}=== {m} ==={END_COLOR}\n{output}"
+        outputs.append(output)
+
+    return "\n".join(outputs)

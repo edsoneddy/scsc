@@ -1,6 +1,7 @@
 import argparse
 from .file_utils import process_files, get_file, get_threshold
 from .similarity import similarity_checker
+from .constants import SUPPORTED_METHODS
 
 def main():
     """
@@ -10,7 +11,7 @@ def main():
         --files, -f (str, nargs=2): The input two files to compare.
         --recursive, -r (bool): Recursively search through directories.
         --threshold, -t (float): The similarity threshold (default: 0.75, range: 0.0 - 1.0).
-        --method, -m (str): The method to use for similarity detection (default: ted).
+        --method, -m (str): The method to use for similarity detection (default: ted). Pass 'all' to run every supported method.
     Returns:
         None
     """
@@ -33,7 +34,7 @@ def main():
     parser.add_argument('--threshold', '-t', type=get_threshold, default=0.85, help='The similarity threshold (default: 0.75, range: 0.0 - 1.0)')
     
     # Add the 'method' argument
-    parser.add_argument('--method', '-m', type=str, choices=['ted', 'gst', 'lf', 'trs', 'mdiff', 'csim'], default='ted', help='The method to use for similarity detection (default: ted)')
+    parser.add_argument('--method', '-m', type=str, choices=SUPPORTED_METHODS + ['all'], default='ted', help="The method to use for similarity detection (default: ted). Use 'all' to run every method")
 
     # Add the full comparison argument
     parser.add_argument('--all', '-a', type=str, help='Compare each file with every other file and output the results to the specified CSV file')

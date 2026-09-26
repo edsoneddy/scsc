@@ -1,7 +1,7 @@
 from .constants import IRRELEVANT_TOKENS, TOKENS_WITHOUT_TRANSFORMATION
 from pygments import lex
 from pygments.token import STANDARD_TYPES
-from pygments.lexers import guess_lexer
+from pygments.lexers import PythonLexer
 from csim import ANTLR_parse
 from csim import Normalize, PruneAndHash
 from .gst_adapter import SignatureFactory
@@ -13,6 +13,7 @@ class CodePreprocessor:
     def __init__(self, method):
         self.method = method
         self.token_table = self.create_token_table()
+        self.lexer = PythonLexer()
 
     def add_main(self, source_code):
         if ('def main():' in source_code):
@@ -33,13 +34,23 @@ class CodePreprocessor:
         return token_table
 
     def tokenize_code(self, code_string):
-        lexer = guess_lexer(code_string)
         tokens = []
 
-        for token in lex(code_string, lexer):
+        for token in lex(code_string, self.lexer):
             token_type = token[0]
             token_str = token[1]
-            if token_type not in IRRELEVANT_TOKENS:
+            # Whitespace-only tokens (spaces, tabs, newlines, indentation)
+            # carry no code meaning but occupy real positions in the token
+            # sequence, so they must be dropped rather than merely
+            # "not transformed" - otherwise formatting-only differences
+            # (e.g. spaces around an operator) misalign token-position-based
+            # comparisons like trs's shingles.
+            # Pygments token types are hierarchical (e.g. a "#..." comment is
+            # Token.Comment.Single, a child of Token.Comment): membership must
+            # use pygments' own containment check, not plain set membership,
+            # or subtypes like Comment.Single silently bypass the filter.
+            is_irrelevant = any(token_type in irrelevant for irrelevant in IRRELEVANT_TOKENS)
+            if not is_irrelevant and token_str.strip() != '':
                 # TODO: the token table should be created based on the tokens found in the code
                 if token_type in TOKENS_WITHOUT_TRANSFORMATION or not token_type in self.token_table:
                     token_content = [token_str, token_str]
@@ -50,12 +61,17 @@ class CodePreprocessor:
         return tokens
     
     def tokenize_and_hash_code(self, code_string):
-        # Tokenize the code string and hash the tokens
+        # Hash only the generalized type (token[0]), not the literal text
+        # (token[1]): identifiers are generalized to a shared type id
+        # precisely so renamed variables still match, but hashing the full
+        # (type, literal) pair - as mdiff's compare() deliberately avoids by
+        # only ever looking at token[0] - would hash the literal name back in
+        # and defeat that generalization.
         tokens = self.tokenize_code(code_string)
-        token_hashes = [hash(tuple(token)) for token in tokens]
+        token_hashes = [hash(token[0]) for token in tokens]
         return token_hashes
     
-    def normalize_code(self, file_name, code_string, lang = 'python'):
+    def normalize_code(self, file_name, code_string, lang = 'python_3_13'):
         T1 = ANTLR_parse(file_name, code_string, lang)
         normalized_tree = Normalize(T1, lang)
         pruned_tree, pruned_count = PruneAndHash(normalized_tree, lang)
