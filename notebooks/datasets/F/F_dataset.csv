@@ -1,0 +1,114 @@
+File_1,File_2,Label,L0,L1,L2,L3,L4,L5,L6,Notes
+p1_binsearch_v1.py,p1_binsearch_v2.py,1,0,1,1,1,1,1,0,"Both read n, sorted array and target and print the index or -1; iterative while-loop binary search vs recursive binary search - same algorithm with a substituted control structure (L5)."
+p1_binsearch_v1.py,p1_binsearch_v3.py,1,0,1,1,1,1,1,0,"Same binary-search contract (n, array, target -> index or -1); plain function vs class wrapper with a found-flag loop and sys.stdin parsing - control structure substitution (L5)."
+p1_binsearch_v1.py,p1_binsearch_v4.py,1,0,1,1,1,1,0,0,"Identical binary-search task and I/O; both iterative with the same low/high bookkeeping, differing only in names, >> 1 midpoint and tuple-assignment reorganization (L4)."
+p1_binsearch_v2.py,p1_binsearch_v3.py,1,0,1,1,1,1,1,0,Same binary-search assignment; recursive function vs class-based iterative loop - equivalent control structures for the same halving algorithm (L5).
+p1_binsearch_v2.py,p1_binsearch_v4.py,1,0,1,1,1,1,1,0,Same binary-search contract; recursion vs while True iteration over the same interval-halving logic (L5).
+p1_binsearch_v3.py,p1_binsearch_v4.py,1,0,1,1,1,1,1,0,Same binary-search task; class with flag-controlled loop vs plain function with while True - class-vs-function and loop-form substitution (L5).
+p2_palindrome_v1.py,p2_palindrome_v2.py,1,0,1,1,1,1,1,1,Both read one line and print yes/no for alphanumeric-only case-insensitive palindrome; filter-and-reverse-compare vs in-place two-pointer skipping - substantively different technique (L6).
+p2_palindrome_v1.py,p2_palindrome_v3.py,1,0,1,1,1,1,1,0,Same palindrome yes/no contract; slice reversal comparison vs class that normalizes to a list and compares halves by index (L5).
+p2_palindrome_v1.py,p2_palindrome_v4.py,1,0,1,1,1,1,1,1,Same palindrome task; isalnum comprehension plus slice reversal vs regex stripping plus manual half-comparison while loop - different technique (L6).
+p2_palindrome_v2.py,p2_palindrome_v3.py,1,0,1,1,1,1,1,1,Same palindrome yes/no task; two-pointer skip-in-place vs normalize-then-compare in a class - genuinely different technique (L6).
+p2_palindrome_v2.py,p2_palindrome_v4.py,1,0,1,1,1,1,1,1,Same palindrome task; two-pointer scan over the raw string vs regex cleanup then indexed half comparison (L6).
+p2_palindrome_v3.py,p2_palindrome_v4.py,1,0,1,1,1,1,1,0,"Same palindrome task and same conceptual approach (normalize, compare halves); class with for-range vs script with regex and while loop (L5)."
+p3_gcd_v1.py,p3_gcd_v2.py,1,0,1,1,1,1,1,0,Both read two ints on one line and print the GCD; iterative Euclidean modulo loop vs the same recurrence written recursively (L5).
+p3_gcd_v1.py,p3_gcd_v3.py,1,0,1,1,1,1,1,0,Same GCD contract; module-level function with tuple swap vs class method with an explicit remainder temporary (L5).
+p3_gcd_v1.py,p3_gcd_v4.py,1,0,1,1,1,1,1,1,Same GCD contract; modulo-based Euclid vs subtraction-based Euclid with explicit zero handling - different algorithm variant (L6).
+p3_gcd_v2.py,p3_gcd_v3.py,1,0,1,1,1,1,1,0,Same GCD task; recursive Euclid vs class-based iterative Euclid (L5).
+p3_gcd_v2.py,p3_gcd_v4.py,1,0,1,1,1,1,1,1,Same GCD task; recursive modulo Euclid vs iterative repeated-subtraction Euclid (L6).
+p3_gcd_v3.py,p3_gcd_v4.py,1,0,1,1,1,1,1,1,Same GCD task; class-based modulo Euclid vs script-level subtraction Euclid with zero special cases (L6).
+p4_sieve_v1.py,p4_sieve_v2.py,1,0,1,1,1,1,1,1,Both read N and print all primes up to N space-separated; sieve of Eratosthenes vs per-candidate trial division - different algorithm (L6).
+p4_sieve_v1.py,p4_sieve_v3.py,1,0,1,1,1,1,1,0,Same primes-up-to-N contract; boolean-list sieve in a function vs set-of-marked sieve inside a class (L5).
+p4_sieve_v1.py,p4_sieve_v4.py,1,0,1,1,1,1,1,0,"Same primes-up-to-N contract; boolean list with for loops vs dict of flags with while loops - same sieve, substituted structures (L5)."
+p4_sieve_v2.py,p4_sieve_v3.py,1,0,1,1,1,1,1,1,Same primes listing task; trial division per candidate vs sieve marking multiples - different algorithm (L6).
+p4_sieve_v2.py,p4_sieve_v4.py,1,0,1,1,1,1,1,1,Same primes listing task; trial-division primality test vs dict-based sieve (L6).
+p4_sieve_v3.py,p4_sieve_v4.py,1,0,1,1,1,1,1,0,"Same primes listing task; both sieve by marking multiples, one with a set in a class, the other with a dict at module level (L5)."
+p5_reverselist_v1.py,p5_reverselist_v2.py,1,0,1,1,1,1,1,0,Both build a singly linked list from the input ints and print it reversed; iterative pointer reversal vs the same pointer reversal done recursively (L5).
+p5_reverselist_v1.py,p5_reverselist_v3.py,1,0,1,1,1,1,1,1,Same reverse-linked-list contract; in-place next-pointer reversal vs traversing into a stack and popping - different technique (L6).
+p5_reverselist_v1.py,p5_reverselist_v4.py,1,0,1,1,1,1,1,1,"Same input/output (ints in, reversed ints out); hand-rolled node class with pointer reversal vs deque.appendleft - clearly different technique (L6)."
+p5_reverselist_v2.py,p5_reverselist_v3.py,1,0,1,1,1,1,1,1,Same reverse-list task; recursive pointer reversal vs stack-based value collection (L6).
+p5_reverselist_v2.py,p5_reverselist_v4.py,1,0,1,1,1,1,1,1,Same reverse-list task; recursive linked-list reversal vs collections.deque appendleft (L6).
+p5_reverselist_v3.py,p5_reverselist_v4.py,1,0,1,1,1,1,1,1,Same reverse-list task; linked-list class traversed into a stack vs a deque built by prepending - different data structure and technique (L6).
+p6_bfs_v1.py,p6_bfs_v2.py,1,0,1,1,1,1,1,0,"Both read n/m, m undirected edges and a start/end pair, printing hop distance or -1; deque BFS with per-node distance vs level-by-level frontier-set BFS (L5)."
+p6_bfs_v1.py,p6_bfs_v3.py,1,0,1,1,1,1,1,0,Same shortest-path contract; deque-based BFS function vs Grafo class using a list plus read index as the queue (L5).
+p6_bfs_v1.py,p6_bfs_v4.py,1,0,1,1,1,1,1,1,Same shortest-path contract; plain BFS vs heapq Dijkstra with unit weights - a different standard algorithm for the same task (L6).
+p6_bfs_v2.py,p6_bfs_v3.py,1,0,1,1,1,1,1,0,Same shortest-path task; frontier-set level BFS vs class-based indexed-queue BFS (L5).
+p6_bfs_v2.py,p6_bfs_v4.py,1,0,1,1,1,1,1,1,Same shortest-path task; level-set BFS vs priority-queue Dijkstra (L6).
+p6_bfs_v3.py,p6_bfs_v4.py,1,0,1,1,1,1,1,1,Same shortest-path task; class BFS with a list queue vs heapq-based Dijkstra (L6).
+p7_mergelists_v1.py,p7_mergelists_v2.py,1,0,1,1,1,1,1,0,Both read two sorted lists and print the merged sorted sequence; iterative two-pointer merge vs the same merge written recursively with slicing (L5).
+p7_mergelists_v1.py,p7_mergelists_v3.py,1,0,1,1,1,1,1,1,Same merge contract; classic two-pointer merge vs concatenate-then-sort in a class - different technique (L6).
+p7_mergelists_v1.py,p7_mergelists_v4.py,1,0,1,1,1,1,1,1,Same merge contract; hand-written merge loop vs heapq.merge library call (L6).
+p7_mergelists_v2.py,p7_mergelists_v3.py,1,0,1,1,1,1,1,1,Same merge task; recursive merge vs concat plus list.sort (L6).
+p7_mergelists_v2.py,p7_mergelists_v4.py,1,0,1,1,1,1,1,1,Same merge task; recursive merge vs heapq.merge (L6).
+p7_mergelists_v3.py,p7_mergelists_v4.py,1,0,1,1,1,1,1,1,Same merge task; concatenate-and-sort vs heapq.merge streaming merge (L6).
+p8_vowels_v1.py,p8_vowels_v2.py,1,0,1,1,1,1,1,0,Both read a line and print the vowel and consonant counts; explicit for loop with counters vs two sum() generator expressions over a vowel set (L5).
+p8_vowels_v1.py,p8_vowels_v3.py,1,0,1,1,1,1,1,0,Same vowel/consonant counting contract; module-level for loop vs class with an index-driven while loop and instance counters (L5).
+p8_vowels_v1.py,p8_vowels_v4.py,1,0,1,1,1,1,1,1,Same counting task; membership test in a vowel string during a loop vs regex findall of letters plus a dict lookup - different technique (L6).
+p8_vowels_v2.py,p8_vowels_v3.py,1,0,1,1,1,1,1,0,Same counting task; comprehension-based sums vs class with a while loop and mutable counters (L5).
+p8_vowels_v2.py,p8_vowels_v4.py,1,0,1,1,1,1,1,1,Same counting task; set-membership comprehensions vs regex letter extraction with a dict-based vowel map (L6).
+p8_vowels_v3.py,p8_vowels_v4.py,1,0,1,1,1,1,1,1,Same counting task; class with isalpha while loop vs regex findall plus dict lookup (L6).
+p9_transpose_v1.py,p9_transpose_v2.py,1,0,1,1,1,1,1,1,Both read r/c then r rows and print the transposed matrix row per line; explicit nested index loops vs zip(*m) idiom - different technique (L6).
+p9_transpose_v1.py,p9_transpose_v3.py,1,0,1,1,1,1,1,0,Same transpose contract; nested for loops writing into a preallocated grid vs a class with nested while loops appending rows (L5).
+p9_transpose_v1.py,p9_transpose_v4.py,1,0,1,1,1,1,1,0,"Same transpose contract; list-of-lists with nested loops vs a dict keyed by (i,j) with the same nested traversal and joined output (L5)."
+p9_transpose_v2.py,p9_transpose_v3.py,1,0,1,1,1,1,1,1,Same transpose task; zip(*m) one-liner vs class with manual nested while loops (L6).
+p9_transpose_v2.py,p9_transpose_v4.py,1,0,1,1,1,1,1,1,Same transpose task; zip-based transposition vs coordinate-dict manual traversal (L6).
+p9_transpose_v3.py,p9_transpose_v4.py,1,0,1,1,1,1,1,0,"Same transpose task; both do manual column-major traversal, one in a class over lists, the other over a coordinate dict (L5)."
+p2_palindrome_v4.py,p1_binsearch_v2.py,0,0,0,0,0,0,0,0,Different programming assignment; unrelated implementations.
+p5_reverselist_v2.py,p4_sieve_v4.py,0,0,0,0,0,0,0,0,Different programming assignment; unrelated implementations.
+p4_sieve_v3.py,p3_gcd_v1.py,0,0,0,0,0,0,0,0,Different programming assignment; unrelated implementations.
+p2_palindrome_v3.py,p9_transpose_v3.py,0,0,0,0,0,0,0,0,Different programming assignment; unrelated implementations.
+p2_palindrome_v2.py,p7_mergelists_v4.py,0,0,0,0,0,0,0,0,Different programming assignment; unrelated implementations.
+p2_palindrome_v2.py,p4_sieve_v2.py,0,0,0,0,0,0,0,0,Different programming assignment; unrelated implementations.
+p4_sieve_v3.py,p9_transpose_v1.py,0,0,0,0,0,0,0,0,Different programming assignment; unrelated implementations.
+p1_binsearch_v2.py,p9_transpose_v4.py,0,0,0,0,0,0,0,0,Different programming assignment; unrelated implementations.
+p4_sieve_v1.py,p9_transpose_v3.py,0,0,0,0,0,0,0,0,Different programming assignment; unrelated implementations.
+p7_mergelists_v3.py,p4_sieve_v3.py,0,0,0,0,0,0,0,0,Different programming assignment; unrelated implementations.
+p8_vowels_v1.py,p5_reverselist_v2.py,0,0,0,0,0,0,0,0,Different programming assignment; unrelated implementations.
+p1_binsearch_v1.py,p3_gcd_v3.py,0,0,0,0,0,0,0,0,Different programming assignment; unrelated implementations.
+p7_mergelists_v4.py,p6_bfs_v2.py,0,0,0,0,0,0,0,0,Different programming assignment; unrelated implementations.
+p5_reverselist_v2.py,p3_gcd_v2.py,0,0,0,0,0,0,0,0,Different programming assignment; unrelated implementations.
+p4_sieve_v2.py,p6_bfs_v2.py,0,0,0,0,0,0,0,0,Different programming assignment; unrelated implementations.
+p7_mergelists_v1.py,p2_palindrome_v3.py,0,0,0,0,0,0,0,0,Different programming assignment; unrelated implementations.
+p6_bfs_v3.py,p5_reverselist_v1.py,0,0,0,0,0,0,0,0,Different programming assignment; unrelated implementations.
+p1_binsearch_v3.py,p8_vowels_v2.py,0,0,0,0,0,0,0,0,Different programming assignment; unrelated implementations.
+p9_transpose_v3.py,p2_palindrome_v4.py,0,0,0,0,0,0,0,0,Different programming assignment; unrelated implementations.
+p7_mergelists_v1.py,p2_palindrome_v2.py,0,0,0,0,0,0,0,0,Different programming assignment; unrelated implementations.
+p9_transpose_v4.py,p5_reverselist_v3.py,0,0,0,0,0,0,0,0,Different programming assignment; unrelated implementations.
+p6_bfs_v4.py,p4_sieve_v1.py,0,0,0,0,0,0,0,0,Different programming assignment; unrelated implementations.
+p2_palindrome_v1.py,p1_binsearch_v3.py,0,0,0,0,0,0,0,0,Different programming assignment; unrelated implementations.
+p4_sieve_v3.py,p5_reverselist_v3.py,0,0,0,0,0,0,0,0,Different programming assignment; unrelated implementations.
+p5_reverselist_v2.py,p8_vowels_v2.py,0,0,0,0,0,0,0,0,Different programming assignment; unrelated implementations.
+p6_bfs_v4.py,p3_gcd_v3.py,0,0,0,0,0,0,0,0,Different programming assignment; unrelated implementations.
+p2_palindrome_v1.py,p3_gcd_v3.py,0,0,0,0,0,0,0,0,Different programming assignment; unrelated implementations.
+p9_transpose_v3.py,p4_sieve_v4.py,0,0,0,0,0,0,0,0,Different programming assignment; unrelated implementations.
+p3_gcd_v3.py,p8_vowels_v2.py,0,0,0,0,0,0,0,0,Different programming assignment; unrelated implementations.
+p6_bfs_v1.py,p1_binsearch_v4.py,0,0,0,0,0,0,0,0,Different programming assignment; unrelated implementations.
+p6_bfs_v1.py,p7_mergelists_v2.py,0,0,0,0,0,0,0,0,Different programming assignment; unrelated implementations.
+p4_sieve_v2.py,p6_bfs_v1.py,0,0,0,0,0,0,0,0,Different programming assignment; unrelated implementations.
+p4_sieve_v2.py,p8_vowels_v4.py,0,0,0,0,0,0,0,0,Different programming assignment; unrelated implementations.
+p7_mergelists_v2.py,p8_vowels_v2.py,0,0,0,0,0,0,0,0,Different programming assignment; unrelated implementations.
+p3_gcd_v2.py,p5_reverselist_v1.py,0,0,0,0,0,0,0,0,Different programming assignment; unrelated implementations.
+p3_gcd_v1.py,p4_sieve_v4.py,0,0,0,0,0,0,0,0,Different programming assignment; unrelated implementations.
+p5_reverselist_v1.py,p7_mergelists_v4.py,0,0,0,0,0,0,0,0,Different programming assignment; unrelated implementations.
+p7_mergelists_v2.py,p6_bfs_v4.py,0,0,0,0,0,0,0,0,Different programming assignment; unrelated implementations.
+p9_transpose_v1.py,p8_vowels_v4.py,0,0,0,0,0,0,0,0,Different programming assignment; unrelated implementations.
+p2_palindrome_v2.py,p1_binsearch_v4.py,0,0,0,0,0,0,0,0,Different programming assignment; unrelated implementations.
+p2_palindrome_v4.py,p3_gcd_v2.py,0,0,0,0,0,0,0,0,Different programming assignment; unrelated implementations.
+p2_palindrome_v1.py,p7_mergelists_v1.py,0,0,0,0,0,0,0,0,Different programming assignment; unrelated implementations.
+p9_transpose_v2.py,p5_reverselist_v1.py,0,0,0,0,0,0,0,0,Different programming assignment; unrelated implementations.
+p9_transpose_v4.py,p1_binsearch_v1.py,0,0,0,0,0,0,0,0,Different programming assignment; unrelated implementations.
+p2_palindrome_v4.py,p5_reverselist_v3.py,0,0,0,0,0,0,0,0,Different programming assignment; unrelated implementations.
+p3_gcd_v4.py,p9_transpose_v1.py,0,0,0,0,0,0,0,0,Different programming assignment; unrelated implementations.
+p2_palindrome_v3.py,p5_reverselist_v4.py,0,0,0,0,0,0,0,0,Different programming assignment; unrelated implementations.
+p9_transpose_v1.py,p4_sieve_v1.py,0,0,0,0,0,0,0,0,Different programming assignment; unrelated implementations.
+p3_gcd_v2.py,p6_bfs_v4.py,0,0,0,0,0,0,0,0,Different programming assignment; unrelated implementations.
+p9_transpose_v2.py,p1_binsearch_v1.py,0,0,0,0,0,0,0,0,Different programming assignment; unrelated implementations.
+p6_bfs_v1.py,p8_vowels_v4.py,0,0,0,0,0,0,0,0,Different programming assignment; unrelated implementations.
+p4_sieve_v4.py,p1_binsearch_v4.py,0,0,0,0,0,0,0,0,Different programming assignment; unrelated implementations.
+p3_gcd_v1.py,p8_vowels_v3.py,0,0,0,0,0,0,0,0,Different programming assignment; unrelated implementations.
+p5_reverselist_v4.py,p7_mergelists_v2.py,0,0,0,0,0,0,0,0,Different programming assignment; unrelated implementations.
+p9_transpose_v2.py,p8_vowels_v1.py,0,0,0,0,0,0,0,0,Different programming assignment; unrelated implementations.
+p6_bfs_v2.py,p1_binsearch_v2.py,0,0,0,0,0,0,0,0,Different programming assignment; unrelated implementations.
+p2_palindrome_v1.py,p1_binsearch_v4.py,0,0,0,0,0,0,0,0,Different programming assignment; unrelated implementations.
+p1_binsearch_v3.py,p6_bfs_v2.py,0,0,0,0,0,0,0,0,Different programming assignment; unrelated implementations.
+p8_vowels_v3.py,p7_mergelists_v3.py,0,0,0,0,0,0,0,0,Different programming assignment; unrelated implementations.

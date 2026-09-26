@@ -21,7 +21,7 @@ import argparse
 import csv
 import os
 
-DATASETS = ["A", "B", "C", "D", "E"]
+DATASETS = ["A", "B", "C", "D", "E", "F"]
 HERE = os.path.dirname(os.path.abspath(__file__))
 DATASETS_DIR = os.path.join(HERE, "..", "datasets")
 OUT_DIR = os.path.join(HERE, "validated_datasets")
