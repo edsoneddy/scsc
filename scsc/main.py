@@ -10,7 +10,7 @@ def main():
         --path, -p (str): Path to the directory containing the source code files.
         --files, -f (str, nargs=2): The input two files to compare.
         --recursive, -r (bool): Recursively search through directories.
-        --threshold, -t (float): The similarity threshold (default: 0.75, range: 0.0 - 1.0).
+        --threshold, -t (float): The similarity threshold (default: 0.85, range: 0.0 - 1.0).
         --method, -m (str): The method to use for similarity detection (default: ted). Pass 'all' to run every supported method.
     Returns:
         None
@@ -31,7 +31,7 @@ def main():
     parser.add_argument('--recursive', '-r', action='store_true', help='Recursively search through directories')
 
     # Add the 'threshold' argument with range validation (0.0 - 1.0)
-    parser.add_argument('--threshold', '-t', type=get_threshold, default=0.75, help='The similarity threshold (default: 0.75, range: 0.0 - 1.0)')
+    parser.add_argument('--threshold', '-t', type=get_threshold, default=0.85, help='The similarity threshold (default: 0.85, range: 0.0 - 1.0)')
     
     # Add the 'method' argument
     parser.add_argument('--method', '-m', type=str, choices=SUPPORTED_METHODS + ['all'], default='ted', help="The method to use for similarity detection (default: ted). Use 'all' to run every method")
