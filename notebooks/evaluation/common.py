@@ -30,10 +30,10 @@ METHODS = ["ted", "mdiff", "lf", "gst", "trs", "csim"]
 
 
 def pairs_csv(letter):
-    """Pair file that is scored. A is scored on ALL its pairs (positives plus
-    every cross-problem negative); the balanced sample used for the F1 is a
-    subset of it (A_dataset_validated.csv) and is selected in evaluation.ipynb."""
-    name = "A_full_dataset_validated.csv" if letter == "A" else f"{letter}_dataset_validated.csv"
+    """Pair file that is scored. A and F are scored on ALL their pairs (positives plus
+    every cross-problem negative); the balanced sample used for the F1 is a subset of it
+    (A_dataset_validated.csv / F_dataset_validated.csv) and is selected in evaluation.ipynb."""
+    name = f"{letter}_full_dataset_validated.csv" if letter in ("A", "F") else f"{letter}_dataset_validated.csv"
     return os.path.join(VALIDATED_DIR, name)
 
 
