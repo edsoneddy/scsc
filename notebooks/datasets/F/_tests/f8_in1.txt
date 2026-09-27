@@ -1,0 +1,7 @@
+6
+deposit 100
+withdraw 30
+balance
+withdraw 500
+deposit -5
+fly 1

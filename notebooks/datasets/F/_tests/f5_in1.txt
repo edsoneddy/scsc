@@ -1,0 +1,7 @@
+listen
+silent
+enlist
+abc
+cab
+xyz
+END

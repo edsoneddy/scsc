@@ -1,0 +1,5 @@
+4
+deposit 50
+deposit 60
+balance
+withdraw 10
